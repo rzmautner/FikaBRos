@@ -1,0 +1,1092 @@
+place_id,name,category,street,district,city,lat,lon,accessible,unisex,changing_table,opening_hours,n_reports,source
+osm_node_3939393020,BAK,bakery,Söndagsvägen 3,Farsta,Stockholm,59.259185,18.095551,,,,Mo-Fr 07:00-18:00; Sa-Su 08:00-17:00,1,osm
+osm_node_9285548278,Bagar'n,bakery,,,Stockholm,59.315759,18.034086,,,,Mo-Fr 06:00-19:00; Sa 08:00-17:00; Su closed,1,osm
+osm_node_6185619635,Bageri & Konditori,bakery,,,Stockholm,59.30069,18.012589,,,,"Mo-Th 07:00-16:00, Fr 07:00-15:00, Sa 09:00-15:00",1,osm
+osm_node_473586114,Bageri Norrmalm,bakery,,,Stockholm,59.336447,18.05825,,,,Mo-Fr 06:30-16:00;Sa-Su off,1,osm
+osm_node_13365634805,Bageri Pomona,bakery,,,Stockholm,59.317915,18.031976,,,,Mo-Tu closed; We-Th 10:00-16:00; Fr 10:00-18:00; Sa 10:00-16:00; Su closed,1,osm
+osm_node_1735712246,Banérbageriet,bakery,,,Stockholm,59.336153,18.093764,,,,Mo-Fr 07:00-18:00; Sa 08:00-14:00; Su closed,1,osm
+osm_node_449795371,Bergstrands Bageri,bakery,Frejgatan 46A,,Stockholm,59.344317,18.044841,,,,Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 08:00-16:00,1,osm
+osm_node_567173644,Billströms,bakery,,,Stockholm,59.276716,17.907779,True,,,,1,osm
+osm_node_7223067425,Bollos Bakery,bakery,,,Stockholm,59.341022,18.033173,,,,,1,osm
+osm_node_4073144538,Bonne Femme,bakery,Malmövägen,,Stockholm,59.294303,18.109396,,,,"Mo-Fr 07:00-19:00; Sa,Su 08:00-18:00",1,osm
+osm_node_9331944545,Bonne Femme,bakery,,,Stockholm,59.305761,18.031477,,,,"Mo-Fr 07:00-17:00; Sa,Su 08:00-17:00",1,osm
+osm_node_12016529953,Bonne Femme,bakery,Spikskogatan 2,Älvsjö,Stockholm,59.280631,18.007296,,,,Mo-Fr 07:00-18:00; Sa-Su 08:00-18:00,1,osm
+osm_node_13326044077,Bonne Femme,bakery,,,Stockholm,59.335913,18.025543,,,,,1,osm
+osm_node_2571793104,Brioche,bakery,,,Stockholm,59.332924,17.98201,,,,,1,osm
+osm_node_1518434575,Brot,bakery,,,Stockholm,59.344334,18.057555,,,,Mo-Fr 07:00-18:00; Sa 08:00-16:00; Su 08:00-16:00,1,osm
+osm_node_5249082483,Brot,bakery,,,Stockholm,59.307727,18.02834,True,,,Mo-Fr 07:00-18:00; Sa-Su 08:00-17:00,1,osm
+osm_node_778311560,Brunkebergs Bageri,bakery,,,Stockholm,59.339543,18.047436,,,,Mo-Fr 07:00-17:00; Sa-Su 08:00-16:00,1,osm
+osm_node_12015128774,Brunkebergs bageri & bistro,bakery,,,Stockholm,59.339763,18.066978,,,,,1,osm
+osm_node_706164194,Bröd & Salt,bakery,,,Stockholm,59.337468,18.009097,,,,"Mo-Fr 07:00-18:00; Sa,Su 08:00-17:00",1,osm
+osm_node_1154163024,Bröd & Salt,bakery,,,Stockholm,59.303756,18.094978,True,,,Mo-Fr 07:00-18:00; Sa-Su 08:00-17:00,1,osm
+osm_node_2163836012,Bröd & Salt,bakery,,,Stockholm,59.34025,18.034599,,,,Mo-Fr 07:00-19:00;Sa 08:00-16:00;Su 09:00-15:00,1,osm
+osm_node_2420180749,Bröd & Salt,bakery,,,Stockholm,59.339703,18.05921,,,,Mo-Fr 07:00-18:00; Sa-Su 09:00-17:00; PH closed,1,osm
+osm_node_2467341275,Bröd & Salt,bakery,,,Stockholm,59.340434,18.059307,,,,Mo-Fr 07:00-19:00; Sa-Su 08:00-18:00,1,osm
+osm_node_4051463289,Bröd & Salt,bakery,,,Stockholm,59.330268,18.065174,True,,,"Mo-Fr 07:00-19:00; Sa,Su 08:00-19:00",1,osm
+osm_node_5009869721,Bröd & Salt,bakery,Skeppsbron,,Stockholm,59.322973,18.075359,True,,,,1,osm
+osm_node_5128799397,Bröd & Salt,bakery,,,Stockholm,59.322834,18.072869,True,,,Mo-Fr 07:30-19:00; Sa-Su 09:00-19:00,1,osm
+osm_node_7010915776,Bröd & Salt,bakery,,,Stockholm,59.331466,18.056354,,,,,1,osm
+osm_node_7103307624,Bröd & Salt,bakery,,,Stockholm,59.339833,18.037171,True,,,Mo-Fr 07:00-20:00; Sa-Su 08:00-19:00; PH closed,1,osm
+osm_node_9850655944,Bröd & Salt,bakery,,,Stockholm,59.336244,18.071126,True,,,Mo-Fr 06:30-19:15; Sa-Su 08:00-19:00,1,osm
+osm_node_12539019803,Bröd & Salt,bakery,,,Stockholm,59.336297,18.076909,,,,Mo-Fr 07:00-19:00; Sa-Su 08:00-18:00,1,osm
+osm_node_13357801369,Bröd & Salt,bakery,,,Stockholm,59.339403,18.08058,,,,Mo-Fr 07:00-19:00; Sa-Su 08:00-19:00,1,osm
+osm_node_13372995795,Bröd & Salt,bakery,,,Stockholm,59.312335,18.057691,,,,Mo-Fr 07:00-18:00; Sa-Su 08:00-19:00,1,osm
+osm_node_12009158515,BullBon,bakery,,,Stockholm,59.256988,18.027046,,,,,1,osm
+osm_node_7861674697,Cafe Josephine Baker,bakery,Kassörsgränd 20,,Stockholm,59.293216,18.059819,,,,"Mo-Fr 07:00-18:00; Sa 08:00-16:00; PH,Su 08:00-16:00",1,osm
+osm_node_7089552074,Cinabon,bakery,,,Stockholm,59.403212,17.944384,,,,,1,osm
+osm_node_2786032153,Dimas,bakery,Rågsvedstorget 2,,Stockholm,59.256837,18.027089,,,,Mo-Su 09:00-21:00,1,osm
+osm_node_7271857998,Dog Bakery,bakery,,,Stockholm,59.340349,18.04008,,,,Tu-Fr 11:00-19:00; Sa-Su 12:00-19:00; PH closed,1,osm
+osm_node_13522213601,Dåndimpen,bakery,Fiskhallsvägen 8,,Stockholm,59.292264,18.030172,,,,Tu-Fr 09:00-13:00,1,osm
+osm_node_312842042,Fabrique,bakery,,,Stockholm,59.329077,18.043427,,,,"Mo-Fr 07:00-18:00; Sa,Su 08:00-17:00",1,osm
+osm_node_661084628,Fabrique,bakery,,,Stockholm,59.33426,18.033109,,,,"Mo-Fr 07:00-19:00; Sa,Su 08:00-17:00",1,osm
+osm_node_666042101,Fabrique,bakery,,,Stockholm,59.315784,18.034311,,,,Mo-Fr 07:30-18:00; Sa-Su 08:00-16:00,1,osm
+osm_node_1144620909,Fabrique,bakery,,,Stockholm,59.315837,18.055959,,,,Mo-Fr 07:30-18:00; Sa-Su 08:00-17:00,1,osm
+osm_node_1246189037,Fabrique,bakery,,,Stockholm,59.318442,18.071013,False,,,Mo-Fr 07:30-18:30; Sa-Su 09:00-17:00,1,osm
+osm_node_1346751913,Fabrique,bakery,,,Stockholm,59.333976,18.076984,,,,Mo-Fr 07:30-18:00; Sa-Su 08:00-17:00,1,osm
+osm_node_1432188790,Fabrique,bakery,,,Stockholm,59.338175,18.0573,False,,,Mo-Fr 07:30-18:00; Sa 08:00-16:00; Su 10:00-16:00,1,osm
+osm_node_1984216192,Fabrique,bakery,,,Stockholm,59.344634,18.057351,,,,Mo-Fr 07:30-18:00; Sa-Su 08:00-17:00,1,osm
+osm_node_2447537977,Fabrique,bakery,,,Stockholm,59.336344,18.062429,,,,"Mo-Fr 07:00-18:00; Sa,Su 09:00-17:00",1,osm
+osm_node_2576206534,Fabrique,bakery,,,Stockholm,59.342323,18.049375,,,,Mo-Fr 07:30-18:30; Sa-Su 08:00-16:00,1,osm
+osm_node_3572790698,Fabrique,bakery,,,Stockholm,59.310329,18.074915,False,,,"Mo-Fr 07:30-19:00; Sa,Su 09:00-17:00",1,osm
+osm_node_4020607808,Fabrique,bakery,,,Stockholm,59.323631,18.068616,,,,Mo-Fr 07:30-18:00; Sa-Su 09:00-17:00,1,osm
+osm_node_5843923173,Fabrique,bakery,,,Stockholm,59.33637,18.07667,,,,Mo-Fr 07:00-19:00; Sa-Su 08:00-17:00,1,osm
+osm_node_6859058724,Fabrique,bakery,,,Stockholm,59.330239,18.05874,True,,,"Mo-Fr 06:00-20:00; Sa,Su 08:00-18:00",1,osm
+osm_node_7271858020,Fabrique,bakery,,,Stockholm,59.340199,18.039449,,,,Mo-Fr 07:30-18:00; Sa-Su 08:00-17:00,1,osm
+osm_node_11238019437,Fabrique,bakery,,,Stockholm,59.331734,18.059707,,,,"Mo-Fr 07:00-19:00; Sa,Su 08:00-18:00",1,osm
+osm_node_12525838195,Fabrique,bakery,,,Stockholm,59.33481,18.061058,,,,"Mo-Fr 07:30-18:30; Sa,Su 10:00-16:00",1,osm
+osm_node_12525871101,Fabrique,bakery,,,Stockholm,59.333562,18.056982,,,,Mo-Fr 07:00-18:00; Sa 10:00-16:00; Su off,1,osm
+osm_node_9466083761,Ferm,bakery,Grundtvigsgatan 27b,Bromma,Stockholm,59.34532,17.886743,,,,Sa 09:30-14:00,1,osm
+osm_node_2352376058,Fru Marias Bak,bakery,Svartlösavägen 77,Älvsjö,Stockholm,59.28112,17.986164,,,,Mo-Fr 07:00-17:00; Sa 08:00-17:00; Su 09:00-17:00,1,osm
+osm_node_719637799,Gateau,bakery,Enskedevägen 85,Enskede,Stockholm,59.28367,18.07316,,,,Mo-Fr 07:30-18:30; Sa 08:00-17:00,1,osm
+osm_node_2583977850,Gateau,bakery,,,Stockholm,59.341299,18.048296,,,,Mo-Fr 07:00-18:00; Sa-Su 07:30-18:00,1,osm
+osm_node_2712381010,Gateau,bakery,,,Stockholm,59.330472,18.057057,True,,,Mo-Fr 06:30-18:00,1,osm
+osm_node_4512076605,Gateau,bakery,Västerled 8,,Stockholm,59.32884,17.972442,,,,,1,osm
+osm_node_6859058723,Gateau,bakery,,,Stockholm,59.33025,18.058546,True,,,Mo-Su 06:00-20:00,1,osm
+osm_node_12578670514,Gateau,bakery,,,Stockholm,59.336179,18.074122,,,,Mo-Fr 07:00-19:00; Sa 09:00-18:00; Su 10:00-18:00,1,osm
+osm_node_12112058729,Glossy Cakes,bakery,,,Stockholm,59.332266,18.008244,,,,,1,osm
+osm_node_1467953289,Green Rabbit,bakery,,,Stockholm,59.34007,18.062347,,,,Mo-Th 07:30-15:00; Fr 07:30-16:00; Sa 09:00-16:00,1,osm
+osm_node_11422931836,Gullegårdens glutenfria bageri,bakery,,,Stockholm,59.345495,18.096837,,,,Mo closed; Tu-Fr 08:00-18:00; Sa 09:00-16:00; Su closed,1,osm
+osm_node_552514090,Gunnarssons konditori,bakery,,,Stockholm,59.309939,18.075102,True,,,Mo-Fr 07:00-20:00; Sa 07:30-18:00; Su 10:00-18:00,1,osm
+osm_node_640304816,Haga,bakery,,,Stockholm,59.317091,18.063207,False,,,Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su off,1,osm
+osm_node_4198640989,Haga tårtcompani & bageri,bakery,,,Stockholm,59.334937,18.027878,,,,Mo-Fr 07:00-18:00; Sa 08:00-16:30; Su off,1,osm
+osm_node_5779722240,Haga tårtcompani & bageri,bakery,Hammarby Allé 1,,Stockholm,59.302839,18.080776,,,,Mo-Fr 07:00-19:00; Sa 07:30-16:00; Su off,1,osm
+osm_node_12045664465,Hantverksbageriet,bakery,,,Stockholm,59.359309,18.09307,,,,"Mo-Fr 08:00-17:00; Sa,Su 08:00-15:00",1,osm
+osm_node_12163401910,Kea Bageri,bakery,,,Stockholm,59.32807,17.935964,,,,,1,osm
+osm_node_729911176,Konditori Santa Fé,bakery,Söderarmsvägen 1,,Stockholm,59.287207,18.10894,,,,Mo-Fr 07:00-17:00; Sa 09:00-16:00; Su 10:00-15:00,1,osm
+osm_node_778311113,La Bonne Femme,bakery,,,Stockholm,59.345547,18.039381,False,,,Mo-Fr 06:30-17:30,1,osm
+osm_node_13063344779,La Frabrique,bakery,,,Stockholm,59.322275,18.101806,,,,,1,osm
+osm_node_2045175521,Le Violon Dingue,bakery,,,Stockholm,59.336298,18.061394,False,,,Mo-Fr 07:00-16:00; Sa 10:00-16:00; Su off,1,osm
+osm_node_683449712,Les petits boudins,bakery,,,Stockholm,59.335782,18.031897,False,,,Mo-Fr 07:00-19:00; Sa 08:00-17:00; Su off,1,osm
+osm_node_9691380093,Lilla B,bakery,Svartågatan 4,,Stockholm,59.276253,18.131791,,,,Mo-Su 08:00-16:00,1,osm
+osm_node_471851902,Liselotte Hembageri,bakery,,,Stockholm,59.341997,18.051672,,,,Mo-Th 07:00-17:00; Fr 07:00-17:00; Sa 09:00-15:00,1,osm
+osm_node_722557041,Lundins,bakery,,,Stockholm,59.293242,17.967654,,,,,1,osm
+osm_node_5758650423,Magnus Johanssons,bakery,,,Stockholm,59.302011,18.102188,,,,"Mo-Fr 07:00-18:00; Sa,Su 08:00-17:00",1,osm
+osm_node_12693239115,Malvas glutenfria hantverksbageri,bakery,,,Stockholm,59.34067,18.032453,,,,Th-Fr 10:00-17:00; Sa 10:00-16:00,1,osm
+osm_node_8405383746,Nice Bageri,bakery,Långseleringen 3,Vällingby,Stockholm,59.359368,17.886806,,,,Tu-Sa 09:00-19:00,1,osm
+osm_node_1675164936,Riddarbageriet,bakery,,,Stockholm,59.333616,18.081233,,,,Mo-Fr 07:30-15:00,1,osm
+osm_node_7132659434,Ritorno,bakery,,,Stockholm,59.345024,18.042127,,,,Mo-Th 07:00-18:00; Fr 07:00-17:00; Sa 08:00-16:00; Su 09:00-16:00,1,osm
+osm_node_5691289619,Robin Delselius Bageri,bakery,,,Stockholm,59.315109,18.0842,,,,Mo-Fr 07:00-18:30; Sa-Su 07:00-17:00,1,osm
+osm_node_502969206,S:T Paul Bageri,bakery,,,Stockholm,59.316454,18.072031,,,True,Mo-Fr 07:00-19:00; Sa-Su 08:00-18:00,1,osm
+osm_node_10093317829,S:t Paul bageri,bakery,,,Stockholm,59.337171,18.057987,,,,Mo-Fr 07:00-19:00; Sa-Su 08:00-18:00,1,osm
+osm_node_12161355401,Sauerbee,bakery,,,Stockholm,59.342767,18.117227,,,,,1,osm
+osm_node_3951697030,Skansens bageri,bakery,,,Stockholm,59.325795,18.10055,,,,,1,osm
+osm_node_5139444477,Skeppsbro bageri,bakery,Skeppsbron 21,,Stockholm,59.324855,18.076142,True,,,Mo-Fr 07:00-18:00; Sa-Su 08:00-18:00,1,osm
+osm_way_1362869147,Skeppsbro bageri,bakery,,,Stockholm,59.33858,17.938679,,,,"Mo,Sa-Su 08:00-16:00; Tu-Fr 07:00-19:00",1,osm
+osm_node_3071561806,Sköndals Konditori,bakery,Spritsvägen 7,,Stockholm,59.256448,18.106531,,,,Mo-Fr 08:00-17:00; Sa 08:00-16:00; Su 09:00-16:00,1,osm
+osm_node_7903386067,Spigamadre,bakery,,,Stockholm,59.299067,18.071711,,,,"Mo,Tu 08:00-17:00; We,Th 08:00-16:30; Fr 08:00-17:30; Sa 08:00-16:30; Su 09:00-16:30",1,osm
+osm_node_6017784727,Stenungsbageri,bakery,,,Stockholm,59.298298,18.079138,True,,,Mo-Fr 07:00-19:00; Sa 08:00-18:00,1,osm
+osm_node_2129439288,Stora Bageriet,bakery,Sankt Eriksgatan 88,,Stockholm,59.341436,18.038129,True,,,Mo-Fr 07:30-17:00; Sa-Su 08:00-17:00,1,osm
+osm_node_7127961006,Stora Skuggans Bageri,bakery,,,Stockholm,59.346107,18.043631,,,,,1,osm
+osm_node_1177113915,Storgatans café & bageri,bakery,,,Stockholm,59.334567,18.086491,,,,Mo-Fr 06:30-17:00; Sa 08:00-16:00; Su 09:00-16:00,1,osm
+osm_node_12014494440,Surådeg,bakery,,,Stockholm,59.242509,18.092733,,,,,1,osm
+osm_node_1972892274,Svedjan Bageri,bakery,,,Stockholm,59.317837,18.049864,,,,Mo-Fr 07:30-18:00; Sa-Su 09:00-16:00,1,osm
+osm_node_13836755973,Svedjan Bageri,bakery,,,Stockholm,59.308455,18.089721,,,,,1,osm
+osm_node_681710318,Säsong Bageri,bakery,,,Stockholm,59.328732,18.033742,,,,We-Fr 08:00-14:30; Sa 08:00-14:30; Su 08:00-14:00; Mo-Tu off,1,osm
+osm_node_12025350050,Söderbergs Bageri,bakery,Cedergrensvägen 55,Hägersten,Stockholm,59.300259,17.996565,False,,,Tu-Sa 07:00-18:00; Sa-Su 08:00-16:00,1,osm
+osm_node_12025361080,Söderbergs Bageri Telefabriken,bakery,Tellusgången 9,Hägersten,Stockholm,59.298875,17.991934,True,,,Mo-Fr 07:00-17:00; Sa-Su 08:00-15:00,1,osm
+osm_node_1111632093,Söderbergs bageri,bakery,Cedergrensvägen 55,Hägersten,Stockholm,59.300307,17.996752,,,,,1,osm
+osm_node_3005672396,Thelins,bakery,,,Stockholm,59.339691,18.090862,True,,,Mo-Fr 07:00-20:00; Sa-Su 08:00-18:00,1,osm
+osm_node_4639800678,Thelins take-away,bakery,,,Stockholm,59.340117,18.090609,True,,,,1,osm
+osm_node_884569874,Tidermans bagarbod,bakery,,,Stockholm,59.293536,18.031609,,,,Mo-Fr 04:00-14:00; Sa 06:00-12:00,1,osm
+osm_node_11174532937,Två systrars bageri,bakery,,,Stockholm,59.337963,18.067112,,,,Mo-Fr 07:30-16:00; Sa 09:00-16:00,1,osm
+osm_node_1488609361,Tysta Mari,bakery,,,Stockholm,59.335937,18.077883,,,,Mo-Tu 09:30-19:00; We-Sa 09:30-22:00,1,osm
+osm_node_899377731,Tösse,bakery,,,Stockholm,59.33903,18.084629,,,,Mo-Fr 07:00-18:00; Sa-Su 09:00-17:00,1,osm
+osm_node_1096582660,Valhallabageriet,bakery,,,Stockholm,59.338889,18.097226,,,,Mo-Fr 07:00-18:00; Sa 08:00-15:00; Su 09:00-15:00,1,osm
+osm_node_1743438837,Valhallabageriet,bakery,,,Stockholm,59.33946,18.088181,,,,Mo-Fr 08:00-18:00; Sa 08:00-15:00,1,osm
+osm_node_13943354810,Valhallabageriet,bakery,,,Stockholm,59.345964,18.064026,,,,,1,osm
+osm_node_6859092792,Vete-Katten,bakery,,,Stockholm,59.330748,18.057609,True,,,"Mo-Fr 06:00-20:00; Sa,Su 07:00-19:00",1,osm
+osm_node_5190016595,Vivells,bakery,Ranhammarsvägen 24,,Stockholm,59.351409,17.959377,,,,Mo-Fr 06:00-17:00; Sa 08:00-15:00,1,osm
+osm_node_434473552,Vivels bageri,bakery,,,Stockholm,59.302731,18.104041,,,,,1,osm
+osm_node_6712902874,Yassili Konditori & Brageri,bakery,,,Stockholm,59.409412,17.92655,,,,,1,osm
+osm_node_768871132,ett bageri,bakery,,,Stockholm,59.343888,18.086884,,,,Mo-Fr 07:00-18:00; Sa 08:00-13:00; Su closed,1,osm
+osm_node_332787966,Älvsjö Konditori & Bageri,bakery,Johan Skyttes Väg 204,Älvsjö,Stockholm,59.277922,18.005505,,,,Mo-Fr 07:00-18:00; Sa 08:00-15:00,1,osm
+osm_node_6635177776,Örnsbergs Bageri och Konditori,bakery,,,Stockholm,59.306537,17.988623,,,,"Mo-Fr 07:00-17:30; Sa,Su 09:00-16:30",1,osm
+osm_node_10755867097,18ctea,cafe,,,Stockholm,59.323751,18.069217,,,,,1,osm
+osm_node_7639956886,A.B.Café,cafe,Valborgsmässovägen 34,Hägersten,Stockholm,59.299593,17.998632,,,,Mo-Su 10:00-16:00,1,osm
+osm_node_12860554880,A.C. Perch's Thehandel,cafe,,,Stockholm,59.334778,18.077621,,,,Mo-Fr 10:00-18:00; Sa 10:00-17:00,1,osm
+osm_node_10173511956,AM Store,cafe,,,Stockholm,59.332433,18.063734,,,,Mo-Fr 07:00-21:00; Sa 09:00-20:00; Su 10:00-19:00,1,osm
+osm_node_10977062084,Accelerator café,cafe,,,Stockholm,59.365999,18.056228,,,,"Mo off; Tu,Th-Fr 11:00-17:00; We 11:00-20:00; Sa-Su 12:00-16:00",1,osm
+osm_node_11542904187,Adam’s Café & Konditori,cafe,,,Stockholm,59.268164,18.128064,,,,"Mo-Fr 07:00-18:00; Sa,Su 09:00-18:00",1,osm
+osm_node_3438796274,Akalla By Kafé,cafe,,Kista,Stockholm,59.412396,17.913324,True,,,Mo-Fr 10:00-17:00; Sa-Su 10:00-16:00,1,osm
+osm_node_503896758,Ankis café,cafe,,,Stockholm,59.279493,18.049703,,,,Mo-Fr 08:00-15:00,1,osm
+osm_node_724466767,Annicas bröd och konditori,cafe,Kroppaplan 3,,Stockholm,59.243409,18.093372,,,,,1,osm
+osm_node_90284300,Apotekskiosken,cafe,,,Stockholm,59.330254,18.132727,,,,,1,osm
+osm_node_12040163324,Ari's Corner,cafe,,,Stockholm,59.310255,18.098174,,,,Mo-Fr 11:30-17:30,1,osm
+osm_node_14116384184,Arket Cafe,cafe,,,Stockholm,59.332805,18.06164,,,,,1,osm
+osm_node_485981397,Art Bakery,cafe,,,Stockholm,59.339357,18.047615,,,,Mo-Su 10:00-18:00,1,osm
+osm_node_11254486435,Arturs Kafé,cafe,,,Stockholm,59.327247,18.099152,,,,,1,osm
+osm_node_13999946045,Augustas Folksalong,cafe,,,Stockholm,59.323917,18.069826,,,,,1,osm
+osm_node_12047709537,Ayas,cafe,,,Stockholm,59.289572,18.094364,,,,,1,osm
+osm_node_503503242,Babel Deli,cafe,,,Stockholm,59.341656,18.059221,,,,Mo-Fr 10:00-20:00; Sa 11:00-16:00; Su off,1,osm
+osm_node_9811164917,Badcafét,cafe,Kungsholms strandstig 602,,Stockholm,59.330672,17.996186,,,,Mo-Su 10:00-18:00,1,osm
+osm_node_670786471,Bagel Deli,cafe,,,Stockholm,59.333338,18.030634,,,,Mo-Th 07:00-20:00; Fr 07:00-19:00; Sa-Su 09:00-18:00,1,osm
+osm_node_4086321112,Bageriet Bulleboden,cafe,,,Stockholm,59.328919,18.047044,,,,Mo off;Tu-Fr 07:30-17:00;Sa 10:00-16:00;Su off,1,osm
+osm_node_1090546428,Bageriet Kringlan,cafe,,,Stockholm,59.337142,18.080085,,,,Mo-Fr 07:00-16:00; Sa 09:00-16:00; Su 10:00-16:00,1,osm
+osm_node_13161469910,Baggio,cafe,,,Stockholm,59.346331,18.061436,,,,"Mo-Fr 07:00-15:00, Sa-Su 09:00-16:00",1,osm
+osm_node_14053849276,Baggio,cafe,,,Stockholm,59.317281,18.055033,,,,,1,osm
+osm_node_1740704814,Bakarna,cafe,,,Stockholm,59.308794,18.103541,True,,,,1,osm
+osm_node_2360367705,Bakstugan i Västertorp,cafe,,,Stockholm,59.294539,17.966841,,,,,1,osm
+osm_node_13938244701,Balue,cafe,,,Stockholm,59.31104,18.096939,True,,,We-Su 12:00-18:00,1,osm
+osm_node_2470268496,Banacado,cafe,,,Stockholm,59.340461,18.062967,,,,Mo-Fr 08:00-16:00; Sa 10:00-15:00; Su off,1,osm
+osm_node_599689266,Bananza,cafe,,,Stockholm,59.311689,18.05485,,,,Mo-Fr 06:30-18:00; Sa-Su 08:30-17:00,1,osm
+osm_node_3308547224,Bandy Café,cafe,,,Stockholm,59.261969,18.06964,,,,"""When there is a game""",1,osm
+osm_way_186915810,Bandängens parkhus,cafe,Björksundsslingan 35,,Stockholm,59.266882,18.048963,True,,,"Mo-Fr 08:30-17:00; Sa,Su 10:00-16:30",1,osm
+osm_node_2023742416,Bar Burger Café,cafe,,,Stockholm,59.3324,18.071673,,,,Mo-Fr 11:00-21:00;Sa-Su 12:00-21:00,1,osm
+osm_node_5890325406,Beck,cafe,,,Stockholm,59.31518,18.075676,,,False,Mo-Fr 07:00-17:00; Sa-Su 09:00-17:00,1,osm
+osm_node_8461573115,Belgian Bakery,cafe,,,Stockholm,59.324348,18.070238,,,,,1,osm
+osm_way_152385853,Bergsholmstorpet,cafe,,,Stockholm,59.270908,18.13023,,,,,1,osm
+osm_node_6312673777,Biocafé Tellus,cafe,,,Stockholm,59.30195,18.007504,,,,,1,osm
+osm_node_1255629391,Biscuit,cafe,,,Stockholm,59.309111,18.061938,False,,,Mo-Fr 07:00-17:00; Sa 09:00-16:00; Su 09:00-15:00,1,osm
+osm_node_5320227658,Bistro BKH,cafe,,,Stockholm,59.337074,18.042584,,,,"Mo-Tu,Sa-Su off; Th-Fr 11:00-14:00",1,osm
+osm_node_373448980,Bistro V,cafe,,,Stockholm,59.342325,18.090379,,,,,1,osm
+osm_node_1541177345,Bliss Cafe,cafe,,,Stockholm,59.309336,18.079273,,,,Sa 12:00-16:00,1,osm
+osm_node_2416670585,Blockhusporten,cafe,Blockhusringen 27,,Stockholm,59.321622,18.155002,True,,,Mo off; Tu-Fr 10:00-16:00; Sa-Su 10:00-17:00,1,osm
+osm_node_5908740021,Blueberry,cafe,,,Stockholm,59.339225,18.091174,True,,,,1,osm
+osm_node_1397247451,Blå Lotus,cafe,,,Stockholm,59.312025,18.076833,False,,,Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 11:00-19:00,1,osm
+osm_node_373827770,Blå Porten,cafe,,,Stockholm,59.325283,18.096657,,,,"Mo,We,Fr-Su 11:00-21:00; Tu,Th 11:00-21:30",1,osm
+osm_node_867361436,Blåbär,cafe,,,Stockholm,59.343371,18.048046,True,,,"Mo-Fr 09:00-20:00; Sa,Su 10:00-18:00",1,osm
+osm_node_5024405917,Boardwalk Cafe,cafe,,,Stockholm,59.322569,18.09514,,,,,1,osm
+osm_node_1519948672,BodyBuddy,cafe,,,Stockholm,59.342166,18.057664,,,,Mo-Fr 08:30-20:00; Sa-Su 09:00-17:00,1,osm
+osm_node_11993638821,Bodybuddy,cafe,,,Stockholm,59.333637,18.070455,True,,True,Mo-Fr 07:30-15:00; Sa-Su 11:00-16:00,1,osm
+osm_node_12120455619,Bojo Café,cafe,,,Stockholm,59.349375,18.049182,,,,Mo-Fr 07:30-14:00; Sa-Su off,1,osm
+osm_node_5574707165,Bollnäsgrillen,cafe,,,Stockholm,59.326395,18.104926,,,,,1,osm
+osm_node_534693829,Bonne Femme,cafe,Badstrandsvägen 30,,Stockholm,59.321584,17.989282,,,,"Mo-Fr 07:00-18:00; Sa,Su 08:00-18:00",1,osm
+osm_node_6461820897,Bonne Femme,cafe,,,Stockholm,59.306233,18.00087,,,,Mo-Fr 07:00-16:00; Sa-Su 08:00-16:00,1,osm
+osm_node_10253527595,Bonne Femme Stenugnsbageri,cafe,,,Stockholm,59.295123,18.101846,False,,,"Mo-Fr 07:00-18:00; Sa,Su 08:00-17:00",1,osm
+osm_node_12541354876,Bonne Femme Stenugnsbageri,cafe,,,Stockholm,59.293077,18.08934,,,,,1,osm
+osm_node_7352675485,Bonne Femme Stenungsbageri,cafe,,,Stockholm,59.299571,18.00417,,,,"Mo-Fr 07:00-18:00; Sa,Su 08:00-18:00",1,osm
+osm_node_390507511,Bowls n Bread,cafe,,,Stockholm,59.338768,18.012462,,,,Mo-Fr 07:00-14:00,1,osm
+osm_node_1161921220,Bravo,cafe,,,Stockholm,59.31012,18.023213,,,,Mo-Fr 07:00-19:00; Sa-Su 10:00-17:30,1,osm
+osm_node_2288368228,Bredäng konditori,cafe,,,Stockholm,59.295092,17.93479,,,,,1,osm
+osm_node_1649377932,Breeze,cafe,,,Stockholm,59.331322,18.085371,,,,,1,osm
+osm_node_7681323913,Brotorpsstugan,cafe,,,Stockholm,59.270494,18.148463,,,,,1,osm
+osm_node_413531970,Bröd & Salt,cafe,,,Stockholm,59.329299,18.041673,,,,Mo-Fr 07:00-18:00; Sa-Su 07:00-17:00,1,osm
+osm_node_432619506,Bröd & Salt,cafe,,,Stockholm,59.333925,18.056686,,,,Mo-Fr 06:30-19:00; Sa 08:00-19:00; Su 08:00-18:00,1,osm
+osm_node_769289373,Bröd & Salt,cafe,,,Stockholm,59.343238,18.050429,False,,,Mo-Fr 06:30-20:00; Sa 07:30-20:00; Su 08:00-19:00,1,osm
+osm_node_1256871409,Bröd & Salt,cafe,,,Stockholm,59.308728,18.076396,,,,Mo-Fr 07:00-19:00; Sa-Su 08:00-19:00,1,osm
+osm_node_2583977838,Bröd & Salt,cafe,,,Stockholm,59.341897,18.047708,,,,"Mo-Fr 07:00-19:00; Sa,Su 09:00-17:00",1,osm
+osm_node_5022983968,Bröd & Salt,cafe,,,Stockholm,59.330224,18.058434,True,,,"Mo-Fr 05:30-23:00; Sa,Su 06:30-23:00",1,osm
+osm_node_11220361976,Bröd & Salt,cafe,,,Stockholm,59.345517,18.062354,,,,Mo-Fr 07:00-19:00; Sa-Su 08:00-18:00,1,osm
+osm_node_11887345512,Bröd & Salt,cafe,,,Stockholm,59.31694,18.071787,,,,Mo-Fr 07:00-19:00; Sa-Su 08:00-18:00,1,osm
+osm_node_12677093775,Bröd & Salt,cafe,,,Stockholm,59.327986,18.017923,,,,Mo-Fr 06:30-19:00; Sa-Su 08:00-18:00,1,osm
+osm_node_12016590591,Bubble Tea,cafe,,,Stockholm,59.263453,18.040928,,,,,1,osm
+osm_node_5822339973,Bullar & Bröd,cafe,,,Stockholm,59.34665,18.068888,True,,,Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 09:00-17:00,1,osm
+osm_node_3623537421,Bullbon,cafe,,,Stockholm,59.314505,18.084475,,,,,1,osm
+osm_node_2516519017,Bullen,cafe,,,Stockholm,59.332003,18.016113,,,,Mo-Fr 07:00-17:00; Sa 09:00-15:00; Su 09:00-15:00,1,osm
+osm_node_372707711,Bullens,cafe,,,Stockholm,59.346242,18.070046,,,,Mo-Sa 11:00-23:00; Su closed,1,osm
+osm_node_4344171471,By:fiket,cafe,,,Stockholm,59.339049,18.014185,,,,Mo-Fr 07:30-15:00,1,osm
+osm_node_1149275250,Bysistorget 6,cafe,,,Stockholm,59.318403,18.055916,True,,,Mo-Fr 07:00-18:00; Sa-Su 09:00-18:00,1,osm
+osm_node_2120486934,Båtbryggans,cafe,Babordsgatan 25,,Stockholm,59.305067,18.100447,,,,,1,osm
+osm_node_12006055067,Cafe 24,cafe,Sibeliusgången 24C,,Stockholm,59.414904,17.914119,,,,,1,osm
+osm_node_5024800319,Cafe Blom,cafe,,,Stockholm,59.325864,18.085263,True,,,"Tu,Fr 11:00-19:00; We,Th,Sa,Su 11:00-17:00",1,osm
+osm_node_1139577920,Cafe Eldkvarn,cafe,Norr Mälarstrand 1,,Stockholm,59.32688,18.053294,,,,,1,osm
+osm_node_2343005516,Cafe Elektra,cafe,Elektravägen 33,,Stockholm,59.294342,18.009046,,,,,1,osm
+osm_node_1858776642,Cafe Gården,cafe,Sedelvägen 20,Hägersten,Stockholm,59.2962,17.983041,,,,"Mo-Fr 07:00-20:00; Sa,Su 09:00-18:00",1,osm
+osm_node_1771653726,Cafe Schweizer,cafe,,,Stockholm,59.326148,18.068856,,,,Mo-Su 07:00-20:00,1,osm
+osm_node_6188609205,Cafe Söderberg,cafe,,,Stockholm,59.33055,18.071005,,,,Mo-Su 10:00-19:00,1,osm
+osm_node_1778361754,Cafe Tifa,cafe,,,Stockholm,59.325168,18.067563,,,,,1,osm
+osm_node_502523372,Cafe Vintervikens Trädgård,cafe,Vinterviksvägen 30,,Stockholm,59.311237,17.999042,,,,Jun-Aug 11:00-21:00,1,osm
+osm_node_11956602827,Cafe Volta,cafe,Hagaesplanaden 95,,Stockholm,59.348956,18.036901,,,,,1,osm
+osm_node_1848264409,Cafe capri,cafe,,,Stockholm,59.397277,17.948336,,,,,1,osm
+osm_node_13369836544,Caffeine & Cravings,cafe,,,Stockholm,59.315267,18.08594,,,,"Mo-Fr 08:00-16:00; Sa,Su 09:00-17:00",1,osm
+osm_node_1779515388,Caffellini,cafe,,,Stockholm,59.323509,18.071474,,,,Mo-Fr 08:00-16:00; Sa 10:00-18:00; Su off,1,osm
+osm_node_12578267459,Caffetteria Italiana,cafe,,,Stockholm,59.340612,18.059943,,,,Mo-Fr 07:30-15:00; Sa 09:00-15:00; Su off,1,osm
+osm_node_2135379889,Caffetteria del Corso,cafe,,,Stockholm,59.333366,18.062689,,,,"Mo-Fr 07:30-18:00; Sa,Su 10:00-17:00",1,osm
+osm_node_685120395,Caffè Nero,cafe,,,Stockholm,59.332752,17.981651,,,,Mo-Fr 07:00-19:00; Sa-Su 09:00-19:00,1,osm
+osm_node_1246189133,Caffè Nero,cafe,,,Stockholm,59.316642,18.072246,,,,"Mo-Fr 07:30-20:00; Sa,Su 10:00-18:00",1,osm
+osm_node_1431277318,Caffè Nero,cafe,,,Stockholm,59.342415,18.057427,True,,,Mo-Fr 07:00-19:00; Sa-Su 08:00-18:00,1,osm
+osm_node_1639251921,Caffè Nero,cafe,,,Stockholm,59.307419,18.075616,True,,,"Mo-Fr 07:00-19:00; Sa,Su 08:00-18:00",1,osm
+osm_node_2166077126,Caffè Nero,cafe,,,Stockholm,59.33095,18.064147,,,,"Mo-Fr 07:00-20:00; Sa,Su 09:00-20:00",1,osm
+osm_node_3957092175,Caffè Nero,cafe,,,Stockholm,59.33598,18.059477,,,,Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su 09:00-21:00,1,osm
+osm_node_4192062196,Caffè Nero,cafe,,,Stockholm,59.335359,18.062252,True,,,"Mo-Fr 07:30-20:00; Sa,Su 09:00-20:00",1,osm
+osm_node_6877923128,Caffè Nero,cafe,,,Stockholm,59.294154,18.080113,,,,Mo-Fr 07:30-19:00; Sa 10:00-17:00; Su 11:00-17:00,1,osm
+osm_node_12455835880,Caffè Nero,cafe,,,Stockholm,59.309781,18.022905,,,,,1,osm
+osm_node_672431786,Caffè l'Antico,cafe,,,Stockholm,59.343013,18.044547,False,,,Mo-Tu 06:00-18:00; We-Fr 06:00-20:00; Sa-Su 08:00-18:00,1,osm
+osm_node_2826938350,Caffé Nero,cafe,,,Stockholm,59.34636,18.033466,True,,,"Mo-Fr 06:30-19:00; Sa,Su 08:00-18:00",1,osm
+osm_node_444839564,Caffé Ritazza,cafe,,,Stockholm,59.330086,18.058717,True,,,,1,osm
+osm_node_3392939809,Café,cafe,,,Stockholm,59.318631,18.061616,True,,,Mo-Fr 08:00-20:00; Sa-Su 10:00-20:00,1,osm
+osm_way_123127586,Café,cafe,,,Stockholm,59.297452,17.926416,,,,,1,osm
+osm_node_10991914971,Café & Bistro Fleminggatan 11,cafe,,,Stockholm,59.332426,18.04725,,,,Mo-Fr 07:30-16:00,1,osm
+osm_node_372670215,Café & Grill,cafe,,,Stockholm,59.346951,18.082867,,,,,1,osm
+osm_node_778311194,Café 117,cafe,,,Stockholm,59.347149,18.039905,True,,,Mo-Fr 08:00-15:00; Sa-Su off,1,osm
+osm_node_517814610,Café Albert,cafe,,,Stockholm,59.333567,18.074963,,,,Mo-Th 07:00-24:00;Fr-Sa 07:00-06:00;Su 07:00-24:00,1,osm
+osm_node_12622710284,Café Ami,cafe,,,Stockholm,59.331783,18.061653,,,,"Mo 08:30-15:00; Tu-Fr 08:30-16:00; Sa,Su 09:30-16:00",1,osm
+osm_node_9613472163,Café BKBK,cafe,,,Stockholm,59.286313,18.12323,,,,,1,osm
+osm_node_2377133251,Café Bellevue,cafe,Bellevuevägen 10,,Stockholm,59.352096,18.05285,,,,Mo-Su 11:00-17:00,1,osm
+osm_node_1831996628,Café Blomma,cafe,,,Stockholm,59.341555,17.92697,,,,,1,osm
+osm_node_1541176928,Café Blå,cafe,,,Stockholm,59.312416,18.077739,,,,"Mo-Tu,Sa 13:00-17:30; We-Fr 12:00-18:00; Su off",1,osm
+osm_node_638423896,Café Blåbär,cafe,,,Stockholm,59.333696,18.037483,,,,Mo-Fr 08:00-17:00,1,osm
+osm_node_3089463722,Café Bröderian,cafe,,,Stockholm,59.348246,18.045932,,,,Mo-Fr 07:00-14:00,1,osm
+osm_node_8852911880,Café Cannella,cafe,Rusthållarvägen 63,,Stockholm,59.276578,18.130917,,,,Mo-Fr 07:00-18:00; Sa 10:00-16:00,1,osm
+osm_node_1788344670,Café Chateau,cafe,Skärlingebacken 2,,Stockholm,59.270364,18.048074,,,True,Mo-Fr 06:00-18:00; Sa-Su 07:30-17:00,1,osm
+osm_node_4705818340,Café Crema,cafe,,,Stockholm,59.339101,18.004967,,,,"Mo-Fr 07:00-18:00; Sa,Su 08:00-17:00",1,osm
+osm_node_9034705817,Café Crema,cafe,,,Stockholm,59.335416,17.952047,,,,Mo-Fr 07:00-18:00; Sa-Su 08:00-18:00,1,osm
+osm_node_14073000508,Café Crema,cafe,,,Stockholm,59.330034,18.039856,,,,"Mo 07:00-18:30, Tu-Fr 07:00-16:30",1,osm
+osm_node_5782044488,Café Cul-De-Sac,cafe,,,Stockholm,59.316319,18.016372,,,,,1,osm
+osm_node_619196397,Café Dello Sport,cafe,,,Stockholm,59.318236,18.035201,True,,,Mo-Tu 08:00-17:00; We-Su 08:00-20:00,1,osm
+osm_node_4013808451,Café Doppio,cafe,,,Stockholm,59.347126,18.066752,,,,,1,osm
+osm_node_2278008493,Café Ekorren,cafe,,,Stockholm,59.322106,18.124877,,,,,1,osm
+osm_node_1163449874,Café Ektorpet,cafe,,,Stockholm,59.321955,18.114297,,,,Mo off; Tu-Su 11:00-17:00,1,osm
+osm_node_5124248814,Café Eugenia,cafe,,,Stockholm,59.331808,18.072418,,,,,1,osm
+osm_node_670786478,Café Fix,cafe,,,Stockholm,59.333015,18.031368,,,,Mo-Fr 07:00-22:00; Sa-Su 10:00-20:00,1,osm
+osm_node_5414588717,Café Freddo,cafe,,,Stockholm,59.302003,18.084304,,,,"Mo-Fr 07:30-10:30,11:00-14:00",1,osm
+osm_node_1970220770,Café Hitom,cafe,Klaviaturgatan 11,,Stockholm,59.297916,18.000169,,,,Mo 08:30-14:30; Tu-Th 08:30-15:30; Fr 08:30-14:30,1,osm
+osm_node_1215308993,Café Hökis,cafe,Hökarängsplan 3,Farsta,Stockholm,59.256352,18.081442,,,,Mo-Th 09:00-18:00; Fr off; Sa-Su 11:00-17:00,1,osm
+osm_node_1350452939,Café Hörnan,cafe,,,Stockholm,59.309193,18.082871,,,,,1,osm
+osm_node_13811261703,Café Hørnet,cafe,,,Stockholm,59.30547,18.002537,,,,,1,osm
+osm_node_373494915,Café Junibacken,cafe,,,Stockholm,59.329455,18.088634,,,,,1,osm
+osm_node_2307595562,Café Kikusen,cafe,,,Stockholm,59.327107,18.082089,,,,,1,osm
+osm_node_6594663371,Café Koya,cafe,,,Stockholm,59.340733,18.04008,,,,Mo closed; Tu 13:00-18:00; We-Su 11:00-18:00,1,osm
+osm_node_7590697422,Café Kristinahuset,cafe,,,Stockholm,59.249587,18.119819,,,,,1,osm
+osm_node_12030714131,Café Lilla Hörnan,cafe,,,Stockholm,59.356558,17.959449,True,,,Mo-Fr 05:00-13:30,1,osm
+osm_node_3786452957,Café Maja,cafe,,,Stockholm,59.242552,18.091334,True,,,,1,osm
+osm_node_1198848870,Café Mariaberget,cafe,,,Stockholm,59.320218,18.062342,,,,Mo-Tu closed; We-Fr 11:00-18:00; Sa-Su 11:00-17:00,1,osm
+osm_node_5910937297,Café Middlepoint,cafe,,,Stockholm,59.406106,17.954545,,,,"Mo-Fr 07:30-17:30; Sa, Su closed",1,osm
+osm_node_1986820706,Café Momo,cafe,,,Stockholm,59.30986,18.021748,,,,,1,osm
+osm_node_11162621037,Café Myntan,cafe,,,Stockholm,59.379731,17.817273,,,,Mo 08:00-16:30; Tu-Fr 08:00-18:00; Sa 09:00-17:00; Su 10:00-16:00,1,osm
+osm_node_14109558717,Café Nero,cafe,,,Stockholm,59.263555,18.042078,,,,,1,osm
+osm_node_1518434797,Café Nestro,cafe,,,Stockholm,59.344453,18.05662,,,,,1,osm
+osm_node_3339519603,Café Olive,cafe,,,Stockholm,59.354348,18.087558,True,,,Mo-Sa 07:00-20:00; Su 08:00-18:00,1,osm
+osm_node_10049518617,Café Paloma,cafe,,,Stockholm,59.33033,18.003164,,,,Mo off;Tu-Fr 07:00-15:00;Sa 09:00-15:00;Su off,1,osm
+osm_node_3656997603,Café Petissan,cafe,,,Stockholm,59.326164,18.100895,,,,,1,osm
+osm_node_1925667427,Café Piazza,cafe,,,Stockholm,59.322779,18.072661,,,,,1,osm
+osm_node_410626668,Café Portiken,cafe,,,Stockholm,59.328088,18.053106,,,,"Mo-Fr 09:00-15:30; Sa,Su off",1,osm
+osm_node_338768476,Café Rival,cafe,,,Stockholm,59.318423,18.063548,True,,,"Su-Th 11:30-21:00; Fr,Sa 11:30-22:00",1,osm
+osm_node_12147707616,Café Skeppsholmen,cafe,,,Stockholm,59.325244,18.081199,,,,,1,osm
+osm_node_4140223368,Café Tessinparken,cafe,,,Stockholm,59.343111,18.095713,,,,,1,osm
+osm_node_5856095885,Café Två Bönor,cafe,,,Stockholm,59.358425,18.087443,True,,,"Tu-Fr 08:00-17:00, Fr 08:00-19:00, Sa-Su 10:00-16:00",1,osm
+osm_node_2301881203,Café Tärnan,cafe,,,Stockholm,59.305697,18.000805,,,,Mo-Fr 07:00-20:00; Sa-Su 08:00-20:00,1,osm
+osm_way_237587677,Café Uddvillan,cafe,Klubbensborgsvägen 27,,Stockholm,59.307671,17.958489,,,,"Mo-Fr 11:00-17:00; Sa,Su 11:00-18:00",1,osm
+osm_node_14280405114,Café Valfrid,cafe,,,Stockholm,59.338151,18.072444,,,,Mo-Th 09:00-18:00; Fr 09:00-17:00; Sa 11:00-15:00,1,osm
+osm_node_1251065958,Café Vallmo,cafe,Skogängvägen 59,Spånga,Stockholm,59.382246,17.903148,True,,,Mo-Fr 10:00-16:00,1,osm
+osm_node_418238323,Café Valvet,cafe,,,Stockholm,59.325465,18.068831,,,,,1,osm
+osm_node_14022347601,Café Vólta,cafe,,,Stockholm,59.334926,18.060525,,,,Mo-Fr 07:00-19:00; Sa 10:00-18:00; Su 11:00-18:00,1,osm
+osm_node_7035887409,Café Wickholm & P,cafe,,,Stockholm,59.349318,18.044422,,,,,1,osm
+osm_node_1090495618,Café crème,cafe,,,Stockholm,59.33473,18.077588,,,,,1,osm
+osm_node_11149630565,Café de Nice,cafe,Hässelby Torg 18,,Stockholm,59.367875,17.843509,,,,"Mo-Fr 08:00-18:00; Sa,Su 10:00-18:00",1,osm
+osm_node_550194892,Café på ön,cafe,,,Stockholm,59.320291,17.987643,,,,,1,osm
+osm_node_884399802,Cafékoppen,cafe,Fruängstorget 4,Hägersten,Stockholm,59.285834,17.963449,,,,Mo-Fr 06:00-18:00; Sa 09:00-17:00; Su 09:00-16:00,1,osm
+osm_node_1951128838,Carotte,cafe,,,Stockholm,59.34166,18.113263,,,,,1,osm
+osm_node_2023742427,Catalana,cafe,,,Stockholm,59.331926,18.071957,,,,,1,osm
+osm_node_12837492531,Celine's Cafè,cafe,Skogängsvägen 39B,Spånga,Stockholm,59.381366,17.905258,,,,Mo-Su 11:00-18:00,1,osm
+osm_node_5337260997,Cha Talk,cafe,,,Stockholm,59.3403,18.057881,,,,"Tu-Fr 12:30-18:30; Sa,Su 13:00-18:00",1,osm
+osm_node_1402697511,Chaikhana,cafe,,,Stockholm,59.324103,18.072311,,,,Tu-Su 11:00-19:00; Mo closed,1,osm
+osm_node_2134159744,Chatime,cafe,,,Stockholm,59.333495,18.063172,,,,Mo-Su 11:30-19:30,1,osm
+osm_node_640304823,Chic Konditori,cafe,,,Stockholm,59.317529,18.063435,True,,,"Sa,Su 09:30-18:00; Mo-Fr 07:00-19:00",1,osm
+osm_node_4966783253,Chocolate & Coffee House,cafe,,,Stockholm,59.324351,18.07402,,,,,1,osm
+osm_node_345450421,Chokladfabriken,cafe,,,Stockholm,59.316195,18.083179,True,,,Mo-Sa 10:00-18:30; Su 11:00-17:00,1,osm
+osm_node_475902854,Chokladfabriken,cafe,,,Stockholm,59.335739,18.067774,True,,,Mo-Fr 10:00-18:00; Sa 11:00-17:00; Su off,1,osm
+osm_node_418260300,Chokladkoppen,cafe,,,Stockholm,59.324956,18.070301,True,,,Mo-Su 10:00-22:00,1,osm
+osm_node_12014488802,Christensons Konditori,cafe,,,Stockholm,59.242736,18.091077,,,,,1,osm
+osm_node_1743438570,Ciao Ciao,cafe,,,Stockholm,59.340779,18.083599,,,,Mo-Fr 10:30-21:30;Sa-Su 12:00-21:30,1,osm
+osm_node_988980626,Cinnamon,cafe,,,Stockholm,59.317433,18.030249,,,,Mo-Fr 07:00-18:00;Sa-Su 09:00-18:00,1,osm
+osm_node_1657548758,CoCo Fresh Tea & Juice,cafe,,,Stockholm,59.333028,18.091368,,,,"Th-Fr 12:00-16:00,17:30-23:30; Tu-We,Sa 17:30-23:30",1,osm
+osm_node_12030839526,Coffe & Baker’s,cafe,,,Stockholm,59.292204,18.082397,,,,,1,osm
+osm_node_11993253496,Coffee Deli,cafe,,,Stockholm,59.394039,17.904308,,,,,1,osm
+osm_node_418275066,Coffee Stop,cafe,,,Stockholm,59.324416,18.070932,,,,,1,osm
+osm_node_1348515086,Coffeehouse 72 by Chaqwa,cafe,,,Stockholm,59.312683,18.073724,True,,,Mo-Fr 07:30-22:00; Sa-Su 09:00-22:00,1,osm
+osm_node_11917614707,Cookies,cafe,,,Stockholm,59.314089,18.077705,False,,,Mo-Sa 12:00-18:00; Su 12:00-17:00,1,osm
+osm_node_11739335643,Coop Bistro,cafe,,,Stockholm,59.347667,18.036918,,,,,1,osm
+osm_node_1095104310,Coppola,cafe,,,Stockholm,59.332311,18.066685,,,,Mo-Fr 08:00-20:00;Sa 09:00-18:30;Su 10:00-18:00,1,osm
+osm_node_9763703336,Corner Sushi,cafe,,,Stockholm,59.323248,18.071845,,,,,1,osm
+osm_node_12003312495,Cornershop,cafe,Finn Malmgrens väg 112,,Stockholm,59.297065,18.11356,False,,,Sa-Su 11:00-17:00; Fr 11:00-21:00,1,osm
+osm_node_1778361709,Cronan,cafe,,,Stockholm,59.323601,18.070373,,,,,1,osm
+osm_node_10056241215,Crumheaven,cafe,,,Stockholm,59.316569,18.071653,False,,,Mo-Tu 08:00-17:00; We-Th 08:00-22:00; Fr 08:00-24:00; Sa 11:00-24:00; Su 11:00-17:00,1,osm
+osm_node_1293508557,Crème,cafe,,,Stockholm,59.31911,18.074943,,,,,1,osm
+osm_node_1953265695,Crème,cafe,,,Stockholm,59.342898,18.110998,,,,,1,osm
+osm_node_701186562,Cupcake,cafe,,,Stockholm,59.340412,18.036832,,,,Mo-Fr 10:00-16:00; Sa 10:00-16:00; Mo closed,1,osm
+osm_node_1484835196,Cykelcafé Le Mond,cafe,,,Stockholm,59.314516,18.079846,,,,Mo 08:00-16:00; Tu 08:00-20:00; We 07:00-20:00; Th 08:00-20:00; Fr 07:00-20:00; Sa-Su 09:30-16:00,1,osm
+osm_node_3025422463,D'Abramo,cafe,,,Stockholm,59.334422,18.056225,,,,Mo-Fr 07:00-16:00; Sa 10:00-15:00; Su off,1,osm
+osm_node_11989735731,Daallo Cafe,cafe,,,Stockholm,59.388502,17.928881,,,,,1,osm
+osm_node_1428997175,Dagnys,cafe,,,Stockholm,59.331071,18.057613,,,,Mo-Fr 05:00-21:00;Sa 06:00-20:00;Su 07:00-21:00,1,osm
+osm_node_11989580317,Damal Coffe,cafe,,,Stockholm,59.391007,17.927924,,,,,1,osm
+osm_node_7116467253,Del Gusto,cafe,,,Stockholm,59.348011,18.045728,,,,,1,osm
+osm_node_373445062,Delantina,cafe,,,Stockholm,59.34424,18.092466,,,,,1,osm
+osm_node_13369836532,DeliKaféet,cafe,,,Stockholm,59.312908,18.074685,,,,Mo-Sa 11:00-19:00; Su 12:00-17:00,1,osm
+osm_node_9838832292,Delivore,cafe,,,Stockholm,59.312945,18.074961,,,,11:00-16:00,1,osm
+osm_node_3151151721,Doch,cafe,,,Stockholm,59.353346,18.066407,,,,Mo-Th 08:45-16:00;Fr 08:45-15:00;Sa-Su off,1,osm
+osm_node_9230171317,Downtown Camper Café,cafe,,,Stockholm,59.330992,18.06477,,,,Mo-Su 11:00-17:00,1,osm
+osm_node_13136340417,Dream Cafe,cafe,,,Stockholm,59.407927,17.945997,False,,,,1,osm
+osm_node_2698629348,Drop Coffee Roasters,cafe,,,Stockholm,59.316907,18.062814,True,,,Mo-Fr 08:00-18:00;Sa-Su 10:00-17:00,1,osm
+osm_node_4345428840,Dulce Tentacion,cafe,,,Stockholm,59.327019,18.04585,,,,Tu-Su 11:00-18:00; Mo off,1,osm
+osm_node_3647397698,Dynamo,cafe,,,Stockholm,59.311806,18.081088,,,,,1,osm
+osm_node_1117124638,Eastside cafe,cafe,,,Stockholm,59.34778,18.102057,,,,Mo-Fr 06:30-17:30; Sa 09:00-15:00,1,osm
+osm_node_12014480798,Eat Greenii,cafe,,,Stockholm,59.24255,18.09262,,,,,1,osm
+osm_node_8982493223,Elias café,cafe,,,Stockholm,59.318935,18.049167,,,,,1,osm
+osm_node_3260084789,Emily’s Café,cafe,,,Stockholm,59.316494,18.063922,False,,,Mo-Fr 08:30-18:00; Sa 10:00-18:00; Su 10:00-17:00,1,osm
+osm_node_5779722208,En Juicebar & Café,cafe,Fredriksdalsgatan 6,,Stockholm,59.302312,18.083024,,,,Mo-Fr 08:00-14:00; Sa 10:00-15:00; Su 11:00-15:00,1,osm
+osm_node_3260084787,En halv trappa ner,cafe,,,Stockholm,59.316932,18.064597,True,,,Mo-Fr 11:00-14:00; Sa-Su closed,1,osm
+osm_node_1206471197,Enskede Bakgård,cafe,Sockenvägen 477,,Stockholm,59.279684,18.094507,,,,"Mo-Fr 08:00-15:00; Sa,Su 08:00-16:00",1,osm
+osm_node_3523613507,Enskedeparkens bageri,cafe,,,Stockholm,59.288899,18.06334,True,,,Tu-Su 08:00-18:00,1,osm
+osm_way_173336548,Eolshälls 4 H-gård,cafe,Eolshällsvägen 10,,Stockholm,59.307886,17.969482,,,,,1,osm
+osm_node_1098148030,Erna's,cafe,,,Stockholm,59.345836,18.095992,,,,Mo 09:00-20:00;Tu-Fr 08:00-20:00;Sa 10:30-18:00;Su off,1,osm
+osm_node_4784493027,Espression,cafe,,,Stockholm,59.331265,18.056356,,,,,1,osm
+osm_node_415981781,Espresso House,cafe,,,Stockholm,59.333204,18.056742,False,,,Mo-Su 06:30-19:00,1,osm
+osm_node_444840623,Espresso House,cafe,,,Stockholm,59.330338,18.05837,True,,False,"Mo-Fr 05:00-20:00; Sa,Su 06:00-20:00",1,osm
+osm_node_457817738,Espresso House,cafe,,,Stockholm,59.34063,18.059108,True,,,Mo-Fr 07:00-19:00; Sa-Su 09:00-19:00,1,osm
+osm_node_473467313,Espresso House,cafe,,,Stockholm,59.345251,18.040324,,,,Mo-Th 06:30-18:00; Fr 07:00-18:00; Sa-Su 09:00-18:00,1,osm
+osm_node_497171122,Espresso House,cafe,,,Stockholm,59.331797,18.063326,True,,,Mo-Fr 06:30-23:00; Sa 07:00-23:00; Su 08:00-22:00,1,osm
+osm_node_1095094730,Espresso House,cafe,,,Stockholm,59.331352,18.05823,True,,,Mo-Su 06:30-20:00,1,osm
+osm_node_1290922075,Espresso House,cafe,,,Stockholm,59.32342,18.068418,False,,,"Mo-Fr 07:00-20:00; Sa,Su 09:00-19:00",1,osm
+osm_node_1348515108,Espresso House,cafe,,,Stockholm,59.31399,18.07322,True,,,Mo-Fr 08:00-19:00; Sa-Su 09:00-19:00,1,osm
+osm_node_1351575562,Espresso House,cafe,,,Stockholm,59.334784,18.067951,True,,,Mo-Fr 06:30-19:00; Sa 09:00-19:00; Su 09:30-18:00,1,osm
+osm_node_1429311494,Espresso House,cafe,,,Stockholm,59.336526,18.058958,True,,,Mo-Fr 07:00-19:00; Sa 08:00-19:00; Su 09:00-19:00,1,osm
+osm_node_1779515390,Espresso House,cafe,,,Stockholm,59.324091,18.070676,False,,,Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 08:00-19:00,1,osm
+osm_node_1959024121,Espresso House,cafe,,,Stockholm,59.334952,18.071334,True,,,Mo-Fr 06:30-19:00; Sa-Su 09:00-19:00,1,osm
+osm_node_2371137589,Espresso House,cafe,,,Stockholm,59.330104,18.065312,,,,Mo-Th 07:00-21:00;Fr 07:00-22:00;Sa 08:00-22:00;Su 08:00-21:00,1,osm
+osm_node_2447537970,Espresso House,cafe,,,Stockholm,59.335156,18.062601,True,,,Mo-Fr 07:30-21:00; Sa 09:00-21:00; Su 09:00-21:00,1,osm
+osm_node_3479093874,Espresso House,cafe,Hammarby Allé 27,,Stockholm,59.302857,18.08789,,,,"Mo-Fr 07:00-18:00; Sa,Su 09:00-17:00",1,osm
+osm_node_3758991516,Espresso House,cafe,,,Stockholm,59.318163,18.071465,True,,,"Mo-Th 06:30-22:00, Fr 06:30-24:00, Sa 08:00-24:00, Su 08:00-22:00",1,osm
+osm_node_4784493123,Espresso House,cafe,,,Stockholm,59.331338,18.056557,True,,,,1,osm
+osm_node_5124175622,Espresso House,cafe,,,Stockholm,59.339006,18.091246,True,,,Mo-Fr 07:00-20:00; Sa 08:00-18:00; Su 08:00-17:00,1,osm
+osm_node_5166413322,Espresso House,cafe,,,Stockholm,59.343202,18.049635,True,,,"Mo-Fr 06:30-21:00; Sa,Su 08:00-21:00",1,osm
+osm_node_6798866688,Espresso House,cafe,,,Stockholm,59.363317,17.872566,True,,,"Mo-Fr 06:30-21:00; Sa,Su 08:00-20:00",1,osm
+osm_node_6824554025,Espresso House,cafe,,,Stockholm,59.330527,18.059099,,,,"Mo-Fr 05:00-21:00; Sa,Su 06:00-21:00",1,osm
+osm_node_6859058722,Espresso House,cafe,,,Stockholm,59.33032,18.058776,True,,,"Mo-Fr 05:00-21:00; Sa,Su 06:00-21:00",1,osm
+osm_node_6864114946,Espresso House,cafe,,,Stockholm,59.293146,18.08163,True,,,Mo-Fr 07:30-19:00; Sa 10:00-17:00; Su 10:00-17:00,1,osm
+osm_node_11991703188,Espresso House,cafe,,,Stockholm,59.274977,17.906297,,,,,1,osm
+osm_node_12014485578,Espresso House,cafe,,,Stockholm,59.243021,18.091628,,,,,1,osm
+osm_node_12014514274,Espresso House,cafe,,,Stockholm,59.243019,18.091489,,,,,1,osm
+osm_node_12030805869,Espresso House,cafe,,,Stockholm,59.299106,18.081246,,,,,1,osm
+osm_node_12105869005,Espresso House,cafe,,,Stockholm,59.331255,18.059701,,,,Mo-Fr 07:00-19:00; Sa-Su 09:00-18:00,1,osm
+osm_node_12293512825,Espresso House,cafe,,,Stockholm,59.331692,18.06688,,,,,1,osm
+osm_node_12543251657,Espresso House,cafe,,,Stockholm,59.330286,18.05622,True,,,Mo-Fr 06:00-19:00; Sa 06:00-18:00; Su 06:00-19:00,1,osm
+osm_node_12616194904,Espresso House,cafe,,,Stockholm,59.335722,18.063766,,,,Mo-Fr 06:00-19:00; Sa 10:00-17:00; Su off,1,osm
+osm_way_1311862238,Espresso House,cafe,,,Stockholm,59.402628,17.946194,,,,,1,osm
+osm_node_2130866567,Espressobaren,cafe,,,Stockholm,59.326122,18.084081,True,,,,1,osm
+osm_node_751969511,Eurobar Café,cafe,Östgötagatan 73A,,Stockholm,59.30988,18.079034,True,,,Tu-Th 15:00-21:00; Fr 15:00-22:00; Sa 11:00-22:00; Su 11:00-16:00; Mo off,1,osm
+osm_node_478087205,Farstabaren,cafe,,,Stockholm,59.239419,18.085365,,,,,1,osm
+osm_node_9394458088,Fatous,cafe,,,Stockholm,59.330922,18.048158,,,,"Tu,Fr 12:00-17:00; Sa 12:00-16:00",1,osm
+osm_node_947004244,Feel,cafe,,,Stockholm,59.347441,18.113334,,,,,1,osm
+osm_node_2991975227,Felice Café Napolitano,cafe,,,Stockholm,59.341119,18.033234,,,,,1,osm
+osm_node_3172608396,Fern & Fika,cafe,,,Stockholm,59.317091,18.033263,False,,,09:00-18:00,1,osm
+osm_way_131849204,Fika 113,cafe,,,Stockholm,59.343576,18.054198,,,,,1,osm
+osm_node_4906433829,Fjällgatans kaffestuga,cafe,Fjällgatan 37,,Stockholm,59.317387,18.0871,,,,week 22-40 Mo-Fr 09:00-(sunset-00:30); week 22-40 Sa-Su 10:00-(sunset-00:30); week 22-40 PH 10:00-(sunset-00:30),1,osm
+osm_node_1588250289,Flickorna Helin och Voltaire,cafe,,,Stockholm,59.328549,18.102245,True,,,,1,osm
+osm_node_13296787062,Fluffy House,cafe,Sankt Eriksgatan 44,,Stockholm,59.334899,18.033184,,,,,1,osm
+osm_node_2755577415,Foam,cafe,,,Stockholm,59.339168,18.083931,,,,"Mo-Fr 08:00-18:00; Sa, Su 09:00-18:00",1,osm
+osm_node_4740949141,Fosch Artisan Pâtisserie,cafe,Löjtnantsgatan 8,,Stockholm,59.344517,18.083689,True,,,Mo-Fr 07:30-18:00; Sa 08:00-17:00; Su 09:00-17:00,1,osm
+osm_node_11295307725,Fosch Artisan Pâtisserie,cafe,,,Stockholm,59.342602,18.063317,,,,"Tu-Fr 07:30-18:00; Sa,Su 09:00-17:00",1,osm
+osm_node_446002047,Frankfurt,cafe,,,Stockholm,59.331591,18.04645,,,,"We-Su 10:00-16:00; PH,Su off",1,osm
+osm_node_7222046360,Franklin Coffee House,cafe,,,Stockholm,59.341527,18.049429,False,,,,1,osm
+osm_node_3687556319,Fraterno cafe,cafe,,,Stockholm,59.295455,18.10179,,,,,1,osm
+osm_node_1690335285,Frescati Stories,cafe,,,Stockholm,59.363176,18.058558,True,,False,Mo-Th 08:00-18:30; Fr 08:00-17:00,1,osm
+osm_node_330594500,Fru Bellman,cafe,,,Stockholm,59.318222,18.065587,True,,,Mo-Fr 09:00-17:00; Sa-Su 10:00-17:00,1,osm
+osm_node_12112731798,Färska stoppet,cafe,,,Stockholm,59.317308,18.057965,,,,Mo-Fr 06:00-18:00,1,osm
+osm_way_140046247,Fåfängan,cafe,Klockstapelsbacken 3,,Stockholm,59.314822,18.101387,False,,,Mo-Fr 11:00-18:00; Sa 11:00-14:00; Su 11:00-18:00,1,osm
+osm_node_1239298244,Fåtöljen,cafe,,,Stockholm,59.319428,18.070537,True,,,Mo-Tu 11:00-24:00; We-Fr 11:00-01:00; Sa 11:30-01:00; Su 11:00-24:00,1,osm
+osm_node_1239298273,Fåtöljen,cafe,,,Stockholm,59.317918,18.055968,,,,,1,osm
+osm_node_881289300,Gabriel & Hilda,cafe,,,Stockholm,59.333405,18.090715,,,,,1,osm
+osm_node_5574707166,Gamla Krogen,cafe,,,Stockholm,59.326329,18.104939,,,,,1,osm
+osm_node_4614931989,Gamla Stans Lykta,cafe,,,Stockholm,59.325609,18.073863,True,,,Mo-Su 09:00-18:00,1,osm
+osm_node_2449452478,Gast,cafe,,,Stockholm,59.339746,18.056707,,,,"Mo-Fr 07:30-17:00; Sa,Su 09:00-17:00",1,osm
+osm_node_772407060,Gateau,cafe,Ålstensgatan 26,Bromma,Stockholm,59.322329,17.955642,False,,,"Mo-Fr 07:30-18:30; Sa,Su 07:30-17:30",1,osm
+osm_node_1513084666,Gateau,cafe,Färjestadsvägen 6,Bromma,Stockholm,59.341899,17.905965,,,,,1,osm
+osm_node_1258633794,Giffi,cafe,,,Stockholm,59.314685,18.034881,,,,"Mo-Fr 10:30-22:00; Sa,Su 11:00-22:00",1,osm
+osm_node_490186039,Gildas rum,cafe,,,Stockholm,59.312837,18.083063,True,,,Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00,1,osm
+osm_node_2508773010,Grand Café,cafe,,,Stockholm,59.328947,18.076174,,,,,1,osm
+osm_node_719629895,Greasy Spoon,cafe,,,Stockholm,59.315959,18.08184,True,,,Mo-Fr 08:00-16:00; Sa-Su 09:00-17:00,1,osm
+osm_node_4524685761,Green Alley,cafe,,,Stockholm,59.346028,18.038135,,,,,1,osm
+osm_node_6154037385,Gretas Bistro,cafe,,,Stockholm,59.334594,18.061682,,,,Mo-Fr 10:00-22:00; Sa 11:00-22:00; Su 11:00-18:00,1,osm
+osm_node_1815123226,Grillska Brödboden,cafe,,,Stockholm,59.324928,18.071223,True,,,"Mo 10:00-19:00, Tu-Fr 10:00-21:00, Su 11:00-19:00",1,osm
+osm_node_672945364,Grillska huset,cafe,,,Stockholm,59.325025,18.071371,True,,,Mo 10:00-20:00; Tu-Sa 10:00-21:00; Su 11:00-20:00,1,osm
+osm_node_891847329,Gränden,cafe,,,Stockholm,59.312626,18.058612,,,,Mo-Fr 07:00-18:00;Sa-Su 11:00-16:00,1,osm
+osm_node_1782015308,Grändens café,cafe,,,Stockholm,59.324779,18.069196,,,,,1,osm
+osm_node_14169617102,Gudruns Lager på Lager,cafe,Upplagsvägen 1,,Stockholm,59.300859,18.025708,,,,Mo-Fr 12:00-18:00; Sa 10:00-16:00; Su 12:00-16:00,1,osm
+osm_node_3880593038,Guld,cafe,,,Stockholm,59.339708,18.043972,,,,"Tu-Fr 09:00-19:00; Sa,Su 09:00-17:00",1,osm
+osm_node_1102271323,Gärdets kaffebar,cafe,,,Stockholm,59.34722,18.09785,,,,,1,osm
+osm_node_3115710305,Haga bageri,cafe,,,Stockholm,59.345082,18.034154,,,,Mo-Fr 07:00-18:00; Sa 08:00-16:30,1,osm
+osm_node_2698671565,Hannas cafe antik,cafe,,,Stockholm,59.337781,18.087484,,,,,1,osm
+osm_way_152108316,Happy,cafe,,,Stockholm,59.331271,18.083951,,,,,1,osm
+osm_node_11189962962,Happy Atelier,cafe,,,Stockholm,59.329474,18.038833,,,,Mo-Fr 09:00-17:30; Sa-Su 10:00-16:00,1,osm
+osm_node_248908928,Harpaviljongen,cafe,,,Stockholm,59.349908,18.080741,,,,,1,osm
+osm_node_12005940935,Hashtag Café,cafe,,,Stockholm,59.404879,17.941352,,,,,1,osm
+osm_node_4402775201,Hawaii poke,cafe,,,Stockholm,59.334198,18.071954,,,,Mo-Fr 10:00-20:00; Sa-Su closed,1,osm
+osm_node_10913839712,Hedvig Eleonora sommarcafé,cafe,,,Stockholm,59.335316,18.080121,,,,,1,osm
+osm_node_4031249762,Hemköp Reko,cafe,,,Stockholm,59.346537,18.033947,,,,Mo-Fr 06:30-19:00,1,osm
+osm_node_4253358774,Herrängens gård,cafe,Segeltorpsvägen 49-51,Älvsjö,Stockholm,59.273165,17.960877,True,,,"Tu,We 11:00-15:00; Th-Su 11:00-16:00",1,osm
+osm_node_1905050339,Himmelska hundar,cafe,,,Stockholm,59.343238,18.094246,,,,Mo-Tu 11:00-17:00; We-Fr 11:00-20:00; Sa-Su 11:00-17:00,1,osm
+osm_node_11989631284,Holly Wood,cafe,,,Stockholm,59.391406,17.928194,,,,,1,osm
+osm_node_2721566753,Holy Greens,cafe,Jan Stenbecks torg 17,Kista,Stockholm,59.403422,17.946677,True,,,Mo-Fr 08:00-15:00,1,osm
+osm_node_9789998782,House of Smorgasbord,cafe,,,Stockholm,59.325754,18.073914,False,,,,1,osm
+osm_node_2495421483,Hovcaféet,cafe,,,Stockholm,59.292375,17.904353,,,,,1,osm
+osm_node_1211118826,Humlans minicafé,cafe,,,Stockholm,59.34077,18.07358,,,,,1,osm
+osm_way_41388753,Husby gård,cafe,,,Stockholm,59.407197,17.919822,,,,Mo-Su 12:00-16:00,1,osm
+osm_node_1735138148,Hästa gård,cafe,,,Stockholm,59.409372,17.897469,,,,,1,osm
+osm_node_1095110372,Ice cream bar,cafe,,,Stockholm,59.33257,18.071148,,,,,1,osm
+osm_node_507149949,Il Caffè,cafe,,,Stockholm,59.329857,18.043092,,,,Mo-Fr 07:00-19:00; Sa-Su 09:00-19:00,1,osm
+osm_node_12014499982,Il Piatto,cafe,,,Stockholm,59.243233,18.091524,,,,,1,osm
+osm_node_1661386975,Italiano,cafe,,,Stockholm,59.336705,18.071067,True,,,Mo-Th 11:00-23:00; Fr 11:00-01:00; Sa 12:00-01:00,1,osm
+osm_node_1170179667,Jacobs Coffee,cafe,,,Stockholm,59.342731,18.057126,True,,,Mo-Fr 08:30-20:00; Sa 11:00-18:00,1,osm
+osm_node_1595430247,Java Whiskers,cafe,,,Stockholm,59.344713,18.054427,True,,False,Mo-Su 10:00-18:00,1,osm
+osm_node_1949505605,Joe & The Juice,cafe,,,Stockholm,59.33411,18.075234,,,,Mo-Fr 07:30-20:00; Sa 10:00-18:00; Su 11:00-17:00,1,osm
+osm_node_2520320004,Joe & The Juice,cafe,,,Stockholm,59.34422,18.057111,,,,,1,osm
+osm_node_2571793093,Joe & The Juice,cafe,Gustavslundsvägen 18,Bromma,Stockholm,59.332529,17.983049,,,,Mo-Fr 08:00-19:00; Sa 10:00-18:00; Su 11:00-17:00,1,osm
+osm_node_3221618269,Joe & The Juice,cafe,,,Stockholm,59.335076,18.070826,,,,Mo-Fr 08:00-19:00; Sa 10:00-17:00; Su 11:00-17:00,1,osm
+osm_node_3903505418,Joe & The Juice,cafe,,,Stockholm,59.335034,18.0679,True,,,Mo-Fr 08:00-19:00; Sa 10:00-17:00; Su 11:00-17:00,1,osm
+osm_node_4345612591,Joe & The Juice,cafe,,,Stockholm,59.34234,18.04945,,,,"Mo-Fr 08:00-19:00; Sa,Su 08:00-18:00",1,osm
+osm_node_5131313108,Joe & The Juice,cafe,,,Stockholm,59.331649,18.044475,,,,,1,osm
+osm_node_5191320837,Joe & The Juice,cafe,,,Stockholm,59.339698,18.060024,,,,,1,osm
+osm_node_5615955921,Joe & The Juice,cafe,,,Stockholm,59.339807,18.037458,False,,,,1,osm
+osm_node_5841672609,Joe & The Juice,cafe,,,Stockholm,59.337249,18.079594,,,,,1,osm
+osm_node_5906664868,Joe & The Juice,cafe,,,Stockholm,59.340057,18.090688,True,,,Mo-Fr 08:00-20:00; Sa 09:00-18:30; Su 10:00-17:30,1,osm
+osm_node_6877923124,Joe & The Juice,cafe,,,Stockholm,59.294111,18.080311,,,,,1,osm
+osm_node_6992559373,Joe & The Juice,cafe,,,Stockholm,59.333961,18.057707,False,,,Mo-Fr 08:00-19:00; Sa 10:00-18:00; Su 11:00-17:00,1,osm
+osm_node_7216645690,Joe & The Juice,cafe,,,Stockholm,59.354999,17.956717,,,,,1,osm
+osm_node_10114316490,Joe & The Juice,cafe,,,Stockholm,59.318902,18.071091,,,,Mo-Fr 07:30-20:00; Sa 08:00-19:00; Su 08:00-18:00,1,osm
+osm_node_11166955705,Joe & The Juice,cafe,,,Stockholm,59.342082,18.063809,,,,Mo-Fr 08:00-19:00; Sa 10:00-18:00; Su 10:00-17:00,1,osm
+osm_node_11581550287,Joe & The Juice,cafe,,,Stockholm,59.332258,18.06182,,,,,1,osm
+osm_node_12538635164,Joe & The Juice,cafe,,,Stockholm,59.333683,18.063754,,,,,1,osm
+osm_node_13357801368,Joe & The Juice,cafe,,,Stockholm,59.339468,18.080263,,,,Mo-Fr 07:30-19:00; Sa 09:00-18:00; Su 09:00-17:00,1,osm
+osm_node_13087024055,Joe's Coffee,cafe,,,Stockholm,59.335424,18.065013,,,,,1,osm
+osm_node_747463330,Johan & Nyström,cafe,,,Stockholm,59.31631,18.064006,False,,,Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-18:00,1,osm
+osm_node_4191481902,Johan & Nyström,cafe,,,Stockholm,59.328095,18.049123,,,,Mo-Fr 07:30-17:30; Sa 09:00-16:00,1,osm
+osm_node_8712509675,Jompas hörna,cafe,,,Stockholm,59.356262,18.095287,,,,,1,osm
+osm_node_3029049661,Josefins Glass & Café,cafe,,,Stockholm,59.339817,18.004574,,,,,1,osm
+osm_node_11833220272,K-Märkt,cafe,,,Stockholm,59.334108,18.067006,,,,Mo-Fr 07:30-18:00; Sa 10:00-18:00; Su 11:00-17:00,1,osm
+osm_node_8790091260,KTH Fika,cafe,Teknikringen 68A,,Stockholm,59.350677,18.072536,True,,,Mo-Th 07:30-17:00; Fr 07:30-16:00; Sa-Su off,1,osm
+osm_node_867360972,Kadampa meditationscenter,cafe,,,Stockholm,59.338587,18.052824,,,,,1,osm
+osm_node_2120843457,Kafe Rang,cafe,,,Stockholm,59.30395,18.094573,,,,,1,osm
+osm_node_490186037,Kaferang,cafe,,,Stockholm,59.312899,18.083511,,,,Mo-Fr 08:00-19:00; Sa-Su 09:00-19:00,1,osm
+osm_node_679284429,Kaffe,cafe,,,Stockholm,59.318041,18.067416,True,,,"Mo-Fr 08:00-17:00; Sa,Su 10:00-17:00",1,osm
+osm_node_1680548051,Kaffe & Deli,cafe,,,Stockholm,59.33518,18.08357,,,,Mo-Fr 08:00-16:00,1,osm
+osm_node_12011729401,Kaffe 7:an,cafe,,,Stockholm,59.382179,17.896868,,,,,1,osm
+osm_way_756083729,Kaffeestugan,cafe,,,Stockholm,59.340522,18.0428,,,,,1,osm
+osm_node_2560497452,Kaffein,cafe,Högdalsgången 10,,Stockholm,59.263361,18.042987,,,,Mo-Fr 05:30-19:00; Sa-Su 08:00-18:00,1,osm
+osm_node_418261868,Kaffekoppen,cafe,,,Stockholm,59.324891,18.070341,False,,,Mo-Su 10:00-22:00,1,osm
+osm_node_280239164,Kafé 44,cafe,,,Stockholm,59.315938,18.082819,False,,,Sa 12:00-16:00,1,osm
+osm_node_1513160675,Kafé Arte,cafe,,,Stockholm,59.343288,18.063835,,,,,1,osm
+osm_node_470319521,Kafé Himlavalvet,cafe,,,Stockholm,59.341853,18.054777,,,,"Mo-Fr 11:00-16:00; Sa,Su 11:00-17:00",1,osm
+osm_node_5961484044,Kafé Ingenstans,cafe,Bastuhagsvägen 41,Enskede,Stockholm,59.275494,18.048842,,,,"Tu-Fr 10:00-19:00, Sa-Su 10:00-17:00",1,osm
+osm_node_401428528,Kafé Kruthuset,cafe,,,Stockholm,59.328475,18.151722,,,,Mo-Su 10:00-17:00,1,osm
+osm_node_9820756202,Kafé Plattan,cafe,,,Stockholm,59.331916,18.064423,True,,,"Mo-We, Fr 10:00-19:00; Th 10:00-21:00; Sa 11:00-19:00; Su 11:00-17:00",1,osm
+osm_node_1649378195,Kajen,cafe,,,Stockholm,59.331519,18.091013,,,,,1,osm
+osm_relation_14143354,Kajsas i Parken,cafe,,,Stockholm,59.31127,18.09082,True,,,11:00-22:00,1,osm
+osm_node_3712268503,Kajsas på kajen,cafe,,,Stockholm,59.3082,18.097233,True,,,Mo-Sa 07:30-20:00; Su 07:30-19:30,1,osm
+osm_node_4097460528,Kanaans Bangolf & Café,cafe,Kanaans väg 85,Bromma,Stockholm,59.349465,17.857789,,,,10:00-21:00,1,osm
+osm_way_106745766,Kanaans Trädgårdscafe,cafe,Kanaans väg 83,Bromma,Stockholm,59.350661,17.854628,,,,12:00-20:00,1,osm
+osm_node_14268226601,Kanvas,cafe,,,Stockholm,59.331226,18.074785,,,,"Mo-We 07:30-14:00; Fr 07:30-14:00, 16:00-21:00; Th 07:30-14:00, 17:00-21:00",1,osm
+osm_node_2467062565,Karl o Kristinas garden café,cafe,Skarpnäcksvägen 52,,Stockholm,59.272502,18.11053,,,,"Sa 11:00-17:00; Su 11:00-17:00 ""call first""",1,osm
+osm_node_2884788356,Karla Café,cafe,,,Stockholm,59.339382,18.082894,,,,Mo-Fr 07:30-19:00; Sa-Su 10:00-19:00,1,osm
+osm_node_8361998275,Kasta Loss Bar & Bistro,cafe,,,Stockholm,59.351458,18.111414,,,,,1,osm
+osm_node_14017861150,Kersh,cafe,,,Stockholm,59.316813,18.072158,False,,,10:00-17:00,1,osm
+osm_node_1778361747,Kladdkakan,cafe,,,Stockholm,59.323904,18.069567,,,,,1,osm
+osm_node_410630766,Klara Strand Café,cafe,,,Stockholm,59.328017,18.057998,,,,,1,osm
+osm_node_14319902195,Klostervalvet,cafe,,,Stockholm,59.323588,18.073132,,,False,,1,osm
+osm_node_1258634232,Koffein,cafe,,,Stockholm,59.307937,18.076053,,,,Su 10:00-18:00; Mo-Fr 09:00-18:00,1,osm
+osm_node_12035324167,Kok Vrån,cafe,,,Stockholm,59.283416,18.113943,,,,,1,osm
+osm_node_5022984343,Koloni,cafe,Djurgårdsslätten 49-51,,Stockholm,59.324393,18.105842,,,,,1,osm
+osm_node_5020291638,Koloni Strömparterren,cafe,,,Stockholm,59.328686,18.069965,,,,Mo-Su 11:00-sunset,1,osm
+osm_node_9465114287,Komet,cafe,,,Stockholm,59.331111,18.048349,,,,"Mo-Fr 07:00-17:00; Sa,Su 08:00-17:00",1,osm
+osm_node_670381836,Konditori Genuin,cafe,,,Stockholm,59.331001,18.046149,,,,Mo-Fr 07:30-17:00; Sa 08:00-15:00; Su off,1,osm
+osm_node_1362690473,Konditori Lyran,cafe,,,Stockholm,59.301218,17.936227,True,,,Mo-Su 10:00-17:00,1,osm
+osm_node_2291233621,Konditorn & Bagarn,cafe,Pepparvägen 11,,Stockholm,59.25619,18.081326,,,,Mo off; Tu-Fr 07:00-18:00; Sa-Su 08:00-17:00,1,osm
+osm_node_10247566914,Konsthallen Butik & Bageri,cafe,,,Stockholm,59.324773,18.09702,,,,Mo-Su 08:00-20:00,1,osm
+osm_node_3577207370,Koppen,cafe,,,Stockholm,59.340138,18.114,,,,,1,osm
+osm_node_4848103047,Krans,cafe,,,Stockholm,59.325057,18.069196,,,,,1,osm
+osm_node_13606924747,Kringelgården Kransen,cafe,,,Stockholm,59.298558,18.002916,,,,"Mo-Fr 08:00-18:00; Sa,Su 08:00-17:00",1,osm
+osm_node_3056135134,Kungliga Motorbåt Klubben,cafe,,,Stockholm,59.331566,18.095224,,,,,1,osm
+osm_node_2511976486,Kungstensgatan 12,cafe,,,Stockholm,59.342797,18.062709,,,,Mo-Fr 08:00-15:15; Sa-Su off,1,osm
+osm_node_7505961950,Kupan,cafe,,,Stockholm,59.310527,18.078694,,,,Mo-Tu off; We-Sa 12:00-16:00; Su off,1,osm
+osm_node_1778361710,Källarbyn,cafe,,,Stockholm,59.323991,18.069728,True,,,,1,osm
+osm_node_1779515441,Kåkbrinken,cafe,,,Stockholm,59.324723,18.069734,,,,Mo-Fr 10:30-19:00;Sa-Su 10:30-19:30,1,osm
+osm_node_2527180315,Körsbär kafé,cafe,Tobaksvägen 6,Farsta,Stockholm,59.255119,18.0788,,,,"Tu-Fr 10:00-18:00; Sa,Su 10:00-17:00",1,osm
+osm_node_410553054,L'Angolo,cafe,,,Stockholm,59.337515,18.07108,,,,Mo-Fr 08:00-02:00; Sa 11:00-02:00; Su closed,1,osm
+osm_node_7227093310,La Fleur Café & Bar,cafe,,,Stockholm,59.338427,18.056756,,,,"Mo-Fr 09:00+; Sa,Su 10:00+",1,osm
+osm_node_1452422077,La Rustica,cafe,,,Stockholm,59.351379,17.900002,,,,,1,osm
+osm_node_1501759395,Leonardos Kafferosteri,cafe,,,Stockholm,59.315459,18.082325,,,,Tu-Su 10:00-17:00,1,osm
+osm_node_1256871258,Lilla Cafét på Söder,cafe,,,Stockholm,59.308311,18.078808,,,,Mo-Fr 07:00-18:00; Sa-Su 09:00-17:00,1,osm
+osm_node_11903264050,Lilla Espresso Bar,cafe,,,Stockholm,59.318121,18.057536,,,,Mo-Su 10:00-17:00,1,osm
+osm_node_4945453713,Lilla Mamsens Bageri,cafe,,,Stockholm,59.324893,18.005937,,,,Mo-Fr 06:00-15:00; Sa 08:00-16:00; Su 09:00-16:00,1,osm
+osm_node_895858594,Lilla P,cafe,,,Stockholm,59.339888,18.080374,,,,,1,osm
+osm_node_373820282,Lilla Parkkaféet,cafe,,,Stockholm,59.323843,18.09908,,,,Mo-Su 10:00-20:00,1,osm
+osm_node_11164973065,Lillebrors Bageri,cafe,,,Stockholm,59.340068,18.034114,,,,Tu-Fr 08:00-19:00; Sa-Su 08:00-17:00,1,osm
+osm_node_2521336636,Lindquists,cafe,,,Stockholm,59.345376,18.06177,,,,Mo-Fr 07:30-18:30; Sa-Su 09:00-18:00,1,osm
+osm_node_3572790699,Lisas grabb,cafe,,,Stockholm,59.310321,18.074289,True,,,Mo-Fr 06:30-15:30; Sa 07:30-15:00,1,osm
+osm_node_538239207,Livingroom,cafe,,,Stockholm,59.343783,18.035263,,,,,1,osm
+osm_node_2156455239,Locanda,cafe,,,Stockholm,59.332496,18.060527,,,,"Mo-Fr 07:00-16:00; Sa,Su off",1,osm
+osm_node_580137587,Louie Louie,cafe,,,Stockholm,59.312979,18.07899,True,,,Mo-Th 08:00-17:00,1,osm
+osm_node_2378804511,Lucys Café,cafe,,,Stockholm,59.301003,18.097558,,,,Mo-Fr 07:00-14:00,1,osm
+osm_node_312811168,Luna,cafe,,,Stockholm,59.331399,18.046346,,,,,1,osm
+osm_node_503682499,Lundbergs konditori,cafe,,,Stockholm,59.316021,18.010322,False,,,Mo-Fr 07:00-18:00;Sa 08:00-16:00;Su 09:00-16:00,1,osm
+osm_way_348345483,Lusknäppen,cafe,,,Stockholm,59.329256,18.093116,,,,,1,osm
+osm_node_446295279,Luxviken,cafe,,,Stockholm,59.323626,18.002795,,,,12:00-21:00,1,osm
+osm_way_1385129471,Lyckebo Trädgårdscafé,cafe,Kyrkhamnsvägen 20,,Stockholm,59.388675,17.780527,,,,,1,osm
+osm_way_298117603,Långbro bakficka,cafe,,,Stockholm,59.281803,17.97153,,,,Mo-Sa 08:00-17:00; Su 09:00-17:01,1,osm
+osm_way_1299955746,Machi machi,cafe,,,Stockholm,59.334449,18.062447,True,,,Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-17:00; Su closed,1,osm
+osm_node_10751283009,Mackverket,cafe,,,Stockholm,59.326358,18.094914,True,,,,1,osm
+osm_node_318591321,Mahalo,cafe,,,Stockholm,59.329366,18.041269,,,,Mo-Fr 08:00-19:00; Sa-Su 09:00-17:00,1,osm
+osm_node_6597652105,Mahalo,cafe,Hornsgatan 61,,Stockholm,59.317717,18.054291,True,,True,Mo-Fr 08:00-19:00; Sa-Su 09:00-17:00,1,osm
+osm_node_1255629509,Majella,cafe,,,Stockholm,59.310438,18.059553,True,,,Mo-Fr 07:00-17:00,1,osm
+osm_node_10138477899,Maka Maka,cafe,,,Stockholm,59.328127,18.048845,,,,Mo-Fr 10:00-15:00,1,osm
+osm_node_3290661661,Makki Makki,cafe,,,Stockholm,59.315797,18.072644,False,,,Mo-Th 11:00-23:00; Fr-Sa 11:00-02:00; Su 11:00-23:00,1,osm
+osm_node_3201689396,Mare Blu,cafe,,,Stockholm,59.357152,18.086323,True,,,"Fr,Sa 12:00-23:00; Su-Th 12:00-22:30",1,osm
+osm_node_1812890026,Mariedals trädgårdscafé,cafe,,,Stockholm,59.339377,18.017225,,,,,1,osm
+osm_node_1476642436,Marley Coffee,cafe,,,Stockholm,59.313601,18.079932,,,,Mo-Sa 11:00-18:00; Su 12:00-17:00,1,osm
+osm_node_4791683510,Mazzarini,cafe,,,Stockholm,59.322253,18.072515,,,,Mo-Th 08:00-22:00; Fr 08:00-23:00; Sa 10:00-23:00; Su 11:00-21:00,1,osm
+osm_node_473470767,Mellqvist kaffebar,cafe,,,Stockholm,59.339787,18.035725,True,,,Mo 06:00-20:00; Tu-Sa 06:00-22:00; Su 06:00-20:00,1,osm
+osm_node_12603975207,Meraki Kafe,cafe,,,Stockholm,59.337976,18.074607,,,,Mo-Fr 07:30-17:00; Sa 10:00-17:00; Su off,1,osm
+osm_node_12640192713,Metro Café,cafe,,,Stockholm,59.335766,18.063671,,,,Mo-Fr 06:00-21:30; Sa 09:00-21:30; Su 10:00-21:30,1,osm
+osm_way_1050270413,Midsommarköket,cafe,,,Stockholm,59.300835,18.004508,,,,,1,osm
+osm_node_1814125821,Misteln,cafe,,,Stockholm,59.324808,18.07039,False,,,,1,osm
+osm_node_13828150125,Mo Mo Cha Gamla Stan,cafe,,,Stockholm,59.32305,18.0712,True,,,"Mo-Th,Su 12:00-18:00; Fr-Sa 12:00-19:00",1,osm
+osm_node_1397247514,Mo Mo Cha SoFo,cafe,,,Stockholm,59.311752,18.075063,,,,Mo-Th 12:00-18:00; Fr-Sa 12:00-19:00; Su 12:00-18:00,1,osm
+osm_node_3978808405,Momento café,cafe,,,Stockholm,59.341201,18.113473,,,,,1,osm
+osm_node_4318451922,Moon,cafe,,,Stockholm,59.316089,18.057876,,,,Mo-Fr 07:00-16:00,1,osm
+osm_node_11101686078,Moumo Restaurang,cafe,,,Stockholm,59.31192,18.073836,,,,"Mo-Fr 07:00-20:00; Sa,Su 09:00-20:00",1,osm
+osm_node_5690632821,Mr Cake,cafe,,,Stockholm,59.343325,18.068757,,,,Mo-Fr 07:30-18:00; Sa-Su 09:00-18:00,1,osm
+osm_node_473583502,Muffin Bakery,cafe,,,Stockholm,59.336705,18.058434,True,,,,1,osm
+osm_node_1657737901,Mullhönan,cafe,,,Stockholm,59.309515,18.08703,,,,Mo-Fr 11:00-15:00,1,osm
+osm_node_1779515444,Muren,cafe,,,Stockholm,59.325518,18.069006,,,,,1,osm
+osm_node_12009239502,Musketörerna I Rågsved,cafe,,,Stockholm,59.255042,18.031291,,,,,1,osm
+osm_node_13243378255,Muttley & Jack's,cafe,,,Stockholm,59.311691,18.096515,,,,,1,osm
+osm_node_672945365,Mäster Olofsgården,cafe,,,Stockholm,59.324655,18.071221,,,,14:00-18:00,1,osm
+osm_node_9460366417,NK Art Bakery,cafe,,,Stockholm,59.333289,18.067654,,,,Mo-Fr 07:30-19:00; Sa 10:00-18:00; Su 11:00-17:00,1,osm
+osm_node_12014458497,Nano Café,cafe,,,Stockholm,59.347972,17.883279,,,,,1,osm
+osm_node_11989747926,Nejo’s Café,cafe,,,Stockholm,59.387927,17.928752,,,,,1,osm
+osm_node_318680195,Newt Food,cafe,,,Stockholm,59.329704,18.035935,,,,Mo-Fr 07:00-16:00; Sa-Su 08:00-16:00,1,osm
+osm_node_11037928930,Ninecha,cafe,,,Stockholm,59.318836,18.075036,,,,Mo-Fr 12:00-19:00; Sa-Su 13:00-19:00,1,osm
+osm_node_566435740,Nockeby bageri,cafe,,,Stockholm,59.32891,17.927935,False,,,"Mo-Fr 07:30-19:00; Sa, Su 08:00-17:00",1,osm
+osm_node_701186525,Non Solo Bar,cafe,,,Stockholm,59.339828,18.035477,False,,,Mo-Tu 08:00-21:00; We-Sa 08:00-22:00; Su 08:00-20:00,1,osm
+osm_node_418315957,Nova,cafe,,,Stockholm,59.322562,18.073251,False,,,Mo-Sa 09:00-18:00+; Su 09:30-18:00+,1,osm
+osm_node_12014521301,Nutello House,cafe,,,Stockholm,59.243473,18.092605,,,,,1,osm
+osm_node_538182058,Nybergs konditori,cafe,,,Stockholm,59.343939,18.049754,,,,"Mo-Fr 07:00-19:00; Sa,Su 10:00-17:00",1,osm
+osm_node_859149434,Nästan hemma,cafe,,,Stockholm,59.300925,17.957392,,,,,1,osm
+osm_node_7208218656,Obsans Parklek,cafe,,,Stockholm,59.341824,18.055953,,,,,1,osm
+osm_node_13361319695,Ocha Tea House,cafe,,,Stockholm,59.336289,18.079761,,,,Mo-Fr 12:00-18:00; Sa 12:00-17:00,1,osm
+osm_node_675127148,Omayma,cafe,,,Stockholm,59.312532,18.08233,,,,Mo-Fr 08:00-18:00; Sa 09:00-18:00; Su 10:00-18:00,1,osm
+osm_node_6855464571,Oolong Tea House,cafe,,,Stockholm,59.33464,18.064912,True,,,Mo-Su 11:00-19:00,1,osm
+osm_node_13354485882,Oolong Tea House,cafe,,,Stockholm,59.332318,18.067913,,,,Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 10:00-20:00,1,osm
+osm_node_4612332389,Organico,cafe,,,Stockholm,59.31802,18.060404,,,,Mo-Fr 10:00-18:00; Sa 11:00-16:00; Su off; Aug off,1,osm
+osm_node_710212962,Pallas,cafe,,,Stockholm,59.36224,17.87259,True,,,Mo-Fr 07:30-20:00; Sa 09:00-18:00; Su 10:00-18:00,1,osm
+osm_node_4835400744,Paloma,cafe,,,Stockholm,59.322826,18.072944,True,,,Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su 11:00-16:00,1,osm
+osm_node_9043766418,Panem,cafe,,,Stockholm,59.324276,18.069009,,,,Mo-Fr 08:15-18:00; Sa-Su 09:00-18:00; PH closed,1,osm
+osm_node_12856719530,Panini,cafe,,,Stockholm,59.335799,18.049819,,,,,1,osm
+osm_node_517814599,Panini Internazionale,cafe,,,Stockholm,59.334062,18.074283,,,,Mo-Fr 07:00-14:00; Sa-Su off,1,osm
+osm_node_11501426742,Panini Internazionale,cafe,,,Stockholm,59.334803,18.032294,,,,,1,osm
+osm_node_2429843632,Panorama,cafe,,,Stockholm,59.33201,18.064795,,,,Mo-Fr 11:00-19:00; Sa-Su 11:00-18:00,1,osm
+osm_node_566438143,Park Konditori,cafe,Västerled 4,,Stockholm,59.329066,17.973363,,,,Mo-Fr 07:30-17:00; Sa-Su 08:00-16:00,1,osm
+osm_node_7178959500,Parkfiken,cafe,,,Stockholm,59.307658,17.994902,,,,,1,osm
+osm_node_760201397,Parklådan,cafe,,,Stockholm,59.341233,18.045308,,,,,1,osm
+osm_node_514863650,Pas d'art,cafe,,,Stockholm,59.334251,18.072998,,,,Mo-Tu 11:30-22:00; We-Th 11:30-23:00; Fr 11:30-01:00; Sa 12:00-01:00; Su 13:00-21:00,1,osm
+osm_node_1457875007,Pascal,cafe,,,Stockholm,59.342075,18.052023,,,,Mo-Th 07:00-19:00; Fr 07:00-18:00; Sa-Su 08:00-17:00,1,osm
+osm_node_1509877905,Pascal,cafe,,,Stockholm,59.312089,18.078942,,,,"Mo-Fr 07:00-18:00; Sa,Su 08:00-17:00",1,osm
+osm_node_12688499728,Pascal,cafe,,,Stockholm,59.346188,18.035114,,,,closed,1,osm
+osm_node_11171413036,Pascal Kaffebar,cafe,,,Stockholm,59.336889,18.073745,True,,,Mo-Fr 07:30-18:00; Sa 09:00-18:00; Su 09:00-17:00,1,osm
+osm_node_13122885277,Paulinas kök & kakeri,cafe,,,Stockholm,59.316051,18.088583,,,,Mo-Fr 07:15-18:00; Sa-Su 09:00-17:00,1,osm
+osm_node_9034635919,Pearl House,cafe,,,Stockholm,59.335985,17.952608,,,,,1,osm
+osm_node_318623035,Petite France,cafe,,,Stockholm,59.328031,18.037077,,,,Mo-Fr 07:00-18:00; Sa-Su 07:00-17:00,1,osm
+osm_node_12543270401,Petite France,cafe,,,Stockholm,59.335152,18.063649,,,,Mo-Fr 08:00-18:00; Sa 10:00-17:00; Su off,1,osm
+osm_node_2749153072,Pistage,cafe,,,Stockholm,59.336051,18.093686,,,,Mo-Fr 07:00-15:00,1,osm
+osm_node_670786476,Poli,cafe,,,Stockholm,59.333484,18.031074,,,,Mo-Fr 07:00-17:00; Sa 09:00-15:00,1,osm
+osm_node_12027967748,Polonez Cafe & Deli,cafe,,,Stockholm,59.339711,17.938149,,,,,1,osm
+osm_node_3633917515,Pom & Flora,cafe,,,Stockholm,59.313737,18.086582,,,,Mo-Fr 07:00-15:00; Sa-Su 09:00-16:00,1,osm
+osm_node_5822061246,Pom & Flora,cafe,,,Stockholm,59.34468,18.058939,,,,"Mo-Fr 07:00-16:00; Sa,Su 09:00-16:00",1,osm
+osm_node_13359851126,Pom & Flora,cafe,,,Stockholm,59.340927,18.029336,,,,Mo-Fr 07:30-15:00; Sa-Su 09:00-16:00,1,osm
+osm_node_783894348,Prego Allhuset,cafe,,,Stockholm,59.363489,18.057516,,,,Mo-Fr 08:30-16:00,1,osm
+osm_node_783893731,Prego D-Huset,cafe,,,Stockholm,59.363328,18.060724,,,,Mo-Th 08:00-19:30; Fr 08:00-16:30; Sa-Su 08:30-16:00,1,osm
+osm_node_3679365520,Prego Studenthuset,cafe,,,Stockholm,59.362388,18.058533,,,,Mo-Th 08:00-18:00; Fr 08:00-16:30,1,osm
+osm_node_7257809236,Prepp,cafe,,,Stockholm,59.310603,18.029726,,,,,1,osm
+osm_node_2466944888,Primafila,cafe,,,Stockholm,59.338009,18.052943,,,,Mo-Fr 07:30-17:00; Sa 09:00-16:00; Su 09:00-15:00,1,osm
+osm_node_1149275260,Princess,cafe,,,Stockholm,59.317643,18.051483,True,,,Mo-Fr 07:00-18:00;Sa 08:00-17:00;Su 09:00-16:00,1,osm
+osm_node_1589625348,Pärlans,cafe,,,Stockholm,59.313529,18.082012,,,,Mo-Fr 11:00-18:00; Sa 11:00-17:00; Su 11:00-16:00,1,osm
+osm_node_512538822,RC,cafe,,,Stockholm,59.331359,18.068521,True,,,Mo-Fr 07:00-18:00; Sa 10:00-18:00; Su 11:00-16:00,1,osm
+osm_node_2371137590,RC Café & Patisserie,cafe,,,Stockholm,59.335817,18.067324,,,,Mo-Fr 07:00-18:00; Su 09:00-18:00; Sa 10:00-17:00,1,osm
+osm_node_12587264526,RC Café & Patisserie,cafe,,,Stockholm,59.334452,18.063684,,,,Mo-Fr 07:00-18:00; Sa 11:00-17:30; Su off,1,osm
+osm_node_1408934877,Ragazzi,cafe,,,Stockholm,59.335766,18.059392,False,,,Mo-Th 08:00-23:00; Fr 08:00-24:00; Sa 09:00-24:00; Su 10:00-22:00,1,osm
+osm_node_279804259,Rastgården,cafe,,,Stockholm,59.321212,18.02525,,,,,1,osm
+osm_node_766792001,Ritorno,cafe,,,Stockholm,59.341456,18.044533,,,,Mo 07:00-20:00; Tu-Th 07:00-21:00; Fr 07:00-20:00; Sa 08:00-18:00; Su 10:00-18:00,1,osm
+osm_node_9105355088,Ritorno,cafe,,,Stockholm,59.33628,18.048527,,,,Mo-Fr 07:00-16:00; Sa 08:00-15:00; Su 09:00-15:00,1,osm
+osm_node_4283679633,Robert E:S Choklad,cafe,Grundtvigsgatan 26,Bromma,Stockholm,59.346714,17.884599,,,,,1,osm
+osm_node_335725616,Robin Delselius bageri,cafe,Stora Gungans väg 2,Enskede,Stockholm,59.284748,18.088039,False,,,Mo-Fr 07:30-18:30; Sa 08:00-17:00; Su 08:00-17:00,1,osm
+osm_node_11989772128,Romeo Café,cafe,,,Stockholm,59.388336,17.928955,,,,,1,osm
+osm_node_10580022687,Rose Cafe,cafe,,,Stockholm,59.339548,18.062223,,,,,1,osm
+osm_node_408233436,Rosendals Trädgårdskafé,cafe,Rosendalsterrassen 12,,Stockholm,59.327468,18.114835,True,,,11:00-16:00,1,osm
+osm_node_5059869893,Rosteriet,cafe,,,Stockholm,59.311934,18.023991,True,,,,1,osm
+osm_node_8537919057,Runsten,cafe,,,Stockholm,59.324786,18.069986,,,,,1,osm
+osm_node_4405645696,Russin,cafe,,,Stockholm,59.329868,18.004974,,,,Mo-Fr 07:15-18:00;Sa-Su 09:00-18:00,1,osm
+osm_node_7566298745,Rålambshovsparken Parklek - café,cafe,,,Stockholm,59.32838,18.023789,,,,Mo-Fr 09:00-17:00; Sa 10:00-15:00,1,osm
+osm_node_11886294612,SJ Lounge,cafe,,,Stockholm,59.329617,18.058784,,,,Mo-Fr 06:00-18:30; Su 10:00-18:30,1,osm
+osm_node_415282987,Sams,cafe,,,Stockholm,59.316204,18.040147,False,,,Mo-Fr 07:00-18:00; Sa 10:00-16:00; Su 12:00-16:00,1,osm
+osm_node_1554617838,Sankt Pauls bageri,cafe,,,Stockholm,59.317793,18.06425,False,,,Mo-Fr 07:00-18:00; Sa-Su 08:00-18:00,1,osm
+osm_node_5314829621,Sara's Art and Coffee,cafe,,,Stockholm,59.324578,18.069888,,,,Mo-Su 11:00-17:00,1,osm
+osm_node_1106123707,Saturnus,cafe,,,Stockholm,59.339572,18.068901,False,,,"Mo-Fr 08:00-18:00; Sa, Su 09:00-18:00",1,osm
+osm_node_2649604228,Selma Deli,cafe,,,Stockholm,59.355941,18.087487,True,,,"Mo off; Tu-Fr 11:30-20:00; Sa,Su 11:00-17:00",1,osm
+osm_node_475902874,Sempre,cafe,,,Stockholm,59.334847,18.072064,,,,Mo-Th 07:30-17:00; Fr 07:30-21:00; Sa 10:00-17:00; Su off,1,osm
+osm_node_11989561325,Shaah Macaan,cafe,,,Stockholm,59.388531,17.929427,,,,,1,osm
+osm_node_1332583272,Shine Cafe,cafe,,,Stockholm,59.316487,18.068157,False,,,Mo-Fr 12:00-18:00; Sa-Su 12:00-16:00,1,osm
+osm_node_1748881976,Sima deli,cafe,,,Stockholm,59.342288,18.083052,,,,Mo closed; Tu-Fr 10:00-19:00; Sa-Su 10:00-17:00,1,osm
+osm_way_1385129468,Sjöcafé Lövstabadet,cafe,,,Stockholm,59.388373,17.778909,,,,,1,osm
+osm_node_31008794,Skafferiet i Ekoparken,cafe,Stora Skuggans Väg 38,,Stockholm,59.365057,18.071276,,,,,1,osm
+osm_node_1649328070,Skanskvarn,cafe,,,Stockholm,59.300789,18.079579,,,,,1,osm
+osm_node_1424620788,Skeppsholmens Café,cafe,,,Stockholm,59.325737,18.088376,,,,,1,osm
+osm_way_171324445,Skogsbo,cafe,,,Stockholm,59.314116,17.962157,,,,,1,osm
+osm_node_5942673485,Skroten,cafe,,,Stockholm,59.322417,18.100133,,,,,1,osm
+osm_node_1149275203,Sköldpaddsön,cafe,,,Stockholm,59.318639,18.056315,,,,Mo closed; Tu-Fr 16:00-22:00; Sa 12:00-22:00; Su 12:00-20:00,1,osm
+osm_node_2665546720,Snabb & Lugn Café,cafe,Älvsjö Stationsgata 11,Älvsjö,Stockholm,59.27849,18.010836,True,,,,1,osm
+osm_node_10539888496,Socker Sucker,cafe,,,Stockholm,59.339404,18.05565,,,,Mo off; Tu-Fr 08:00-18:00; Sa 10:00-17:00; Su 10:00-16:00,1,osm
+osm_node_510605894,Sockerbagaren,cafe,,,Stockholm,59.329158,18.042725,,,,Mo-Fr 06:00-18:00;Sa 09:00-15:00;Su off,1,osm
+osm_node_7452726001,Solros Creperie,cafe,,,Stockholm,59.318985,18.064427,,,,Mo-Sa 10:00-20:00; Su 12:00-20:00,1,osm
+osm_node_1098147975,Sospeso Stockholm,cafe,Värtavägen 31,,Stockholm,59.342334,18.097588,,,,"Tu 09:00-16:00, We-Fr 08:00-16:00, Sa-Su 09:00-15:00",1,osm
+osm_node_1230324156,Sosta Espresso Bar,cafe,,,Stockholm,59.34089,18.05888,,,,Mo-Fr 08:00-18:00;Sa 10:00-17:00;Su off,1,osm
+osm_node_1445492469,Spånga Konditori,cafe,Spånga stationsplan 1,Spånga,Stockholm,59.382455,17.898966,True,,,,1,osm
+osm_node_1633157902,Stadsmuseets café,cafe,,,Stockholm,59.319758,18.070908,,,,"Mo-Tu,Th-Sa 11:00-16:30; We 11:00-19:30; Su off",1,osm
+osm_node_2633887058,Starbucks,cafe,,,Stockholm,59.330693,18.057307,True,,,Mo-Fr 05:30-22:00; Sa-Su 06:30-22:00,1,osm
+osm_node_3764249698,Starbucks,cafe,,,Stockholm,59.332402,18.068379,True,,,Mo-Fr 07:30-21:00; Sa-Su 09:00-20:00,1,osm
+osm_node_418249649,Sten Sture,cafe,,,Stockholm,59.325277,18.070062,True,,,Mo-Su 10:00-21:00,1,osm
+osm_node_1787546856,Stockholms Gästabud,cafe,,,Stockholm,59.325686,18.07397,False,,,Mo-Su 12:00-22:00,1,osm
+osm_node_707627938,Stockholms glass & pastahus,cafe,,,Stockholm,59.340913,18.092325,False,,,Mo-Fr 10:30-21:00; Sa-Su 11:00-21:00,1,osm
+osm_node_701186450,Stockholms glasshus,cafe,,,Stockholm,59.339367,18.033159,,,,We-Fr 11:00-18:00; Sa 11:00-17:00; Su 12:00-17:00,1,osm
+osm_node_2300149612,Stoff,cafe,,,Stockholm,59.273582,17.995465,,,,,1,osm
+osm_node_12139225172,Stora Bageriet,cafe,,,Stockholm,59.333287,18.077863,,,,Mo-Fr 07:30-18:00; Sa-Su 08:00-17:00,1,osm
+osm_node_3269132362,Stora Blecktornet,cafe,,,Stockholm,59.307488,18.085098,,,,,1,osm
+osm_node_765085244,Stora Henriksvik,cafe,,,Stockholm,59.321932,18.0257,,,,,1,osm
+osm_node_13986187395,Stora Henriksvik trädgård,cafe,,,Stockholm,59.321973,18.02516,,,,Mo-Su 11:00-17:00,1,osm
+osm_node_7595751465,Storasyster stenugnbageri,cafe,,,Stockholm,59.262269,18.081164,,,,"Mo-Fr 08:00-19:00; Sa,Su 09:00-19:00",1,osm
+osm_way_23627183,Strandcaféet,cafe,,,Stockholm,59.237143,18.085868,,,,,1,osm
+osm_node_7073920685,Sultan Café & Bar,cafe,,,Stockholm,59.263874,18.100129,,,,"Jan-Dec Mo-Fr 15:00-01:00, Sa-Su 16:00-03:00",1,osm
+osm_node_418326048,Sundbergs,cafe,,,Stockholm,59.322823,18.07302,True,,,Mo-Fr 09:00-20:00; Sa-Su 10:00-20:00,1,osm
+osm_node_674214246,Systrarna Andersson,cafe,,,Stockholm,59.342275,18.03643,,,,"Mo-Fr 07:00-18:00; Sa,Su 08:00-18:00",1,osm
+osm_node_683449756,Systrarna Frö,cafe,,,Stockholm,59.335594,18.035116,,,,Mo-Fr 11:00-14:00; Sa-Su off,1,osm
+osm_node_13982313104,T.A.T Matcafé,cafe,,,Stockholm,59.29948,18.003482,,,,,1,osm
+osm_node_10110821239,TB6,cafe,,,Stockholm,59.328898,18.061985,,,,,1,osm
+osm_node_1604973994,THS-Cafe,cafe,,,Stockholm,59.347606,18.070526,True,,,Mo-Fr 07:45-17:30,1,osm
+osm_node_479369214,Tabbouli Street,cafe,,,Stockholm,59.334087,18.063053,,,,Mo-Sa 10:45-19:00; Su 12:00-18:00,1,osm
+osm_node_3480751954,Tabes kök,cafe,,,Stockholm,59.303956,18.098129,,,,,1,osm
+osm_node_5262025993,Tant Maja och Fröken Emilia,cafe,,,Stockholm,59.308133,18.027242,,,,"Mo-Fr 07:00-18:00; Sa,Su 09:00-16:00",1,osm
+osm_node_2877460666,Tastys to Go,cafe,,,Stockholm,59.404467,17.949853,,,,Mo-Fr 07:30-17:00; Sa-Su off,1,osm
+osm_node_766791992,Tea & Garden,cafe,,,Stockholm,59.340399,18.047124,,,,"Tu-Fr 11:00-18:30; Sa,Su 12:00-18:00",1,osm
+osm_node_534138248,Tegelbruket,cafe,,,Stockholm,59.302048,18.015351,,,,,1,osm
+osm_node_9056301857,Tehuset,cafe,,,Stockholm,59.330304,18.072054,True,,False,,1,osm
+osm_node_2110948810,Tesalongen,cafe,,,Stockholm,59.33246,18.078601,,,,Mo-Fr 10:00-18:00;Sa 10:00-16:30;Su 12:00-15:30,1,osm
+osm_node_882393979,The Bagel,cafe,,,Stockholm,59.311456,18.072225,True,,,"Mo-Fr 08:00-18:00; Sa,Su,PH 10:00-18:00",1,osm
+osm_node_5548016531,The Coffice,cafe,Drottning Kristinas väg 36A,,Stockholm,59.35065,18.068244,True,,,"Mo-Fr 07:00-18:00; Sa,Su 10:00-15:00",1,osm
+osm_node_9945301806,The Coffice Albano,cafe,,,Stockholm,59.354249,18.057292,,,,Mo-Th 07:30-17:00; Fr 07:30-16:00; Sa-Su off,1,osm
+osm_node_322624050,Thelins,cafe,,,Stockholm,59.334186,18.032013,,,,Mo-Fr 07:00-20:00; Sa-Su 08:00-19:00,1,osm
+osm_node_449884374,Thelins,cafe,,,Stockholm,59.334587,18.060178,False,,,"Mo-Fr 07:00-20:00; Sa,Su 08:00-20:00",1,osm
+osm_node_1659654424,Thelins,cafe,,,Stockholm,59.310343,18.056875,,,,"Mo-Fr 07:00-16:00; Sa, Su 08:00-16:00",1,osm
+osm_node_4814331738,Thelins,cafe,Johan Skyttes Väg 185,Älvsjö,Stockholm,59.278723,18.008594,,,,Mo-Fr 07:00-18:00; Sa-Su 09:00-17:00,1,osm
+osm_node_6477254397,Thelins,cafe,,,Stockholm,59.345048,18.059008,,,,"Mo-Fr 07:00-19:00; Sa,Su 08:00-18:00",1,osm
+osm_node_9048057526,Thelins,cafe,,,Stockholm,59.337538,18.079801,,,,Mo-Fr 07:00-19:00; Sa-Su 08:00-18:00,1,osm
+osm_node_2023742449,Thelins Grand Café,cafe,,,Stockholm,59.33157,18.072183,,,,,1,osm
+osm_node_7008802837,Thelins konditori,cafe,,,Stockholm,59.343284,18.051884,,,,Mo-Fr 07:00-20:00; Sa-Su 08:00-20:00,1,osm
+osm_node_12206765605,Thelins konditori,cafe,,,Stockholm,59.31543,18.00138,,,,,1,osm
+osm_node_13758152435,Third Place,cafe,,,Stockholm,59.343763,18.035128,,,,Mo-Su 09:00-21:00,1,osm
+osm_node_360757854,Tidemans,cafe,,,Stockholm,59.333568,18.077686,,,,Mo-Fr 10:00-20:00; Sa-Su 11:00-20:00,1,osm
+osm_way_298078126,Torpet i Orhem,cafe,Orhemsvägen 135,,Stockholm,59.248025,18.140534,,,,Tu-Su 10:00-17:00,1,osm
+osm_node_3520185294,Tugg,cafe,,,Stockholm,59.316088,18.043548,,,,Mo-Fr 07:30-18:00;Sa 11:00-15:00;Su off,1,osm
+osm_node_1397247512,Twang,cafe,,,Stockholm,59.311766,18.078813,,,,,1,osm
+osm_node_3125745507,Two fat ladies in Stockholm,cafe,,,Stockholm,59.347201,18.06736,,,,Mo-Tu off; We-Fr 09:00-15:00; Sa-Su 09:00-15:30,1,osm
+osm_node_3225611449,Tårtan,cafe,,,Stockholm,59.319527,18.066578,False,,,Mo-Fr 08:00-18:00; Sa 09:00-18:00; Su 09:00-17:00,1,osm
+osm_node_8806942209,Ugglan i Borgen,cafe,,,Stockholm,59.338256,18.115563,,,,,1,osm
+osm_node_469283951,Ugo,cafe,,,Stockholm,59.32954,18.043672,,,,Mo-Fr 07:00-17:00; Sa-Su 09:00-16:00,1,osm
+osm_node_1811685745,Under Kastanjen,cafe,,,Stockholm,59.324758,18.072858,,,,Mo-Fr 08:00-23:00;Sa 09:00-23:00;Su 09:00-21:00,1,osm
+osm_node_14131188758,Vasaboden,cafe,,,Stockholm,59.328767,18.092073,,,,,1,osm
+osm_node_7153971972,Vasaparkens Parklek,cafe,,,Stockholm,59.339779,18.042942,,,,Mo-Fr 09:00-16:45,1,osm
+osm_node_449884388,Vete-Katten,cafe,Kungsgatan 55,,Stockholm,59.334112,18.058346,False,,,Mo-Fr 07:30-20:00; Sa-Su 09:00-19:00,1,osm
+osm_node_3601164236,Vete-Katten,cafe,,,Stockholm,59.310484,18.07552,True,,,"Mo-Fr 07:00-20:00; Sa, Su 07:30-18:00",1,osm
+osm_node_12105858646,Vete-Katten,cafe,,,Stockholm,59.331013,18.059722,True,,,Mo-Fr 07:00-19:00; Sa-Su 11:00-17:00,1,osm
+osm_node_11247947585,Vete-Katten Bakfickan,cafe,Gamla Brogatan 30,,Stockholm,59.333858,18.059298,False,,False,"Mo-Fr 07:30-20:00; Sa,Su 09:00-19:00",1,osm
+osm_node_1324187502,Visitors Center,cafe,,,Stockholm,59.270976,18.103714,,,,,1,osm
+osm_node_861743583,Vurma,cafe,,,Stockholm,59.315524,18.02962,False,,,Mo-Su 09:00-19:00,1,osm
+osm_node_9903774317,Vävarns kaffe,cafe,Båtbyggargatan 24,,Stockholm,59.306003,18.109137,,,,"Mo 07:00-11:00; Tu-Fr 07:00-15:00; Sa,Su 10:00-15:00",1,osm
+osm_node_1577198911,WGC Café,cafe,,,Stockholm,59.350919,18.048807,,,,Mo-Fr 07:30-16:00,1,osm
+osm_node_552513994,Wallins,cafe,,,Stockholm,59.307716,18.073459,False,,,Mo-Fr 07:00-18:00; Sa 09:00-17:00; Su 10:00-16:00,1,osm
+osm_node_491504024,Wayne's Coffee,cafe,,,Stockholm,59.406678,17.955935,,,,Mo-Fr 07:00-15:30,1,osm
+osm_node_710213228,Wayne's Coffee,cafe,,,Stockholm,59.363476,17.872961,True,,,,1,osm
+osm_node_2581279164,Wayne's Coffee,cafe,Götalandsvägen 227,Älvsjö,Stockholm,59.279079,18.009303,,,,Mo-Fr 07:00-18:30; Sa-Su 09:00-17:00,1,osm
+osm_node_497171123,Waynes Coffee,cafe,,,Stockholm,59.331728,18.063394,,,,Mo-Fr 06:30-21:00; Sa 07:30-22:00; Su 08:00-21:00,1,osm
+osm_node_2516720337,Waynes Coffee,cafe,Hammarby Fabriksväg 33,,Stockholm,59.301058,18.095449,,,,,1,osm
+osm_node_1866052166,Waynes coffee,cafe,,,Stockholm,59.356948,17.956732,,,,,1,osm
+osm_node_1551627382,Weindels Konditori,cafe,,,Stockholm,59.316568,18.040928,True,,,Mo-Fr 06:30-18:00; Sa-Su 10:00-17:00,1,osm
+osm_node_7216644752,Wienerkonditoriet,cafe,,,Stockholm,59.355301,17.956569,,,,,1,osm
+osm_node_4349473222,Wild Flower Bakehouse Café,cafe,,,Stockholm,59.302491,18.00184,,,,"Mo-Sa 08:00-17:00, Su 09:00-17:00",1,osm
+osm_node_5963596354,Wilmer,cafe,,,Stockholm,59.345441,18.040111,,,,Mo-Fr 10:00-16:00; Sa-Su closed,1,osm
+osm_node_729859461,Wilmer Kaffebar,cafe,,,Stockholm,59.32978,18.045189,False,,,"Mo-Fr 08:00-18:00; Sa, Su 09:00-17:00",1,osm
+osm_node_722557023,Wintervikens cafe,cafe,Vinterviksvägen 60,,Stockholm,59.311638,17.992117,,,,Mo-Su 11:00-16:00,1,osm
+osm_node_9802165707,Yi Fang Tea,cafe,,,Stockholm,59.333821,18.065564,,,,Mo-Su 11:30-18:00,1,osm
+osm_node_632710710,Zeppelin,cafe,,,Stockholm,59.332441,18.040491,,,,Mo-Fr 08:00-14:00;Sa 09:00-16:00;Su off,1,osm
+osm_node_8767948790,café DOUGH,cafe,Halmstadsvägen 43,,Stockholm,59.290178,18.117881,,,,"Su, We-Th 10:00-19:00; Fr-Sa 10:00-21:00",1,osm
+osm_node_2507550682,il Caffe,cafe,,,Stockholm,59.316215,18.034089,,,,Mo-Fr 07:00-19:00;Sa-Su 08:00-19:00,1,osm
+osm_node_1580943080,ilcaffè,cafe,,,Stockholm,59.31265,18.081073,True,,,Mo-Fr 08:00-17:00; Sa-Su 09:00-17:00,1,osm
+osm_node_1256871288,À la Crepe,cafe,,,Stockholm,59.311177,18.080718,False,,,Mo 16:00-22:00;Tu-Fr 16:00-23:00;Sa 13:00-23:00;Su 13:00-22:00,1,osm
+osm_node_538907119,À la Lo,cafe,,,Stockholm,59.345377,18.062516,False,,,Mo-Fr 07:00-16:00; Sa-Su 09:00-16:00,1,osm
+osm_node_751969531,Älskade traditioner,cafe,,,Stockholm,59.311093,18.081457,,,,Tu-Fr 11:00-19:00; Sa-Su 10:00-18:00,1,osm
+osm_node_3595880923,Ålstensgatan 15,cafe,,,Stockholm,59.323671,17.956925,,,,,1,osm
+osm_node_715701178,Årsta konditori,cafe,,,Stockholm,59.29675,18.051158,False,,,"Mo-Fr 07:00-18:00; Sa 08:00-16:00; Su,PH off",1,osm
+osm_node_459514090,Årstabo,cafe,,,Stockholm,59.297465,18.051685,True,,,We-Sa 08:00-22:00; Su-Tu 08:00-17:00,1,osm
+osm_node_1580943271,Åsö konditori & bageri,cafe,,,Stockholm,59.312561,18.072129,True,,,Mo-Th 07:00-19:00; Fr 07:00-18:00; Sa-Su 08:00-17:00,1,osm
+osm_node_304567450,Östra Bageriet,cafe,,,Stockholm,59.345973,18.071464,,,,Mo-Fr 06:00-18:00; Sa 06:30-15:00; Su closed; PH closed,1,osm
+osm_node_9034687517,Abrahamsbergs Video,confectionery,,,Stockholm,59.335617,17.952242,,,,Mo-Fr 10:00-22:00; Sa-Su 11:00-22:00,1,osm
+osm_node_11991699570,Al Shami,confectionery,,,Stockholm,59.276682,17.904304,,,,,1,osm
+osm_node_13701297454,Candy Center,confectionery,,,Stockholm,59.294124,18.032026,,,,,1,osm
+osm_node_8852911881,Candyland,confectionery,Svartågatan 2B,,Stockholm,59.276407,18.131716,,,,Mo-Su 10:00-23:00,1,osm
+osm_node_3817837463,Caramella,confectionery,,,Stockholm,59.334035,18.062244,,,,"Mo-Th 11:00-20:00; Fr,Sa 11:00-21:00; Su 12:00-19:00",1,osm
+osm_node_4453634342,Gamla stans polkagriskokeri,confectionery,,,Stockholm,59.323242,18.070623,True,,,Mo-Su 10:00-20:00,1,osm
+osm_node_11162610126,Godisboden,confectionery,,,Stockholm,59.380148,17.817498,,,,Mo-Sa 10:00-20:00,1,osm
+osm_node_4097955158,Godisbolaget Bromma,confectionery,Ekbacksvägen 32,Bromma,Stockholm,59.345389,17.966507,,,,Mo-Su 11:00-19:00,1,osm
+osm_node_9105235618,Godisrummet Ålsten,confectionery,,,Stockholm,59.322264,17.955541,,,,We-Th 14:00-19:00; Fr 14:00-20:00; Sa 10:00-20:00; Su 11:00-15:00,1,osm
+osm_node_11542794959,Gott om Godis,confectionery,,,Stockholm,59.267318,18.12942,,,,Mo-Sa 10:00-21:00; Su 11:00-21:00,1,osm
+osm_node_2134159730,Gottexperten,confectionery,,,Stockholm,59.334429,18.062884,,,,,1,osm
+osm_node_727716871,Hemmakväll,confectionery,,,Stockholm,59.302646,18.101911,True,,,Su 12:00-21:00; Mo-Sa 10:00-22:00,1,osm
+osm_node_13308727315,Hemmakväll,confectionery,,,Stockholm,59.335547,18.033722,,,,"Mo-Th,Su 10:00-23:00; Fr-Sa 10:00-23:00",1,osm
+osm_way_1311862243,Hemmakväll,confectionery,,,Stockholm,59.402311,17.944725,True,,,"PH,Mo-Su 10:00-20:00",1,osm
+osm_way_1300101896,House of Beans,confectionery,,,Stockholm,59.334178,18.062622,,,,,1,osm
+osm_node_2135379908,House of Candy,confectionery,,,Stockholm,59.333637,18.061837,True,,,Mo-Th 10:00-20:00; Fr-Sa 10:00-22:00; Su 10:00-20:00,1,osm
+osm_node_3402696475,Karamellaffären,confectionery,,,Stockholm,59.329839,18.06558,,,,Mo-Su 09:30-22:00,1,osm
+osm_node_2712407952,Karla frukt,confectionery,,,Stockholm,59.338128,18.086716,,,,Mo-Fr 08:00-18:30; Sa 10:00-18:30; Su 11:00-16:00,1,osm
+osm_node_10013351219,Konditori Vanak,confectionery,Mariehamnsgatan 10,,Stockholm,59.415589,17.907622,,,,Mo-Su 09:00-20:00,1,osm
+osm_node_8511360752,Lagaplans Godis,confectionery,,,Stockholm,59.277373,18.132992,,,,Mo-Sa 09:00-21:00; Su 10:00-21:00,1,osm
+osm_node_11062167991,Lakritds by Bülow,confectionery,,,Stockholm,59.335302,18.077721,,,,Mo-Fr 10:00-18:00; Sa 11:00-17:30,1,osm
+osm_node_5908740006,Lakrits Roten,confectionery,,,Stockholm,59.339479,18.091121,True,,,,1,osm
+osm_node_3848899852,Lakritsroten,confectionery,,,Stockholm,59.318212,18.058248,True,,,Mo-Fr 10:00-18:30; Sa 10:00-17:00; Su 12:00-16:00,1,osm
+osm_node_12876742360,Lakritsroten,confectionery,,,Stockholm,59.33001,18.058021,True,,,Mo-Fr 08:00-20:00; Sa-Su 10:00-20:00,1,osm
+osm_node_13728305087,Lakritsroten,confectionery,,,Stockholm,59.323693,18.071388,,,,Mo-Fr 09:00-19:00; Su 10:00-18:00; Sa 10:00-20:00,1,osm
+osm_node_14279850400,Lakritsroten,confectionery,,,Stockholm,59.33141,18.063699,True,,,Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-17:00,1,osm
+osm_node_14089828344,Monkey Business,confectionery,,,Stockholm,59.360737,17.955299,,,,,1,osm
+osm_node_1267079960,Märtas Chokladfabrik,confectionery,Terrängvägen 16,,Stockholm,59.295521,17.972426,,,,,1,osm
+osm_node_11993334795,Stockholm Weets,confectionery,,,Stockholm,59.39461,17.911663,,,,,1,osm
+osm_node_2138126235,Tasty America,confectionery,,,Stockholm,59.334913,18.060232,True,,,"Mo-Th 11:00-21:00; Fr,Sa 10:00-22:00; Su 10:00-21:00",1,osm
+osm_node_4791683509,Tasty America,confectionery,,,Stockholm,59.32242,18.072561,,,,"Mo-Fr 10:00-19:00; Fr,Sa 10:00-20:00; Su 12:00-19:00",1,osm
+osm_node_12014451275,Tasty America,confectionery,,,Stockholm,59.243228,18.091805,,,,,1,osm
+osm_node_884569804,Årsta gross,confectionery,Brunnbyvägen 7,,Stockholm,59.294711,18.032474,,,,,1,osm
+osm_node_5310281386,Allgotths,ice_cream,,,Stockholm,59.306764,18.031149,,,,Mo-Th 11:00-18:00; Fr-Su 11:00-18:00,1,osm
+osm_node_2961348196,Amore,ice_cream,,,Stockholm,59.317654,18.032954,,,,Tu-Fr 11:00-18:00,1,osm
+osm_node_11883745009,Aryam,ice_cream,,,Stockholm,59.318442,18.070571,False,,,Th-Fr 12:00-17:00; Sa-Su 11:00-17:00,1,osm
+osm_node_4738568138,Ben & Jerry's,ice_cream,,,Stockholm,59.323924,18.071042,,,,Mo-Su 11:00-21:00,1,osm
+osm_node_8549786758,Bryggans glasskiosk,ice_cream,,,Stockholm,59.307158,18.106944,,,,Mo-Su 11:00-20:00,1,osm
+osm_node_418327301,Café Järntorget,ice_cream,,,Stockholm,59.322858,18.072766,,,,Mo-Su 10:00-24:00,1,osm
+osm_node_9025050917,Café Muren,ice_cream,,,Stockholm,59.325563,18.069005,,,,,1,osm
+osm_node_9787592477,Finmans kalasglass,ice_cream,,,Stockholm,59.317163,18.088171,,,,,1,osm
+osm_node_5120450301,Gamla Stans Glass & Café,ice_cream,,,Stockholm,59.325496,18.074004,,,,,1,osm
+osm_node_4890455139,Gamla Stans Konfektyr & Glass,ice_cream,,,Stockholm,59.323497,18.071689,,,,,1,osm
+osm_node_891847381,Gelato,ice_cream,,,Stockholm,59.312584,18.05831,,,,,1,osm
+osm_way_1299955739,Gelato Bar,ice_cream,,,Stockholm,59.334322,18.062268,,,,,1,osm
+osm_node_11107390518,Gelato Crema,ice_cream,,,Stockholm,59.338307,18.024841,,,,,1,osm
+osm_node_772404257,Gelato Scarfó,ice_cream,Ålstensgatan 12,Bromma,Stockholm,59.32404,17.956549,True,,,"Mo,Tu off; We-Fr 12:00-18:00; Sa,Su 10:00-18:00",1,osm
+osm_node_3738050884,Gelato Sosta,ice_cream,,,Stockholm,59.340933,18.058828,,,,Mo-Th 08:00-17:00; Fr 08:00-20:00; Sa 10:00-16:00,1,osm
+osm_node_12688487397,Gelatonova,ice_cream,,,Stockholm,59.346121,18.033966,,,,Mo-Su 12:00-17:00,1,osm
+osm_node_2571793119,Glass & choklad,ice_cream,,,Stockholm,59.337695,17.93775,,,,Mo-Su 10:30-18:00,1,osm
+osm_node_1779515459,Glassbar,ice_cream,,,Stockholm,59.323615,18.071516,,,,,1,osm
+osm_node_459818879,Glasslunden,ice_cream,,,Stockholm,59.327074,18.108125,,,,,1,osm
+osm_node_13359851127,Gräddnos Gelateria,ice_cream,,,Stockholm,59.34044,18.030634,,,,,1,osm
+osm_node_13899187260,Icecream Bar,ice_cream,,,Stockholm,59.332421,18.070264,,,,,1,osm
+osm_node_7595751474,Italienaren i Gubbängen (Morelliamo),ice_cream,Gubbängsvägen 102,Enskede,Stockholm,59.262811,18.084961,,,,Mo-Su 12:00-20:00,1,osm
+osm_way_125374875,Jafaris,ice_cream,,,Stockholm,59.329521,18.065607,,,,,1,osm
+osm_node_6147685279,Jetline Milkshakes,ice_cream,,,Stockholm,59.322891,18.095043,,,,,1,osm
+osm_node_11039944916,Kennys Gelato,ice_cream,,,Stockholm,59.326841,18.094774,,,,11:00-20:00,1,osm
+osm_node_3857568201,Kennys gelato,ice_cream,,,Stockholm,59.331701,18.049517,,,,,1,osm
+osm_node_670381805,Kungsholmens Glassfabrik,ice_cream,,,Stockholm,59.330344,18.045784,,,,Mo-Fr 12:00-18:00; Sa-Su 12:00-16:00,1,osm
+osm_node_9056301856,Kungsträdgårdens glass,ice_cream,,,Stockholm,59.330812,18.07264,,,,,1,osm
+osm_node_11030237551,La Gelateria SoFo,ice_cream,,,Stockholm,59.310238,18.074975,False,,,"Mo-Fr 12:00-18:00; Sa,Su 12:00-17:00",1,osm
+osm_node_882394075,La Venezia,ice_cream,Västgötagatan 22,,Stockholm,59.311735,18.071666,False,,,Mo-Su 12:00-17:00,1,osm
+osm_node_14110244928,Lejonet & Björnen,ice_cream,,,Stockholm,59.314929,18.071739,,,,,1,osm
+osm_node_4856346615,Letiz Gelato,ice_cream,,,Stockholm,59.32636,18.06862,,,,,1,osm
+osm_node_12032985532,Lilla gungans glass,ice_cream,Stora Gungans väg 9,,Stockholm,59.28458,18.087205,,,,Th-Su 12:00-17:00,1,osm
+osm_node_12014405947,Pa Familio,ice_cream,,,Stockholm,59.242857,18.093108,,,,,1,osm
+osm_node_11935087496,Queen's Gelateria & Café,ice_cream,,,Stockholm,59.340452,18.009019,,,,Mo-Su 11:00-19:00,1,osm
+osm_node_9352937598,Robsal,ice_cream,,,Stockholm,59.257027,18.081225,,,,,1,osm
+osm_node_12012010362,Scoops,ice_cream,,,Stockholm,59.361646,17.874399,,,,,1,osm
+osm_node_3146402438,Sia glassbar,ice_cream,,,Stockholm,59.3185,18.071288,,,,,1,osm
+osm_node_11037646347,Sladoled,ice_cream,,,Stockholm,59.314352,18.066919,,,,Mo-Su 11:00-17:00,1,osm
+osm_node_6428110662,Snö,ice_cream,,,Stockholm,59.340775,18.041724,,,,Mo-Fr 11:00-18:00; Sa-Su 11:00-17:00,1,osm
+osm_node_12002692195,Snö,ice_cream,,,Stockholm,59.316535,18.033913,,,,Mo-Fr 11:00-18:00; Sa-Su 11:00-17:00,1,osm
+osm_node_1246189047,Stikki Nikki,ice_cream,,,Stockholm,59.315905,18.072294,True,,,Mo-Su 11:00-20:00,1,osm
+osm_node_1778361759,Stikki Nikki,ice_cream,,,Stockholm,59.324716,18.068565,True,,,11:00-22:00,1,osm
+osm_node_2271964073,Stikki Nikki,ice_cream,,,Stockholm,59.336717,18.058897,True,,,Mo-Su 11:00-19:00,1,osm
+osm_node_5003761035,Stikki Nikki,ice_cream,,,Stockholm,59.353634,18.088823,True,,,Mo-Su 11:00-21:00,1,osm
+osm_node_5030661216,Stikki Nikki,ice_cream,,,Stockholm,59.318554,18.063483,False,,,Mo-Su 11:00-22:00,1,osm
+osm_node_2554667713,StikkiNikki,ice_cream,,,Stockholm,59.343233,18.050178,,,,,1,osm
+osm_node_13712250017,Vintervikens Glass & Kaffestuga,ice_cream,,,Stockholm,59.311809,17.98634,,,,,1,osm
+osm_node_9348320431,Zona Fria Paletas Gourmet,ice_cream,,,Stockholm,59.340898,18.035458,,,,11:00-19:00,1,osm
+osm_node_12032817236,Bröd & Salt,pastry,,,Stockholm,59.29892,18.01398,,,,,1,osm
+osm_node_3224443704,Gamla Östberga Bageri,pastry,Stamgatan 2,Älvsjö,Stockholm,59.283848,18.042503,,,,Mo-Fr 07:00-18:00; Sa 08:00-16:00; Su 09:00-16:00,1,osm
+osm_node_12005739543,Gateau,pastry,,,Stockholm,59.403554,17.947101,,,,"Mo-Fr 07:00-18:00; Sa,Su 08:00-16:00",1,osm
+osm_node_14099436487,Green Praline,pastry,,,Stockholm,59.322407,18.073142,True,,,,1,osm
+osm_node_13975229327,KJ's Cookies,pastry,Ninni Kronbergs Gata 8,,Stockholm,59.348622,18.034372,,,,,1,osm
+osm_node_12006055581,Konditori Kaveh,pastry,,,Stockholm,59.414994,17.913702,,,,,1,osm
+osm_node_767116836,Krümel shop,pastry,,,Stockholm,59.347375,18.06689,,,,Tu-Fr 11:00-18:00; Sa-Su 10:30-16:00,1,osm
+osm_node_9784760140,Mr Cake,pastry,,,Stockholm,59.33417,18.067539,,,,Mo-Fr 08:00-19:00; Sa-Su 09:00-18:00,1,osm
+osm_node_13319294222,Mr Cake,pastry,,,Stockholm,59.32993,18.058088,,,,Mo-Fr 07:00-20:00; Sa-Su 09:00-18:00,1,osm
+osm_node_11991696753,Petra Sweets,pastry,,,Stockholm,59.276664,17.903958,,,,,1,osm
+osm_node_13912278810,Sweets by Camilla,pastry,,,Stockholm,59.338747,18.039471,,,,,1,osm
+osm_node_10225532672,Söt & Sur Bageri,pastry,Hagsätra torg 14,,Stockholm,59.262524,18.013813,,,,"Mo-Fr 07:30-18:00; Sa, Su 07:30-18:00",1,osm
+osm_node_3447003536,Thelins,pastry,,,Stockholm,59.313718,18.073937,,,,,1,osm
+osm_node_11972193477,Vivels konditori,pastry,,,Stockholm,59.338478,17.939063,,,,"Mo-Fr 07:00-19:00; Sa,Su 09:00-16:00",1,osm
+refuge_64461,Adde,restroom,Solna station har bättre ställe inomhus,,Stockholm,59.365102,18.010256,True,True,True,,1,refuge
+osm_way_530012600,Allmänna Gränd-Djurgården,restroom,,,Stockholm,59.324588,18.095809,True,True,True,,1,osm
+refuge_46715,Balthazar,restroom,Högbergsgatan 33,,Stockholm,59.316577,18.072751,False,False,False,,1,refuge
+refuge_46889,Bitter Pills,restroom,Verkstadsgatan 4,,Stockholm,59.317785,18.031594,False,True,False,,1,refuge
+refuge_46885,Blå lotus,restroom,Katarina Bangata 21,,Stockholm,59.312028,18.076647,False,False,False,,1,refuge
+refuge_46886,Café Amanda,restroom,Hökarängsplan 3,,Hökarängen,59.256476,18.08145,False,False,False,,1,refuge
+refuge_34360,Café Gråmunken,restroom,Västerlånggatan 18,,Stockholm,59.325474,18.068869,False,True,False,,1,refuge
+refuge_46891,Carmen,restroom,Tjärhovsgatan 14,,Stockholm,59.315079,18.075964,False,False,False,,1,refuge
+refuge_53941,Dirty Vegan,restroom,Södermannagatan 53,,Stockholm,59.308616,18.083147,False,True,False,,1,refuge
+refuge_37032,Espresso House,restroom,Götgatan,,Stockholm,59.313201,18.073816,True,True,False,,1,refuge
+refuge_6152,Farsta Centrum,restroom,Farstaplan 20,,Stockholm,59.242486,18.089682,True,True,False,,1,refuge
+refuge_46884,Fratello/maxi,restroom,Gubbängstorget 121,,Stockholm,59.262564,18.084561,False,False,False,,1,refuge
+refuge_35483,Freys Hotel,restroom,Bryggargatan 12,,Stockholm,59.332695,18.058236,False,True,False,,3,refuge
+refuge_34299,Galleria Passagen,restroom,Kornhamnstorg,,Stockholm,59.322933,18.071212,False,True,False,,1,refuge
+refuge_36119,Herman's,restroom,Fjällgatan 23B,,Stockholm,59.317585,18.084,False,True,False,,2,refuge
+refuge_50406,Hjälmaren,restroom,Hjälmarsvägen 43,Årsta,Stockholm,59.296658,18.052521,True,True,False,,1,refuge
+refuge_56438,Hornstulls huset,restroom,Långholmsgatan 19,Södermalm,Stockholm,59.316617,18.033865,False,True,True,,1,refuge
+refuge_34356,Hötorgshallen,restroom,Hötorget,,Stockholm,59.334659,18.06284,True,True,False,,1,refuge
+osm_node_1281787778,Ica Kvantum,restroom,,,Stockholm,59.347266,18.113234,,,,,1,osm
+refuge_34300,John Chris Coffee,restroom,Drottninggatan 29,,Stockholm,59.331191,18.063958,False,True,False,,1,refuge
+refuge_46887,Konditorn och bagarn,restroom,Pepparvägen 11,,Hökarängen,59.256178,18.081326,False,False,False,,1,refuge
+refuge_46881,Kungliga biblioteket,restroom,Humlegårdsgatan 26,,Stockholm,59.338259,18.07227,True,True,True,,2,refuge
+refuge_39530,"Lava, kulturhuset",restroom,Sergels torg,,Stockholm,59.332072,18.064955,False,True,False,,1,refuge
+refuge_47441,Lilla wien,restroom,Swedenborgsgatan 20,,Stockholm,59.314159,18.064576,False,False,False,,1,refuge
+refuge_55114,Moderna museet,restroom,Exercisplan 4,,Stockholm,59.325916,18.084134,True,True,True,,2,refuge
+refuge_46888,Molly Malone,restroom,Odengatan 83,,Stockholm,59.341962,18.047887,False,False,False,,1,refuge
+refuge_61662,NK,restroom,Hamngatan 20,Norrmalm,Stockholm,59.332997,18.069417,True,False,True,,1,refuge
+refuge_46714,Nem nem quan,restroom,Åsögatan 90,,Stockholm,59.312214,18.069332,False,False,False,,1,refuge
+refuge_34403,Nobel Museum,restroom,Stortorget 2,,Stockholm,59.325192,18.070781,True,True,False,,1,refuge
+refuge_34297,Outside the Royal Palace,restroom,Slottsbacken,,Stockholm,59.326221,18.072762,True,True,False,,1,refuge
+osm_node_13506726010,"Pissoar Källargränd 4, Gamla stan",restroom,,,Stockholm,59.325565,18.07107,False,,False,24/7,1,osm
+refuge_55166,Pom & Flora,restroom,Odengatan 39,,Stockholm,59.34464,18.058696,False,True,False,,1,refuge
+osm_node_29898114,Public toilet,restroom,,,Stockholm,59.326547,18.08446,,,,,1,osm
+osm_node_443690836,Public toilet,restroom,,,Stockholm,59.379892,17.817121,,,,,1,osm
+osm_node_445303563,Public toilet,restroom,,,Stockholm,59.330462,18.09259,False,,,,1,osm
+osm_node_445807905,Public toilet,restroom,,,Stockholm,59.369599,17.85893,True,,,,1,osm
+osm_node_446029218,Public toilet,restroom,,,Stockholm,59.402432,17.94361,True,,True,,1,osm
+osm_node_459815440,Public toilet,restroom,,,Stockholm,59.327708,18.10862,True,,,,1,osm
+osm_node_477625927,Public toilet,restroom,,,Stockholm,59.330021,18.002875,,,,,1,osm
+osm_node_724407721,Public toilet,restroom,,,Stockholm,59.391899,17.786176,,,,,1,osm
+osm_node_1209267370,Public toilet,restroom,,,Stockholm,59.299022,18.080682,,,,,1,osm
+osm_node_1324187530,Public toilet,restroom,,,Stockholm,59.271042,18.10373,,,,,1,osm
+osm_node_1389941075,Public toilet,restroom,,,Stockholm,59.326537,18.095061,True,True,True,,1,osm
+osm_node_1424620792,Public toilet,restroom,,,Stockholm,59.324192,18.08781,,,,,1,osm
+osm_node_1424620907,Public toilet,restroom,,,Stockholm,59.327155,18.084312,True,,,24/7,1,osm
+osm_node_1432064709,Public toilet,restroom,,,Stockholm,59.336846,17.901722,False,,False,24/7,1,osm
+osm_node_1477922576,Public toilet,restroom,,,Stockholm,59.369272,18.046575,True,,,,1,osm
+osm_node_1605069859,Public toilet,restroom,,,Stockholm,59.347028,18.072886,True,,,,1,osm
+osm_node_1716951634,Public toilet,restroom,,,Stockholm,59.339227,18.082333,True,,,,1,osm
+osm_node_1760216286,Public toilet,restroom,,,Stockholm,59.298241,18.087086,,,,,1,osm
+osm_node_1769871680,Public toilet,restroom,,,Stockholm,59.324027,18.101411,False,,,,1,osm
+osm_node_1832102620,Public toilet,restroom,,,Stockholm,59.36014,18.0544,,,,,1,osm
+osm_node_2171149284,Public toilet,restroom,,,Stockholm,59.40289,17.946591,True,,,,1,osm
+osm_node_2189008509,Public toilet,restroom,,,Stockholm,59.2769,17.909543,,,,,1,osm
+osm_node_2346958852,Public toilet,restroom,,,Stockholm,59.327336,18.054893,False,,,Mo-Su 08:00-17:30,1,osm
+osm_node_2396254046,Public toilet,restroom,,,Stockholm,59.297735,18.081246,False,,,,1,osm
+osm_node_2396254047,Public toilet,restroom,,,Stockholm,59.294328,18.078834,,,,,1,osm
+osm_node_2415157851,Public toilet,restroom,,,Stockholm,59.33096,18.132456,True,,True,,1,osm
+osm_node_2494165898,Public toilet,restroom,,,Stockholm,59.330459,18.058097,True,,True,"Mo-Fr 05:00-01:15; Sa,Su 05:00-02:15",1,osm
+osm_node_2933323739,Public toilet,restroom,,,Stockholm,59.294283,17.976344,False,,,,1,osm
+osm_node_3200776743,Public toilet,restroom,,,Stockholm,59.294925,18.102383,,,,24/7,1,osm
+osm_node_3635154983,Public toilet,restroom,,,Stockholm,59.331521,18.095226,,,,,1,osm
+osm_node_3635588044,Public toilet,restroom,Rosendalsterrassen 12,,Stockholm,59.327543,18.115793,False,,False,11:00-16:00,1,osm
+osm_node_3723792937,Public toilet,restroom,,,Stockholm,59.283554,18.114982,,,,,1,osm
+osm_node_4033757299,Public toilet,restroom,,,Stockholm,59.331005,18.072524,True,True,,24/7,1,osm
+osm_node_4254524923,Public toilet,restroom,,,Stockholm,59.278821,18.008988,True,True,,,1,osm
+osm_node_4866592761,Public toilet,restroom,,,Stockholm,59.297128,18.050931,True,,,,1,osm
+osm_node_4917115048,Public toilet,restroom,,,Stockholm,59.326065,18.070352,True,,True,Mo-Su 10:00-16:00,1,osm
+osm_node_4917115049,Public toilet,restroom,,,Stockholm,59.326643,18.072959,,,,,1,osm
+osm_node_5030242913,Public toilet,restroom,,,Stockholm,59.331674,18.042396,,,False,,1,osm
+osm_node_5320545219,Public toilet,restroom,,,Stockholm,59.327219,18.099278,,,,,1,osm
+osm_node_5417312399,Public toilet,restroom,,,Stockholm,59.363052,17.947454,True,,,,1,osm
+osm_node_5574707149,Public toilet,restroom,,,Stockholm,59.3255,18.100635,False,True,,,1,osm
+osm_node_5641916262,Public toilet,restroom,,,Stockholm,59.347619,18.073207,,,False,,1,osm
+osm_node_5641916263,Public toilet,restroom,,,Stockholm,59.347975,18.071739,,True,False,,1,osm
+osm_node_5641916264,Public toilet,restroom,,,Stockholm,59.34857,18.074078,True,True,,,1,osm
+osm_node_5747554078,Public toilet,restroom,,,Stockholm,59.312665,18.052768,False,,,,1,osm
+osm_node_5869178329,Public toilet,restroom,,,Stockholm,59.324222,18.063455,False,True,False,24/7,1,osm
+osm_node_5869178330,Public toilet,restroom,,,Stockholm,59.324228,18.063436,False,,False,24/7,1,osm
+osm_node_5872319885,Public toilet,restroom,,,Stockholm,59.313856,18.080923,False,,False,,1,osm
+osm_node_5908739999,Public toilet,restroom,,,Stockholm,59.340131,18.090483,True,True,True,Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 08:00-17:00,1,osm
+osm_node_6147685283,Public toilet,restroom,,,Stockholm,59.322797,18.095416,False,,,,1,osm
+osm_node_6147685284,Public toilet,restroom,,,Stockholm,59.322868,18.095863,False,,,,1,osm
+osm_node_6147685285,Public toilet,restroom,,,Stockholm,59.323181,18.095223,,,,,1,osm
+osm_node_6147685303,Public toilet,restroom,,,Stockholm,59.324353,18.096691,,,,,1,osm
+osm_node_6147685311,Public toilet,restroom,,,Stockholm,59.324166,18.0977,,,,,1,osm
+osm_node_6147685312,Public toilet,restroom,,,Stockholm,59.323642,18.098419,,,,,1,osm
+osm_node_6278191866,Public toilet,restroom,,,Stockholm,59.301543,18.016525,False,,,,1,osm
+osm_node_6530497216,Public toilet,restroom,,,Stockholm,59.312857,18.011484,,,,,1,osm
+osm_node_6582489844,Public toilet,restroom,,,Stockholm,59.327671,18.102957,,,,,1,osm
+osm_node_6806048085,Public toilet,restroom,,,Stockholm,59.270437,18.102933,True,,,,1,osm
+osm_node_6821142528,Public toilet,restroom,,,Stockholm,59.274936,18.102944,True,,,,1,osm
+osm_node_6886797350,Public toilet,restroom,,,Stockholm,59.292541,18.082199,True,,,Mo-Fr 08:00-19:15; Sa 08:30-17:15; Su 09:30-17:15,1,osm
+osm_node_6925458516,Public toilet,restroom,,,Stockholm,59.337199,18.01006,,,,,1,osm
+osm_node_7080294643,Public toilet,restroom,,,Stockholm,59.339345,18.091115,,,,Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 09:00-17:00,1,osm
+osm_node_7081966216,Public toilet,restroom,,,Stockholm,59.327417,18.099502,True,,,,1,osm
+osm_node_7099633419,Public toilet,restroom,,,Stockholm,59.319313,18.031381,False,,,,1,osm
+osm_node_7112447493,Public toilet,restroom,,,Stockholm,59.355877,17.955697,True,True,True,,1,osm
+osm_node_7153971973,Public toilet,restroom,,,Stockholm,59.339751,18.042759,,,,,1,osm
+osm_node_7164301785,Public toilet,restroom,,,Stockholm,59.324453,18.101685,True,,True,,1,osm
+osm_node_7164786478,Public toilet,restroom,,,Stockholm,59.327683,18.10832,True,,,,1,osm
+osm_node_7182346054,Public toilet,restroom,,,Stockholm,59.332042,18.118511,True,,,,1,osm
+osm_node_7227587405,Public toilet,restroom,,,Stockholm,59.293747,17.908331,,,,,1,osm
+osm_node_7272659591,Public toilet,restroom,,,Stockholm,59.327306,18.106561,,,,,1,osm
+osm_node_7280528437,Public toilet,restroom,,,Stockholm,59.3349,18.0324,,,,Sa 11:00-16:00; Mo-Fr 11:00-18:00; Su 12:00-16:00,1,osm
+osm_node_7296559329,Public toilet,restroom,,,Stockholm,59.332544,18.062192,True,,,,1,osm
+osm_node_7319718731,Public toilet,restroom,,,Stockholm,59.33697,17.903625,False,,False,24/7,1,osm
+osm_node_7557292742,Public toilet,restroom,,,Stockholm,59.253589,18.07729,True,True,,,1,osm
+osm_node_7569482686,Public toilet,restroom,,,Stockholm,59.296194,18.05951,True,,,,1,osm
+osm_node_7597644699,Public toilet,restroom,,,Stockholm,59.246491,18.109121,,,,,1,osm
+osm_node_7648727537,Public toilet,restroom,,,Stockholm,59.237101,18.085973,,,,,1,osm
+osm_node_7657261625,Public toilet,restroom,,,Stockholm,59.249211,18.126899,,True,,,1,osm
+osm_node_7658292704,Public toilet,restroom,,,Stockholm,59.257867,18.081806,True,,,,1,osm
+osm_node_7681253886,Public toilet,restroom,,,Stockholm,59.248769,18.120484,,True,,,1,osm
+osm_node_7928661244,Public toilet,restroom,,,Stockholm,59.27921,18.095157,,,,,1,osm
+osm_node_8243569652,Public toilet,restroom,,,Stockholm,59.328373,18.023739,True,,,,1,osm
+osm_node_8622720147,Public toilet,restroom,,,Stockholm,59.361567,17.875294,,,,,1,osm
+osm_node_8661970179,Public toilet,restroom,,,Stockholm,59.311874,18.076183,False,,False,,1,osm
+osm_node_8911378390,Public toilet,restroom,,,Stockholm,59.335119,18.062639,True,,,,1,osm
+osm_node_9019946772,Public toilet,restroom,,,Stockholm,59.266365,18.047897,True,True,False,,1,osm
+osm_node_9025836735,Public toilet,restroom,,,Stockholm,59.324787,18.104791,,,,,1,osm
+osm_node_9083726951,Public toilet,restroom,,,Stockholm,59.322145,18.125105,,,,,1,osm
+osm_node_9646896909,Public toilet,restroom,,,Stockholm,59.327588,18.034292,,,,,1,osm
+osm_node_9646923631,Public toilet,restroom,,,Stockholm,59.327291,18.034174,,,,,1,osm
+osm_node_9668335573,Public toilet,restroom,,,Stockholm,59.329541,18.118858,True,,False,,1,osm
+osm_node_9769321976,Public toilet,restroom,,,Stockholm,59.31735,18.087061,,,,,1,osm
+osm_node_9784891345,Public toilet,restroom,,,Stockholm,59.318257,18.0754,False,,False,,1,osm
+osm_node_9788137253,Public toilet,restroom,,,Stockholm,59.327891,18.057971,True,,,,1,osm
+osm_node_9872583661,Public toilet,restroom,,,Stockholm,59.330171,18.067426,True,,,,1,osm
+osm_node_9922555009,Public toilet,restroom,,,Stockholm,59.327034,18.107261,,,,,1,osm
+osm_node_9955035548,Public toilet,restroom,,,Stockholm,59.322111,17.98421,False,True,False,,1,osm
+osm_node_10180723346,Public toilet,restroom,,,Stockholm,59.32967,18.092713,,,,,1,osm
+osm_node_10199655164,Public toilet,restroom,,,Stockholm,59.309397,18.022266,,,,,1,osm
+osm_node_10539845974,Public toilet,restroom,,,Stockholm,59.351512,18.11152,True,,,08:30-17:30; May 01-Sep 03 05:45-17:30,1,osm
+osm_node_10677197219,Public toilet,restroom,,,Stockholm,59.321739,17.993225,,,,,1,osm
+osm_node_11065469183,Public toilet,restroom,,,Stockholm,59.324981,18.096313,,True,,,1,osm
+osm_node_11067741049,Public toilet,restroom,,,Stockholm,59.335769,18.078065,,,,,1,osm
+osm_node_11323242669,Public toilet,restroom,,,Stockholm,59.30772,17.994948,False,,True,,1,osm
+osm_node_11606322450,Public toilet,restroom,,,Stockholm,59.253448,18.06602,,,,,1,osm
+osm_node_11675221753,Public toilet,restroom,,,Stockholm,59.270655,18.148948,,,,,1,osm
+osm_node_11675221754,Public toilet,restroom,,,Stockholm,59.270633,18.148841,,,,,1,osm
+osm_node_12057146146,Public toilet,restroom,,,Stockholm,59.368835,18.053856,,,,,1,osm
+osm_node_12066966838,Public toilet,restroom,,,Stockholm,59.328397,18.07798,True,,True,,1,osm
+osm_node_12102894384,Public toilet,restroom,,,Stockholm,59.330584,18.071006,,,,,1,osm
+osm_node_12146805046,Public toilet,restroom,,,Stockholm,59.269236,18.101902,True,,,,1,osm
+osm_node_12192854100,Public toilet,restroom,,,Stockholm,59.333055,18.118764,,,,,1,osm
+osm_node_12264532458,Public toilet,restroom,,,Stockholm,59.331184,18.061056,False,,,,1,osm
+osm_node_12284615881,Public toilet,restroom,,,Stockholm,59.338121,18.001928,,,,,1,osm
+osm_node_12473659398,Public toilet,restroom,,,Stockholm,59.335795,18.077538,True,,True,,1,osm
+osm_node_12801920135,Public toilet,restroom,,,Stockholm,59.331471,18.067792,,,,,1,osm
+osm_node_13039325601,Public toilet,restroom,,,Stockholm,59.330174,18.057683,,,,,1,osm
+osm_node_13051824942,Public toilet,restroom,,,Stockholm,59.278422,18.011094,True,True,,,1,osm
+osm_node_13058272701,Public toilet,restroom,Rosendalsterrassen 12,,Stockholm,59.327658,18.11546,,,,,1,osm
+osm_node_13074482684,Public toilet,restroom,,,Stockholm,59.362216,17.872585,True,True,,,1,osm
+osm_node_13078318901,Public toilet,restroom,,,Stockholm,59.330599,18.093457,,,,,1,osm
+osm_node_13094500201,Public toilet,restroom,Arenaslingan 7,,Stockholm,59.292605,18.083974,,,,24/7,1,osm
+osm_node_13255537816,Public toilet,restroom,,,Stockholm,59.313997,18.063759,,,,,1,osm
+osm_node_13432470449,Public toilet,restroom,,,Stockholm,59.330905,18.059631,,,,,1,osm
+osm_node_13485092294,Public toilet,restroom,,,Stockholm,59.388774,17.926124,False,,,24/7,1,osm
+osm_node_13495584857,Public toilet,restroom,,,Stockholm,59.388746,17.926127,,True,,24/7,1,osm
+osm_node_13505560123,Public toilet,restroom,,,Stockholm,59.334625,18.05458,False,,False,24/7,1,osm
+osm_node_13506812578,Public toilet,restroom,,,Stockholm,59.315069,18.079217,False,,,,1,osm
+osm_node_13507528546,Public toilet,restroom,,,Stockholm,59.289802,18.070102,False,,,,1,osm
+osm_node_13840225001,Public toilet,restroom,,,Stockholm,59.326118,18.10347,,,,,1,osm
+osm_node_14008140461,Public toilet,restroom,,,Stockholm,59.315995,18.097187,,,True,,1,osm
+osm_node_14040009301,Public toilet,restroom,,,Stockholm,59.295569,17.923357,,,,,1,osm
+osm_node_14074966740,Public toilet,restroom,,,Stockholm,59.328018,18.026,True,,,,1,osm
+osm_node_14095428819,Public toilet,restroom,,,Stockholm,59.318411,18.062351,,,,,1,osm
+osm_node_14139744204,Public toilet,restroom,,,Stockholm,59.332862,18.075279,,,,,1,osm
+osm_node_14234970088,Public toilet,restroom,,,Stockholm,59.248701,18.161376,False,,,,1,osm
+osm_node_14234970095,Public toilet,restroom,,,Stockholm,59.248713,18.161636,True,,,,1,osm
+osm_node_14275102912,Public toilet,restroom,,,Stockholm,59.317152,18.077833,,,,,1,osm
+osm_node_14280389836,Public toilet,restroom,,,Stockholm,59.335196,18.08029,,,,,1,osm
+osm_node_14280412093,Public toilet,restroom,,,Stockholm,59.33815,18.072686,,,,,1,osm
+osm_way_117573214,Public toilet,restroom,,,Stockholm,59.27693,18.10082,True,,,Mo-Su 09:00-18:00,1,osm
+osm_way_124973325,Public toilet,restroom,,,Stockholm,59.325665,18.02137,True,,,,1,osm
+osm_way_125085090,Public toilet,restroom,,,Stockholm,59.299926,17.926503,True,,,,1,osm
+osm_way_126084738,Public toilet,restroom,,,Stockholm,59.286789,17.893472,,,,,1,osm
+osm_way_139407909,Public toilet,restroom,,,Stockholm,59.322156,18.114151,True,,,Mo-Su 11:00-17:00,1,osm
+osm_way_141416395,Public toilet,restroom,,,Stockholm,59.32651,18.102166,False,,True,,1,osm
+osm_way_310373529,Public toilet,restroom,,,Stockholm,59.307508,17.960083,,True,,,1,osm
+osm_way_468729960,Public toilet,restroom,,,Stockholm,59.294196,17.969764,,,,,1,osm
+osm_way_506545966,Public toilet,restroom,,,Stockholm,59.323055,18.146802,,,,,1,osm
+osm_way_617586351,Public toilet,restroom,,,Stockholm,59.320391,18.032444,False,True,,,1,osm
+osm_way_617586353,Public toilet,restroom,,,Stockholm,59.320398,18.032793,False,True,,,1,osm
+osm_way_672253208,Public toilet,restroom,,,Stockholm,59.36907,18.043373,True,,,Apr-Oct 07:00-22:00,1,osm
+osm_way_681658274,Public toilet,restroom,,,Stockholm,59.301759,18.0062,,,,,1,osm
+osm_way_811198689,Public toilet,restroom,,,Stockholm,59.307378,17.961624,False,True,,,1,osm
+osm_way_825794982,Public toilet,restroom,,,Stockholm,59.372636,18.068577,False,True,,,1,osm
+osm_way_870347319,Public toilet,restroom,,,Stockholm,59.312728,18.038151,True,,,,1,osm
+osm_way_1068141312,Public toilet,restroom,,,Stockholm,59.364498,18.0713,,,,,1,osm
+osm_way_1188355348,Public toilet,restroom,,,Stockholm,59.28981,18.038101,,,,,1,osm
+osm_way_1256882568,Public toilet,restroom,,,Stockholm,59.353701,18.065502,,,,,1,osm
+osm_way_1256882572,Public toilet,restroom,,,Stockholm,59.353726,18.065281,True,,,,1,osm
+osm_way_1256882574,Public toilet,restroom,,,Stockholm,59.353538,18.065424,,,,,1,osm
+osm_way_1256882577,Public toilet,restroom,,,Stockholm,59.353367,18.065388,,,,,1,osm
+osm_way_1256882579,Public toilet,restroom,,,Stockholm,59.353371,18.065343,,,,,1,osm
+osm_way_1300101878,Public toilet,restroom,,,Stockholm,59.334386,18.062764,True,,,,1,osm
+osm_way_1300101880,Public toilet,restroom,,,Stockholm,59.334339,18.062834,,,,,1,osm
+osm_way_1314795619,Public toilet,restroom,,,Stockholm,59.411946,17.912986,,,,,1,osm
+osm_way_1415635429,Public toilet,restroom,,,Stockholm,59.407225,17.918686,True,,,,1,osm
+osm_way_1416774606,Public toilet,restroom,,,Stockholm,59.350396,18.067941,,True,,,1,osm
+osm_way_1416774616,Public toilet,restroom,,,Stockholm,59.350584,18.067528,,True,,,1,osm
+osm_way_1427716359,Public toilet,restroom,,,Stockholm,59.413165,17.911509,True,,,24/7,1,osm
+osm_way_1470142807,Public toilet,restroom,,,Stockholm,59.401756,17.9425,True,True,,,1,osm
+osm_way_1557709007,Public toilet,restroom,,,Stockholm,59.351296,18.068824,True,,,,1,osm
+osm_way_1557709009,Public toilet,restroom,,,Stockholm,59.35127,18.069058,,,,,1,osm
+osm_way_1557709010,Public toilet,restroom,,,Stockholm,59.351174,18.068836,,,,,1,osm
+osm_way_1568723444,Public toilet,restroom,,,Stockholm,59.286765,17.969794,True,True,,,1,osm
+refuge_39533,Rådmansgatan stadstoalett,restroom,Sveagatan,,Stockholm,59.342697,18.056767,True,True,True,,1,refuge
+refuge_46713,Scandic malmen,restroom,Götgatan 49,,Stockholm,59.314673,18.073772,True,True,False,,1,refuge
+refuge_22190,Skrapan Mall,restroom,Götgatan 78,,Stockholm,59.312037,18.073929,True,True,False,,1,refuge
+refuge_59986,Stadsmuseet,restroom,Peter Myndes backe 1,Södermalm,Stockholm,59.319515,18.072099,True,False,True,,1,refuge
+refuge_4209,Stockholm C,restroom,Inside Stockholms centralstation (central railway station),,Stockholm,59.333685,17.984795,False,True,False,,1,refuge
+refuge_34298,Stockholm Old Town,restroom,Österlandgatan,,Stockholm,59.324517,18.073998,True,True,False,,1,refuge
+refuge_34368,Stortorget,restroom,Stortorget,,Stockholm,59.325062,18.070338,False,True,False,,1,refuge
+refuge_34404,Swedish Parliament,restroom,Riksgatan 3,,Stockholm,59.327632,18.067498,True,True,False,,1,refuge
+refuge_46879,Tekniska museet,restroom,Museivägen 7,,Stockholm,59.332505,18.118966,True,True,True,,2,refuge
+refuge_46719,The secret garden,restroom,Kornhamnstorg 59,,Stockholm,59.32258,18.072109,False,True,False,,1,refuge
+osm_node_11068832663,Toalett - WC - Brunnsvikens strandbad,restroom,,,Stockholm,59.361935,18.049142,,,,,1,osm
+osm_node_1425550045,Toalett Batteriparken,restroom,,,Stockholm,59.326603,18.081128,False,,,24/7,1,osm
+osm_node_12060906958,Toalett Björklunds hage,restroom,,,Stockholm,59.348633,17.901467,False,,False,Mo-Su 08:00-16:00,1,osm
+osm_node_7928755500,Toalett Bredäng/ Trissan parklek,restroom,,,Stockholm,59.296681,17.931593,,,,,1,osm
+osm_way_1472073053,Toalett Bredängs Alle,restroom,,,Stockholm,59.29521,17.933598,,True,,,1,osm
+osm_node_13508109192,Toalett Djurgårdsvägen 60,restroom,,,Stockholm,59.326001,18.09555,False,,,,1,osm
+osm_way_808189284,Toalett Fagerliden,restroom,,,Stockholm,59.253581,18.077292,True,,,,1,osm
+osm_node_193906913,Toalett Gasverksvägen 52,restroom,,,Stockholm,59.357109,18.103127,True,True,False,,1,osm
+osm_node_1546340693,Toalett Götgatan - Tjärhovsgatan,restroom,,,Stockholm,59.314955,18.072733,True,,,off,1,osm
+osm_node_13506779179,Toalett Karlavägen 40,restroom,,,Stockholm,59.339953,18.078534,False,,False,,1,osm
+osm_way_970988546,Toalett Långholmsbadet,restroom,,,Stockholm,59.321769,18.025079,True,True,,,1,osm
+osm_node_640304865,Toalett Mariatorget,restroom,,,Stockholm,59.318444,18.062334,True,True,True,,1,osm
+osm_node_1289469921,Toalett Munkbrogatan - Lijonstedts Gränd,restroom,,,Stockholm,59.322736,18.069101,False,,False,24/7,1,osm
+osm_way_1027045701,Toalett Norr Mälarstrand 3 - kajen,restroom,,,Stockholm,59.32689,18.052492,True,,,24/7,1,osm
+osm_way_1051596459,Toalett Norra Bantorget,restroom,,,Stockholm,59.334962,18.055319,True,,True,24/7,1,osm
+osm_node_5139444472,Toalett Skeppsbron 38,restroom,,,Stockholm,59.323151,18.07544,True,,,24/7,1,osm
+osm_node_1509877941,Toalett Skånegatan 79,restroom,,,Stockholm,59.312666,18.083202,True,,,,1,osm
+osm_node_1787546986,Toalett Slottsbacken - Österlånggatan,restroom,,,Stockholm,59.326123,18.073055,False,,,24/7,1,osm
+osm_node_1349576832,Toalett Slottskajen - Stallbron - Mynttorget,restroom,,,Stockholm,59.32705,18.069224,True,,,24/7,1,osm
+osm_way_1470417048,Toalett Spånga stationsplan,restroom,,,Stockholm,59.382797,17.899405,,True,,,1,osm
+osm_way_1472479447,Toalett Strömparterren 3,restroom,,,Stockholm,59.328552,18.070112,True,True,True,24/7,1,osm
+osm_node_410531301,Toalett Sturegatan 12 - Humlegården,restroom,Sturegatan 12,,Stockholm,59.337442,18.073679,True,,,24/7,1,osm
+osm_node_13507506976,Toalett Västertorpsvägen 70,restroom,,,Stockholm,59.290535,17.965077,False,,,,1,osm
+osm_node_13176341120,Toalett Vårbergstoppen,restroom,,,Stockholm,59.272433,17.88056,,,,,1,osm
+osm_way_978650033,Toalett Ängbybadet,restroom,,,Stockholm,59.337134,17.897053,,,,24/7,1,osm
+osm_node_1787546916,Toalett Österlånggatan 45,restroom,,,Stockholm,59.323514,18.073662,True,,,24/7,1,osm
+osm_node_3632143752,"Toaletter, omklädnad, dusch",restroom,,,Stockholm,59.253112,18.161613,,,,,1,osm
+osm_node_7658289965,Urinoar,restroom,,,Stockholm,59.258597,18.083142,,,False,,1,osm
+osm_way_127586369,Urinoar Kronobergsgatan 11,restroom,,,Stockholm,59.332563,18.033679,False,,False,24/7,1,osm
+osm_node_7083910043,Urinoar Valhallavägen/ Drottning Sofias väg,restroom,,,Stockholm,59.344397,18.076699,False,,False,,1,osm
+refuge_43338,Vikingaliv A true Adventure,restroom,Djurgårdsvägen 48,,Stockholm,59.326641,18.095213,False,True,True,,1,refuge
+osm_way_196339041,Väntrum & toalett,restroom,,,Stockholm,59.273728,18.102701,True,,,,1,osm
+osm_node_6925333754,WC Lindhagen,restroom,,,Stockholm,59.3371,18.0102,,,,Mo-Su 10:00-20:45,1,osm
+osm_node_9382082948,WC kulturhuset,restroom,,,Stockholm,59.331913,18.06465,,,,,1,osm
+osm_node_10189302015,Wc Ringen,restroom,,,Stockholm,59.30838,18.075581,,,,Mo-Th 08:00-21:30; Fr 08:00-22:30; Sa 10:00-22:30; Su 11:00-20:30,1,osm
+refuge_56932,Whippet Lab Skanstull,restroom,Rutger Fuchsgatan 5,,Stockholmfashionweek,59.3075,18.078889,False,True,False,,1,refuge
+refuge_51002,il caffe Drottninggatan,restroom,Drottninggatan 85,,Stockholm,59.338488,18.05649,False,True,False,,1,refuge
+osm_node_4368041862,Östermalms cykelservice HB,restroom,,,Stockholm,59.333447,18.085773,True,,,,1,osm
