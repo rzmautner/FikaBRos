@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FikaBros</title>
+
+  <!-- Leaflet: the map library (Folium was generating this for us before) -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+
+  <style>
+    /* The map fills the whole browser window, no margins */
+    html, body, #map { height: 100%; margin: 0; }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+  <!-- PapaParse: reads the CSV file -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+
+  <script>
+    // =====================================================
+    // SETTINGS: change these and reload to see the effect
+    // =====================================================
+    const DATA_FILE   = "stockholm_places_tidy.csv";   // must sit next to this file
+    const CARTO_KEY   = "cb1_4uxk_1_45a18e416a37b014c37182fc";
+    const CENTER      = [59.3293, 18.0686];            // Stockholm city centre
+    const START_ZOOM  = 13;
+
+    const DOT_RADIUS  = 4;      // dot size in pixels
+    const DOT_OPACITY = 0.8;    // 0 = invisible, 1 = solid
+
+    const COLORS = {
+      restroom:      "blue",
+      cafe:          "orange",
+      bakery:        "red",
+      pastry:        "purple",
+      confectionery: "pink",
+      ice_cream:     "green",
+    };
+
+    // =====================================================
+    // MAP + BASEMAP
+    // =====================================================
+    const map = L.map("map").setView(CENTER, START_ZOOM);
+
+    L.tileLayer(
+      `https://basemaps.cartocdn.com/rastertiles/light_all/{z}/{x}/{y}.png?key=${CARTO_KEY}`,
+      {
+        maxZoom: 20,
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> ' +
+                     '&copy; <a href="https://carto.com/attributions">CARTO</a>',
+      }
+    ).addTo(map);
+
+    // =====================================================
+    // ONE GROUP OF DOTS PER BUTTON
+    // =====================================================
+    const groups = {
+      "Everything": L.layerGroup(),
+      "Bathroom":   L.layerGroup(),
+      "Fika":       L.layerGroup(),   // cafe, bakery, pastry, confectionery, ice_cream
+    };
+
+    // Make text safe to show inside the tooltip
+    function escapeHtml(text) {
+      return String(text).replace(/[&<>"']/g, c =>
+        ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
+    }
+
+    // Build one dot for one row of the CSV
+    function makeDot(place) {
+      const color = COLORS[place.category] || "gray";
+      return L.circleMarker([place.lat, place.lon], {
+        radius: DOT_RADIUS,
+        color: color,
+        fillColor: color,
+        fillOpacity: DOT_OPACITY,
+      }).bindTooltip(`${escapeHtml(place.name)} (${escapeHtml(place.category)})`);
+    }
+
+    // =====================================================
+    // LOAD THE CSV AND DRAW THE DOTS
+    // =====================================================
+    Papa.parse(DATA_FILE, {
+      download: true,        // fetch the file from the website
+      header: true,          // first row = column names
+      dynamicTyping: true,   // turn "59.33" into the number 59.33
+      skipEmptyLines: true,
+      complete: (results) => {
+        for (const place of results.data) {
+          if (place.lat == null || place.lon == null) continue;
+
+          groups["Everything"].addLayer(makeDot(place));
+
+          const button = place.category === "restroom" ? "Bathroom" : "Fika";
+          groups[button].addLayer(makeDot(place));
+        }
+
+        // Show "Everything" first, then add the radio-button panel
+        groups["Everything"].addTo(map);
+        L.control.layers(groups, null, { collapsed: false, position: "topright" }).addTo(map);
+      },
+    });
+  </script>
+</body>
+</html>
