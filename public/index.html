@@ -70,6 +70,17 @@
       ice_cream:     "green",
     };
 
+    const ICON_SIZE = 32;   // icon size on the map, in pixels
+
+    // Categories listed here show their drawing; the rest stay coloured dots
+    const ICON_FILES = {
+      restroom:      "graphics/toilet.svg",
+      bakery:        "graphics/cinnamonRoll.svg",
+      confectionery: "graphics/candy.svg",
+      ice_cream:     "graphics/iceCream.svg",
+      // cafe:       "graphics/coffee.svg",     // uncomment when it's ready
+    };
+
     // =====================================================
     // MAP + BASEMAP
     // =====================================================
@@ -145,15 +156,30 @@
         ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
     }
 
-    // Build one dot for one row of the CSV
+    // Build each icon once; every point of that category reuses it
+    const icons = {};
+    for (const [category, file] of Object.entries(ICON_FILES)) {
+      icons[category] = L.icon({
+        iconUrl: file,
+        iconSize: [ICON_SIZE, ICON_SIZE],
+        iconAnchor: [ICON_SIZE / 2, ICON_SIZE / 2],   // centre of the drawing sits on the location
+        tooltipAnchor: [ICON_SIZE / 2, 0],
+      });
+    }
+
     function makeDot(place) {
+      const label = `${escapeHtml(place.name)} (${escapeHtml(place.category)})`;
+      const icon = icons[place.category];
+
+      if (icon) {
+        return L.marker([place.lat, place.lon], { icon }).bindTooltip(label);
+      }
+
+      // No drawing for this category yet: keep the coloured dot
       const color = COLORS[place.category] || "gray";
       return L.circleMarker([place.lat, place.lon], {
-        radius: DOT_RADIUS,
-        color: color,
-        fillColor: color,
-        fillOpacity: DOT_OPACITY,
-      }).bindTooltip(`${escapeHtml(place.name)} (${escapeHtml(place.category)})`);
+        radius: DOT_RADIUS, color, fillColor: color, fillOpacity: DOT_OPACITY,
+      }).bindTooltip(label);
     }
 
     // =====================================================
