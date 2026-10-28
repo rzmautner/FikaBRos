@@ -8,12 +8,29 @@
   <!-- Leaflet: the map library (Folium was generating this for us before) -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 
-  <style>
-    /* The map fills the whole browser window, no margins */
-    html, body, #map { height: 100%; margin: 0; }
+    <style>
+    /* Page = header on top, map filling everything below it */
+    html, body { height: 100%; margin: 0; }
+    body { display: flex; flex-direction: column; }
+
+    header {
+      display: flex;
+      align-items: center;
+      gap: 10px;                 /* space between logo and title, for later */
+      padding: 10px 16px;
+      background: white;
+      border-bottom: 1px solid #ddd;
+      font-family: sans-serif;
+    }
+    header h1 { margin: 0; font-size: 22px; }
+
+    #map { flex: 1; }            /* map takes all remaining height */
   </style>
 </head>
 <body>
+    <header>
+    <h1>FikaBRos</h1>
+  </header>
   <div id="map"></div>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
