@@ -7,3 +7,7 @@ Current features include:
 - "Use my location" button to allow users to locate themselves on the map.
 
 More features coming! Stay tuned...
+
+#FaaS
+
+(Fika-as-a-Service)
