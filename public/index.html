@@ -25,6 +25,17 @@
     header h1 { margin: 0; font-size: 30px; }
 
     #map { flex: 1; }            /* map takes all remaining height */
+      /* "Show my location" button: matches the + / − zoom buttons */
+    .locate-btn { font-size: 18px; cursor: pointer; }
+
+    /* The blue "you are here" dot */
+    .user-dot {
+      box-sizing: border-box;
+      background: #1a73e8;
+      border: 3px solid white;
+      border-radius: 50%;
+      box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+    }
   </style>
 </head>
 <body>
@@ -72,6 +83,52 @@
                      '&copy; <a href="https://carto.com/attributions">CARTO</a>',
       }
     ).addTo(map);
+
+        // =====================================================
+    // "SHOW MY LOCATION" BUTTON
+    // =====================================================
+    const LocateButton = L.Control.extend({
+      options: { position: "topleft" },          // sits under the zoom buttons
+      onAdd() {
+        const box = L.DomUtil.create("div", "leaflet-bar");
+        const btn = L.DomUtil.create("a", "locate-btn", box);
+        btn.href = "#";
+        btn.title = "Show my location";
+        btn.setAttribute("role", "button");
+        btn.innerHTML = "◎";
+        L.DomEvent.on(btn, "click", (e) => {
+          L.DomEvent.preventDefault(e);
+          L.DomEvent.stopPropagation(e);
+          map.locate({ setView: true, maxZoom: 16 });   // ask the browser, then zoom there
+        });
+        return box;
+      },
+    });
+    map.addControl(new LocateButton());
+
+    let userDot = null;
+    let userCircle = null;
+
+    map.on("locationfound", (e) => {
+      if (userDot) {
+        // Clicked again: just move the existing dot
+        userDot.setLatLng(e.latlng);
+        userCircle.setLatLng(e.latlng).setRadius(e.accuracy);
+      } else {
+        // Pale circle = how accurate the browser says the position is
+        userCircle = L.circle(e.latlng, {
+          radius: e.accuracy, color: "#1a73e8", weight: 1, fillOpacity: 0.15, interactive: false,
+        }).addTo(map);
+        userDot = L.marker(e.latlng, {
+          icon: L.divIcon({ className: "user-dot", iconSize: [18, 18] }),
+          zIndexOffset: 1000,                     // always on top of the places
+        }).bindTooltip("You are here").addTo(map);
+      }
+    });
+
+    map.on("locationerror", (e) => {
+      alert("Couldn't get your location: " + e.message);
+    });
 
     // =====================================================
     // ONE GROUP OF DOTS PER BUTTON
