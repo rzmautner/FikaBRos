@@ -70,14 +70,15 @@
       ice_cream:     "green",
     };
 
-    const ICON_SIZE = 32;   // icon size on the map, in pixels
+    const ICON_SIZE = 24;   // was 32 → 75%
 
     // Categories listed here show their drawing; the rest stay coloured dots
     const ICON_FILES = {
       restroom:      "graphics/toilet.svg",
       bakery:        "graphics/cinnamonRoll.svg",
-      confectionery: "graphics/candy.svg",
       ice_cream:     "graphics/iceCream.svg",
+      confectionery: "graphics/candy.svg",
+      pastry:        "graphics/cake.svg",
       // cafe:       "graphics/coffee.svg",     // uncomment when it's ready
     };
 
@@ -156,13 +157,39 @@
         ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
     }
 
+        // Turn colour names like "blue" into three numbers between 0 and 1
+    function toRGB(colorName) {
+      const ctx = document.createElement("canvas").getContext("2d");
+      ctx.fillStyle = colorName;                 // browser converts any CSS colour to "#rrggbb"
+      const hex = ctx.fillStyle;
+      return [1, 3, 5].map(i => parseInt(hex.slice(i, i + 2), 16) / 255);
+    }
+
+    // One colour filter per category: dark lines → category colour, white → transparent
+    let filterDefs = "";
+    for (const category of Object.keys(ICON_FILES)) {
+      const [r, g, b] = toRGB(COLORS[category] || "gray");
+      filterDefs += `
+        <filter id="tint-${category}" color-interpolation-filters="sRGB">
+          <feColorMatrix type="matrix" values="
+            0 0 0 0 ${r}
+            0 0 0 0 ${g}
+            0 0 0 0 ${b}
+            -0.2126 -0.7152 -0.0722 1 0"/>
+        </filter>`;
+    }
+    document.body.insertAdjacentHTML("beforeend",
+      `<svg width="0" height="0" style="position:absolute">${filterDefs}</svg>`);
+
     // Build each icon once; every point of that category reuses it
     const icons = {};
     for (const [category, file] of Object.entries(ICON_FILES)) {
-      icons[category] = L.icon({
-        iconUrl: file,
+      icons[category] = L.divIcon({
+        className: "",                           // removes Leaflet's default white box
+        html: `<img src="${file}" alt=""
+                    style="width:100%; height:100%; filter:url(#tint-${category});">`,
         iconSize: [ICON_SIZE, ICON_SIZE],
-        iconAnchor: [ICON_SIZE / 2, ICON_SIZE / 2],   // centre of the drawing sits on the location
+        iconAnchor: [ICON_SIZE / 2, ICON_SIZE / 2],
         tooltipAnchor: [ICON_SIZE / 2, 0],
       });
     }
