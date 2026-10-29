@@ -72,6 +72,9 @@
 
     const ICON_SIZE = 24;   // was 32 → 75%
 
+    const ALPHA_GAIN   = 3;     // >1 makes faint lines more solid (1 = as before)
+    const LINE_THICKEN = 0.5;   // extra line thickness in pixels (0 = as before)
+
     // Categories listed here show their drawing; the rest stay coloured dots
     const ICON_FILES = {
       restroom:      "graphics/toilet.svg",
@@ -79,7 +82,7 @@
       ice_cream:     "graphics/iceCream.svg",
       confectionery: "graphics/candy.svg",
       pastry:        "graphics/cake.svg",
-      // cafe:       "graphics/coffee.svg",     // uncomment when it's ready
+      cafe:          "graphics/coffee.svg",    
     };
 
     // =====================================================
@@ -169,13 +172,15 @@
     let filterDefs = "";
     for (const category of Object.keys(ICON_FILES)) {
       const [r, g, b] = toRGB(COLORS[category] || "gray");
+      const k = ALPHA_GAIN;
       filterDefs += `
         <filter id="tint-${category}" color-interpolation-filters="sRGB">
           <feColorMatrix type="matrix" values="
             0 0 0 0 ${r}
             0 0 0 0 ${g}
             0 0 0 0 ${b}
-            -0.2126 -0.7152 -0.0722 1 0"/>
+            ${-0.2126 * k} ${-0.7152 * k} ${-0.0722 * k} ${k} 0"/>
+          <feMorphology operator="dilate" radius="${LINE_THICKEN}"/>
         </filter>`;
     }
     document.body.insertAdjacentHTML("beforeend",
