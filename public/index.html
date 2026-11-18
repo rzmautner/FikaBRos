@@ -36,6 +36,15 @@
       border-radius: 50%;
       box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
     }
+
+    /* "Open now only" checkbox: styled like Leaflet's layers panel */
+    .open-only {
+      background: white;
+      padding: 6px 10px;
+      font: 12px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
+      cursor: pointer;
+    }
+    .open-only input { vertical-align: middle; margin: 0 4px 0 0; }
   </style>
 </head>
 <body>
@@ -48,6 +57,8 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
   <!-- PapaParse: reads the CSV file -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+  <!-- opening_hours.js: understands OpenStreetMap opening-hours text like "Mo-Fr 08:00-18:00" -->
+  <script src="https://openingh.openstreetmap.de/opening_hours.js/opening_hours+deps.min.js"></script>
 
   <script>
     // =====================================================
@@ -70,7 +81,7 @@
       ice_cream:     "green",
     };
 
-    const ICON_SIZE = 20;   
+    const ICON_SIZE = 20;
 
     const ALPHA_GAIN   = 3;     // >1 makes faint lines more solid (1 = as before)
     const LINE_THICKEN = 0.1;   // extra line thickness in pixels (0 = as before)
@@ -82,7 +93,19 @@
       ice_cream:     "graphics/iceCream.svg",
       confectionery: "graphics/candy.svg",
       pastry:        "graphics/cake.svg",
-      cafe:          "graphics/coffee.svg",    
+      cafe:          "graphics/coffee.svg",
+    };
+
+    // Opening hours
+    const HOURS_COLUMN     = "opening_hours";  // CSV column holding OSM opening-hours text
+    const UNKNOWN_OPACITY  = 0.4;              // places with no/unreadable hours are drawn faded
+    const HIDE_UNKNOWN     = false;            // true = "Open now only" also hides unknown-hours places
+    const REFRESH_SECONDS  = 60;               // how often to re-check who is open
+
+    // Where we are, so the library knows Swedish public holidays ("PH off")
+    const HOLIDAY_REGION = {
+      lat: CENTER[0], lon: CENTER[1],
+      address: { country_code: "se", state: "Stockholms län" },
     };
 
     // =====================================================
@@ -154,6 +177,10 @@
       "Fika":       L.layerGroup(),   // cafe, bakery, pastry, confectionery, ice_cream
     };
 
+    // Every marker we draw, with the place it shows and the group it lives in.
+    // (Each place has one marker in "Everything" and one in "Bathroom" or "Fika".)
+    const entries = [];
+
     // Make text safe to show inside the tooltip
     function escapeHtml(text) {
       return String(text).replace(/[&<>"']/g, c =>
@@ -215,6 +242,99 @@
     }
 
     // =====================================================
+    // OPEN OR CLOSED RIGHT NOW?
+    // =====================================================
+
+    // Read a place's hours text once and keep the result on the place.
+    // place.hours ends up as an opening_hours object, or null if missing/unreadable.
+    function readHours(place) {
+      const text = place[HOURS_COLUMN];
+      place.hours = null;
+      if (text == null || String(text).trim() === "") return;
+      try {
+        place.hours = new opening_hours(String(text), HOLIDAY_REGION, { tag_key: "opening_hours" });
+      } catch (err) {
+        console.warn(`Couldn't read hours for ${place.name}: "${text}"`, err);
+      }
+    }
+
+    // "open", "closed" or "unknown"
+    function openStatus(place, now) {
+      if (!place.hours) return "unknown";
+      if (place.hours.getUnknown(now)) return "unknown";
+      return place.hours.getState(now) ? "open" : "closed";
+    }
+
+    // "18:00" if it's today, otherwise "Mon 08:00"
+    function formatTime(date, now) {
+      const time = date.toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit" });
+      if (date.toDateString() === now.toDateString()) return time;
+      return date.toLocaleDateString("en-GB", { weekday: "short" }) + " " + time;
+    }
+
+    // Tooltip text, e.g. "Café Pascal (cafe) · Open, closes 18:00"
+    function tooltipText(place, status, now) {
+      let text = `${escapeHtml(place.name)} (${escapeHtml(place.category)})`;
+      if (status === "unknown") return text + " · Hours unknown";
+
+      const next = place.hours.getNextChange(now);
+      if (status === "open") {
+        text += next ? ` · Open, closes ${formatTime(next, now)}` : " · Open";
+      } else {
+        text += next ? ` · Closed, opens ${formatTime(next, now)}` : " · Closed";
+      }
+      return text;
+    }
+
+    // Fade or un-fade a marker (icons and coloured dots need different calls)
+    function setFaded(marker, faded) {
+      if (marker.setOpacity) {
+        marker.setOpacity(faded ? UNKNOWN_OPACITY : 1);
+      } else {
+        marker.setStyle({
+          opacity: faded ? UNKNOWN_OPACITY : 1,
+          fillOpacity: faded ? UNKNOWN_OPACITY * DOT_OPACITY : DOT_OPACITY,
+        });
+      }
+    }
+
+    let openOnly = false;   // flipped by the checkbox
+
+    // Go through every marker: show/hide it, fade it, update its tooltip
+    function updateOpenStatus() {
+      const now = new Date();   // the visitor's current time
+
+      for (const { place, group, marker } of entries) {
+        const status = openStatus(place, now);
+
+        let show = true;
+        if (openOnly && status === "closed") show = false;
+        if (openOnly && status === "unknown" && HIDE_UNKNOWN) show = false;
+
+        if (show && !group.hasLayer(marker)) group.addLayer(marker);
+        if (!show && group.hasLayer(marker)) group.removeLayer(marker);
+
+        setFaded(marker, status === "unknown");
+        marker.setTooltipContent(tooltipText(place, status, now));
+      }
+    }
+
+    // "Open now only" checkbox, sits under the Everything/Bathroom/Fika panel
+    const OpenOnlyControl = L.Control.extend({
+      options: { position: "topright" },
+      onAdd() {
+        const box = L.DomUtil.create("label", "leaflet-bar open-only");
+        box.innerHTML = `<input type="checkbox"> Open now only`;
+        L.DomEvent.disableClickPropagation(box);   // clicking it shouldn't click the map
+        box.querySelector("input").addEventListener("change", (e) => {
+          openOnly = e.target.checked;
+          updateOpenStatus();
+        });
+        return box;
+      },
+    });
+
+    // =====================================================
     // LOAD THE CSV AND DRAW THE DOTS
     // =====================================================
     Papa.parse(DATA_FILE, {
@@ -226,15 +346,26 @@
         for (const place of results.data) {
           if (place.lat == null || place.lon == null) continue;
 
-          groups["Everything"].addLayer(makeDot(place));
+          readHours(place);
+
+          const everythingDot = makeDot(place);
+          groups["Everything"].addLayer(everythingDot);
+          entries.push({ place, group: groups["Everything"], marker: everythingDot });
 
           const button = place.category === "restroom" ? "Bathroom" : "Fika";
-          groups[button].addLayer(makeDot(place));
+          const buttonDot = makeDot(place);
+          groups[button].addLayer(buttonDot);
+          entries.push({ place, group: groups[button], marker: buttonDot });
         }
 
         // Show "Everything" first, then add the radio-button panel
         groups["Everything"].addTo(map);
         L.control.layers(groups, null, { collapsed: false, position: "topright" }).addTo(map);
+        map.addControl(new OpenOnlyControl());
+
+        // Work out open/closed now, and again every minute
+        updateOpenStatus();
+        setInterval(updateOpenStatus, REFRESH_SECONDS * 1000);
       },
     });
   </script>
