@@ -23,6 +23,34 @@
       font-family: sans-serif;
     }
     header h1 { margin: 0; font-size: 30px; }
+    header { flex-wrap: wrap; }  /* on narrow screens the search bar drops to its own line */
+
+    /* Search bar, pushed to the right end of the header */
+    #search-form { margin-left: auto; display: flex; gap: 6px; }
+    #search-input {
+      width: 260px;
+      padding: 7px 10px;
+      font-size: 15px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    #search-form button {
+      padding: 7px 14px;
+      font-size: 15px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      background: #f4f4f4;
+      cursor: pointer;
+    }
+
+    /* The red pin marking a searched location */
+    .search-pin {
+      box-sizing: border-box;
+      background: #d93025;
+      border: 3px solid white;
+      border-radius: 50%;
+      box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+    }
 
     #map { flex: 1; }            /* map takes all remaining height */
       /* "Show my location" button: matches the + / − zoom buttons */
@@ -51,6 +79,13 @@
     <header>
       <img src="graphics/fikabros-logo.png" alt="FikaBRos logo" style="height: 46px;">
       <h1>FikaBRos. <span style="font-weight: normal;">Fika-as-a-Service.</span></h1>
+
+      <!-- Search bar: type an address or place, press Enter or Go -->
+      <form id="search-form">
+        <input id="search-input" type="search"
+               placeholder="Search a place in Stockholm…" aria-label="Search a place in Stockholm">
+        <button type="submit">Go</button>
+      </form>
   </header>
   <div id="map"></div>
 
@@ -96,11 +131,20 @@
       cafe:          "graphics/coffee.svg",
     };
 
+    // How each category is written in tooltips (the CSV keeps its own spelling)
+    const CATEGORY_LABELS = {
+      ice_cream: "ice cream",
+    };
+
     // Opening hours
     const HOURS_COLUMN     = "opening_hours";  // CSV column holding OSM opening-hours text
     const UNKNOWN_OPACITY  = 0.4;              // places with no/unreadable hours are drawn faded
     const HIDE_UNKNOWN     = false;            // true = "Open now only" also hides unknown-hours places
     const REFRESH_SECONDS  = 60;               // how often to re-check who is open
+
+    // Search bar
+    const SEARCH_ZOOM = 16;                            // how close to zoom in on a search result
+    const SEARCH_AREA = "17.75,59.45,18.35,59.20";     // only search inside this box (west,north,east,south)
 
     // Where we are, so the library knows Swedish public holidays ("PH off")
     const HOLIDAY_REGION = {
@@ -169,6 +213,59 @@
     });
 
     // =====================================================
+    // SEARCH BAR
+    // Sends the typed text to Nominatim (OpenStreetMap's free address search),
+    // which answers with coordinates. Only runs on Enter/Go, never while typing:
+    // Nominatim allows at most one request per second and no autocomplete.
+    // =====================================================
+    let searchPin = null;
+
+    document.getElementById("search-form").addEventListener("submit", async (e) => {
+      e.preventDefault();                                 // don't reload the page
+      const query = document.getElementById("search-input").value.trim();
+      if (query === "") return;
+
+      const url = "https://nominatim.openstreetmap.org/search?" + new URLSearchParams({
+        q: query,
+        format: "jsonv2",
+        limit: 1,                  // just the best match
+        countrycodes: "se",
+        viewbox: SEARCH_AREA,
+        bounded: 1,                // 1 = nothing outside SEARCH_AREA
+      });
+
+      try {
+        const response = await fetch(url);
+        const results = await response.json();
+
+        if (results.length === 0) {
+          alert(`Couldn't find "${query}" in Stockholm.`);
+          return;
+        }
+
+        const found = results[0];
+        const latlng = [Number(found.lat), Number(found.lon)];
+        // Full names are long ("Medborgarplatsen, Södermalm, ..., Sverige"): keep the first two parts
+        const shortName = found.display_name.split(",").slice(0, 2).join(",");
+
+        map.setView(latlng, SEARCH_ZOOM);
+
+        if (searchPin) {
+          // Searched before: move the existing pin
+          searchPin.setLatLng(latlng).setTooltipContent(escapeHtml(shortName));
+        } else {
+          searchPin = L.marker(latlng, {
+            icon: L.divIcon({ className: "search-pin", iconSize: [18, 18] }),
+            zIndexOffset: 900,                    // above the places, below "you are here"
+          }).bindTooltip(escapeHtml(shortName)).addTo(map);
+        }
+        searchPin.openTooltip();
+      } catch (err) {
+        alert("Search didn't work: " + err.message);
+      }
+    });
+
+    // =====================================================
     // ONE GROUP OF DOTS PER BUTTON
     // =====================================================
     const groups = {
@@ -185,6 +282,11 @@
     function escapeHtml(text) {
       return String(text).replace(/[&<>"']/g, c =>
         ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
+    }
+
+    // Category as shown to people: from CATEGORY_LABELS, otherwise "_" → " "
+    function categoryLabel(category) {
+      return CATEGORY_LABELS[category] || String(category).replaceAll("_", " ");
     }
 
         // Turn colour names like "blue" into three numbers between 0 and 1
@@ -227,7 +329,7 @@
     }
 
     function makeDot(place) {
-      const label = `${escapeHtml(place.name)} (${escapeHtml(place.category)})`;
+      const label = `${escapeHtml(place.name)} (${escapeHtml(categoryLabel(place.category))})`;
       const icon = icons[place.category];
 
       if (icon) {
@@ -274,7 +376,7 @@
 
     // Tooltip text, e.g. "Café Pascal (cafe) · Open, closes 18:00"
     function tooltipText(place, status, now) {
-      let text = `${escapeHtml(place.name)} (${escapeHtml(place.category)})`;
+      let text = `${escapeHtml(place.name)} (${escapeHtml(categoryLabel(place.category))})`;
       if (status === "unknown") return text + " · Hours unknown";
 
       const next = place.hours.getNextChange(now);
