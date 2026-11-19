@@ -64,7 +64,14 @@
 
     #map { flex: 1; }            /* map takes all remaining height */
       /* "Show my location" button: matches the + / − zoom buttons */
-    .locate-btn { font-size: 18px; cursor: pointer; }
+    .leaflet-bar a.locate-btn {
+      width: auto; height: auto;          /* Leaflet forces 30×30 by default */
+      padding: 6px 12px;
+      background: #1a73e8; color: white;
+      font: bold 14px/1.4 sans-serif;
+      white-space: nowrap;
+    }
+    .leaflet-bar a.locate-btn:hover { background: #1557b0; color: white; }
 
     /* The blue "you are here" dot */
     .user-dot {
@@ -126,10 +133,10 @@
       ice_cream:     "green",
     };
 
-    const ICON_SIZE = 20;
+    const ICON_SIZE = 22;
 
     const ALPHA_GAIN   = 3;     // >1 makes faint lines more solid (1 = as before)
-    const LINE_THICKEN = 0.1;   // extra line thickness in pixels (0 = as before)
+    const LINE_THICKEN = 0.4;   // extra line thickness in pixels (0 = as before)
 
     // Categories listed here show their drawing; the rest stay coloured dots
     const ICON_FILES = {
@@ -189,7 +196,7 @@
         btn.href = "#";
         btn.title = "Show my location";
         btn.setAttribute("role", "button");
-        btn.innerHTML = "◎";
+        btn.innerHTML = "◎ Use my location";
         L.DomEvent.on(btn, "click", (e) => {
           L.DomEvent.preventDefault(e);
           L.DomEvent.stopPropagation(e);
