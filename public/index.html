@@ -52,6 +52,16 @@
       box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
     }
 
+    /* A place that IS the searched location: its usual icon inside a red ring */
+    .match-highlight {
+      box-sizing: border-box;
+      background: white;
+      border: 3px solid #d93025;
+      border-radius: 50%;
+      padding: 3px;
+      box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+    }
+
     #map { flex: 1; }            /* map takes all remaining height */
       /* "Show my location" button: matches the + / − zoom buttons */
     .locate-btn { font-size: 18px; cursor: pointer; }
@@ -145,6 +155,8 @@
     // Search bar
     const SEARCH_ZOOM = 16;                            // how close to zoom in on a search result
     const SEARCH_AREA = "17.75,59.45,18.35,59.20";     // only search inside this box (west,north,east,south)
+    const MATCH_DISTANCE = 25;   // metres: a search result this close to one of our places IS that place
+    const HIGHLIGHT_SIZE = 32;   // pixels: the ringed icon of a matched place (ring + padding + ICON_SIZE)
 
     // Where we are, so the library knows Swedish public holidays ("PH off")
     const HOLIDAY_REGION = {
@@ -250,16 +262,25 @@
 
         map.setView(latlng, SEARCH_ZOOM);
 
-        if (searchPin) {
-          // Searched before: move the existing pin
-          searchPin.setLatLng(latlng).setTooltipContent(escapeHtml(shortName));
+        // Is the search result one of our own places? Then ring that place instead of dropping a pin.
+        const match = findPlaceAt(latlng);
+        setHighlight(match);
+        const visibleCopy = match && entries.find(en => en.place === match && map.hasLayer(en.marker));
+
+        if (visibleCopy) {
+          if (searchPin) map.removeLayer(searchPin);   // no pin on top of the place
+          visibleCopy.marker.openTooltip();            // shows its name + hours right away
+        } else if (searchPin) {
+          // Searched before: move the existing pin (and put it back if a match had hidden it)
+          searchPin.setLatLng(latlng).setTooltipContent(escapeHtml(shortName)).addTo(map);
+          searchPin.openTooltip();
         } else {
           searchPin = L.marker(latlng, {
             icon: L.divIcon({ className: "search-pin", iconSize: [18, 18] }),
             zIndexOffset: 900,                    // above the places, below "you are here"
           }).bindTooltip(escapeHtml(shortName)).addTo(map);
+          searchPin.openTooltip();
         }
-        searchPin.openTooltip();
       } catch (err) {
         alert("Search didn't work: " + err.message);
       }
@@ -315,16 +336,26 @@
     document.body.insertAdjacentHTML("beforeend",
       `<svg width="0" height="0" style="position:absolute">${filterDefs}</svg>`);
 
-    // Build each icon once; every point of that category reuses it
+    // Build each icon once; every point of that category reuses it.
+    // highlightIcons = the same drawing inside a red ring, for a place that matches a search.
     const icons = {};
+    const highlightIcons = {};
     for (const [category, file] of Object.entries(ICON_FILES)) {
+      const html = `<img src="${file}" alt=""
+                    style="display:block; width:100%; height:100%; filter:url(#tint-${category});">`;
       icons[category] = L.divIcon({
         className: "",                           // removes Leaflet's default white box
-        html: `<img src="${file}" alt=""
-                    style="width:100%; height:100%; filter:url(#tint-${category});">`,
+        html,
         iconSize: [ICON_SIZE, ICON_SIZE],
         iconAnchor: [ICON_SIZE / 2, ICON_SIZE / 2],
         tooltipAnchor: [ICON_SIZE / 2, 0],
+      });
+      highlightIcons[category] = L.divIcon({
+        className: "match-highlight",            // red ring, see the <style> block
+        html,
+        iconSize: [HIGHLIGHT_SIZE, HIGHLIGHT_SIZE],
+        iconAnchor: [HIGHLIGHT_SIZE / 2, HIGHLIGHT_SIZE / 2],
+        tooltipAnchor: [HIGHLIGHT_SIZE / 2, 0],
       });
     }
 
@@ -341,6 +372,39 @@
       return L.circleMarker([place.lat, place.lon], {
         radius: DOT_RADIUS, color, fillColor: color, fillOpacity: DOT_OPACITY,
       }).bindTooltip(label);
+    }
+
+    // =====================================================
+    // SEARCH RESULT = ONE OF OUR PLACES?
+    // =====================================================
+
+    // The closest place within MATCH_DISTANCE metres of latlng, or null if none is that close.
+    // map.distance works in metres, so the threshold means the same thing north–south and east–west.
+    function findPlaceAt(latlng) {
+      let best = null;
+      let bestDistance = MATCH_DISTANCE;
+      for (const { place } of entries) {
+        const d = map.distance(latlng, [place.lat, place.lon]);
+        if (d <= bestDistance) { best = place; bestDistance = d; }
+      }
+      return best;
+    }
+
+    let highlighted = null;   // the place currently ringed, if any
+
+    // Ring `place` (both of its markers), and un-ring whatever was ringed before. null = ring nothing.
+    function setHighlight(place) {
+      for (const { place: p, marker } of entries) {
+        if (p !== place && p !== highlighted) continue;   // only touch the old and new place
+        const on = (p === place);
+        if (marker.setIcon) {
+          marker.setIcon(on ? highlightIcons[p.category] : icons[p.category]);
+          marker.setZIndexOffset(on ? 800 : 0);           // ringed place sits above its neighbours
+        } else {
+          marker.setRadius(on ? DOT_RADIUS * 2 : DOT_RADIUS);   // plain dots just grow
+        }
+      }
+      highlighted = place;
     }
 
     // =====================================================
